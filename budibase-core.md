@@ -34,6 +34,18 @@ A record is the fundamental unit of data in Budibase. Records are stored as JSON
 
 A Budibase record will always have a "key" member. The key is used to determine the record's type, and thus its schema.
 
+**Heirarchy**
+
+Your database schema are organised in a tree structure. Each node, except for the root, is a record node. 
+
+Below shows an example heirarchy:
+
+![Example Heirarchy](./assets/budibase-core/example-heirarchy.png)
+
+In this example, the "customer invoice" node is a child of "customer". Thus, records of this type will always have a key in the format:
+
+`/customers/{parent customer id}/invoices/{invoice id}` 
+
 ### Indexes
 
 An index is the only way to retrieve collections of records, i.e. a json array of records. When a record is created, updated or deleted, an index is updated.
