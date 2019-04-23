@@ -109,6 +109,36 @@ Some examples of potential datastore implementations:
 - MongoDb. Keys and Documents
 - Dropbox. Same as filesystem
 
+### Behaviours
+
+Behaviors are how we write custom backend code for Budibase. A behaviour 
+
+- Is a javascript function, that takes one argument
+- Lives inside a javascript module. We refer to this module as a "Behaviour Source"
+- Behaviour sources are passed into budibase-core when the library is initialised
+
+Your behaviour source will be imported into your budibase backend.
+
+### Actions 
+
+Actions are how you integrate custom backend code into your Budibase application. Actions are used to run behaviours. Actions have the following properties:
+
+- Name. Should be unique, it is how your action is identified and called. In Budibase-web, your action will be callable via a url in the format `POST /api/actions/<action name>` . 
+- Behaviour Source. The name of the javascript module that the behaviour resides in.
+- Behaviour Name. The name of the behaviour to run
+- Initial Options. A default argument for the behaviour. The caller of the action can supply partially completed argument, which will be completed by these Initial Options.
+
+### Triggers
+
+Triggers are used to automatically run actions, after certain application events. A full list of applications events can be found in https://github.com/Budibase/budibase-core/blob/master/src/common/events.js
+
+Triggers have the following properties:
+
+- Action Name. The action to run.
+- Event Name. The event that will trigger the action.
+- Condition. A javascript expression, used to determine whether the action should be run or not.
+- Options Creator. A javascript expression used to create the behaviour "options" i.e. the argument to the behaviour.
+
 ## Runtime Responsibilities
 
 On the web server:
@@ -126,4 +156,8 @@ In the application front end (browser):
 - Disables/Enables features and actions in the UI, based on a user's access levels
 - Knows which fields are available on indexes, for searching and displaying of collections of data records
 - When a record is created/updated/deleted, knows which indexes should change, and can update views accordingly, without having to refetch an index.
+
+## API
+
+Budibase core is split into 
 
