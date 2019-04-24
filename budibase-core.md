@@ -159,5 +159,13 @@ In the application front end (browser):
 
 ## API
 
-Budibase core is split into 
+Budibase core is divided into five apis. 
+
+- [Record API](https://github.com/Budibase/budibase-core/blob/master/src/recordApi/index.js). For all CRUD operations on records
+- [Index API](https://github.com/Budibase/budibase-core/blob/master/src/indexApi/index.js). For listing contents and searching indexes
+- [Auth API](https://github.com/Budibase/budibase-core/blob/master/src/authApi/index.js). For user authentication and authorization
+- [Collection API](https://github.com/Budibase/budibase-core/blob/master/src/collectionApi/index.js). For iterating through all records in a collection (mainly used for rebuilding indexes)
+- [Template API](https://github.com/Budibase/budibase-core/blob/master/src/templateApi/index.js). For constucting the Budibase App Definition
+
+
 
