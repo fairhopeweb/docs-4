@@ -1,4 +1,4 @@
-# Sometimes Asked Questions
+# Frequently Asked Questions
 
 Just adding questions and answers as we go here...
 
@@ -15,6 +15,8 @@ Having used Svelte to build Budibase, whilst simultaneously using React in my da
 ### How does Budibase differ from Framer (and Storybook and Modulz etc)
 
 As far as I can tell (without much research into them), they are front end builders. Their output if HTML, CSS and JS.
+
+Budibase if more like Framer + Firebase + API Calls to Firebase + Data binding in the front end.
 
 The Budibase builder is a full stack app builder. You build
 - A backend
