@@ -6,7 +6,7 @@ Just adding questions and answers as we go here...
 
 One goal of Budibase's front end is to be framework agnostic. We want people to be able to write their own components, however they please, when there are not pre-built options for them.
 
-Svelte compiles down to vanilla javascript at build time - the Svelte library is not actually included in your build. This makes it perfect for us to build our standard components and librarys with. Components built with svelte have no dependencies, therefore there can be now version clashes. 
+Svelte compiles down to vanilla javascript at build time - the Svelte library is not actually included in your build. This makes it perfect for us to build our standard components and librarys with. Components built with svelte have no dependencies, therefore there can be no version clashes. 
 
 Technically, we did not have to build the Budibase builder in Svelte - as the builder itself does not get packaged with a Budibase app. However, I felt it was wise to use Svelte anyway, for consistency and to build that experience.
 
@@ -26,7 +26,9 @@ The Budibase builder is a full stack app builder. You build
 
 - A Front End
     - Import Budibase component librarys from NPM, or write your own
-    - Using the Builder (visually) create "inherited" components... e.g. using the budibase "Button" component, create a "Primary Button" - with styles applied the the button
+    - Import styleshees, e.g. Bootstrap
+    - Setup event handlers (e.g. onClick, onLoad..) - from a predefined list of handler, which are mostly API calls (e.g. "Save Record")
+    - Using the Builder (visually) create "inherited" components... e.g. using the budibase "Button" component, create a "Primary Button" - with styles applied to the button
     - Combine components to make more complex components ... e.g. "Customer Record"
 
 Once you've built your app, you get:
@@ -47,7 +49,9 @@ Once you've built your app, you get:
 
 ### Budibase scaling models - aka "Why can't I build Facebook ? "
 
-Budibase is designed for a specific scaling model. Simply put, its "Many smaller instances". By "smaller", I mean not Facebook, Amazon. Budibase is intended to be able to handle a very large amount of instances (=databases), each databse having potentially low-thousands of users.
+Budibase is designed for a specific scaling model. Simply put, its "Many smaller instances". 
+
+By "smaller", I mean not Facebook, Amazon. Budibase is intended to be able to handle a very large amount of instances (=databases), each databse having potentially low-thousands of users.
 
 A bit like Salesforce. When you create a Salesforce instance - this instance is your data only, physically separated from other instances.
 
