@@ -21,20 +21,20 @@ The file will take the overall structure of
 
 ```json
 {
-    /* path to your built javascript package */
+    // path to your built javascript package 
     "_lib": "./dist/index.js", 
     
-    /* generators for the library */
+    // generators for the library 
     "_generators": {
-    	/* keyed by generator name */
+    	// keyed by generator name 
         "form": {
-            /* see later for generator json API */
+            // see later for generator json API 
         }
     },
     
-    /* Every other key refers to a component, exported by the file in '_lib'  */
+    // Every other key refers to a component, exported by the file in '_lib'  
     "textInput" : {
-    	/* see later for json API */    
+    	// see later for json API 
     },
     
     "datePicker" : {
@@ -53,21 +53,21 @@ The JSON of a single component (within `components.json`) should take the follow
 
 ```json
 {
-    /* key should refer to a component, exported from your javascript package */
+    // key should refer to a component, exported from your javascript package 
     "button" : {
         
-        /* The name of the component, as displayed in Budibase builder */
+        // The name of the component, as displayed in Budibase builder 
 		"name": "Button", 
         
-        /* A longer description of the component */
+        // A longer description of the component 
 		"description": "an html <button /> tag",
         
-        /* a collection of properties that can be set from the builder */
+        // a collection of properties that can be set from the builder 
 		"props": {
             
-            /* some example properties - see below for property definitions 
-            these keys should correspond to writeable properties, exposed by
-            your component */
+            // some example properties - see below for property definitions 
+            // these keys should correspond to writeable properties, exposed by
+            // your component 
 			"contentText": "string",
 			"contentComponent": "component",
 			"className": {"type": "string", "default": "default"},
@@ -87,20 +87,19 @@ Component properties take the form
 ```json
 "propertyName" : { 
     
-    /* the type of the property. This determines which control will be used 
-    to set the property, inside the builder. All types are listed below */
+    // the type of the property. This determines which control will be used 
+    // to set the property, inside the builder. All types are listed below 
     "type" : "string", 
     
-    /* the initial value set, and a new component is created in the builder */
+    // the initial value set, and a new component is created in the builder 
     "default": "some value ",
     
-    /* This only applies to when type="options". A collection of allowed values.
-    The user will use a dropdown to select one of these, from the builder
-    */
+    // This only applies to when type="options". A collection of allowed values.
+    // The user will use a dropdown to select one of these, from the builder
     "options": ["red", "blue", "yellow"],
     
-    /* Applies when type="array". A JSON object defining properties of 
-    each element in an array*/
+    // Applies when type="array". A JSON object defining properties of 
+    // each element in an array
     "elementDefinition": { /* keyed prop definitions*/ }
     
 }
@@ -128,13 +127,13 @@ Property types:
 Below is an example generator definition:
 
 ```json
-/* name of exported generator, from _lib file */
+// name of exported generator, from _lib file 
 "app": {
 
-	/* how the generator is named within the builder */
+	// how the generator is named within the builder 
 	"name": "Full Application",
     
-    /* longer description of the generator, displayed in the builder */
+    // longer description of the generator, displayed in the builder 
 	"description": "Generate app based on your backend"
 }
 ```
