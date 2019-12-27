@@ -21,25 +21,25 @@ The file will take the overall structure of
 
 ```javascript
 {
-    // path to your built javascript package 
-    "_lib": "./dist/index.js", 
+  // path to your built javascript package 
+  "_lib": "./dist/index.js", 
     
-    // generators for the library 
-    "_generators": {
-    	// keyed by generator name 
-        "form": {
-            // see later for generator json API 
-        }
-    },
+  // generators for the library 
+  "_generators": {
+    // keyed by generator name 
+    "form": {
+        // see later for generator json API 
+     }
+  },
     
-    // Every other key refers to a component, exported by the file in '_lib'  
-    "textInput" : {
-    	// see later for json API 
-    },
+  // Every other key refers to a component, exported by the file in '_lib'  
+  "textInput" : {
+      // see later for json API 
+  },
     
-    "datePicker" : {
+  "datePicker" : {
         
-    }
+  }
 }
 ```
 
@@ -53,28 +53,28 @@ The JSON of a single component (within `components.json`) should take the follow
 
 ```javascript
 {
-    // key should refer to a component, exported from your javascript package 
-    "button" : {
+  // key should refer to a component, exported from your javascript package 
+  "button" : {
         
-        // The name of the component, as displayed in Budibase builder 
-		"name": "Button", 
+    // The name of the component, as displayed in Budibase builder 
+	"name": "Button", 
         
-        // A longer description of the component 
-		"description": "an html <button /> tag",
+    // A longer description of the component 
+	"description": "an html <button /> tag",
         
-        // a collection of properties that can be set from the builder 
-		"props": {
+    // a collection of properties that can be set from the builder 
+	"props": {
             
-            // some example properties - see below for property definitions 
-            // these keys should correspond to writeable properties, exposed by
-            // your component 
-			"contentText": "string",
-			"contentComponent": "component",
-			"className": {"type": "string", "default": "default"},
-			"disabled": "bool",
-			"onClick": "event"
-		}
-    }
+      // some example properties - see below for property definitions 
+      // these keys should correspond to writeable properties, exposed by
+      // your component 
+	  "contentText": "string",
+	  "contentComponent": "component",
+	  "className": {"type": "string", "default": "default"},
+	  "disabled": "bool",
+	  "onClick": "event"
+	}
+  }
 }
 ```
 
@@ -87,20 +87,20 @@ Component properties take the form
 ```javascript
 "propertyName" : { 
     
-    // the type of the property. This determines which control will be used 
-    // to set the property, inside the builder. All types are listed below 
-    "type" : "string", 
+  // the type of the property. This determines which control will be used 
+  // to set the property, inside the builder. All types are listed below 
+  "type" : "string", 
     
-    // the initial value set, and a new component is created in the builder 
-    "default": "some value ",
+  // the initial value set, and a new component is created in the builder 
+  "default": "some value ",
     
-    // This only applies to when type="options". A collection of allowed values.
-    // The user will use a dropdown to select one of these, from the builder
-    "options": ["red", "blue", "yellow"],
+  // This only applies to when type="options". A collection of allowed values.
+  // The user will use a dropdown to select one of these, from the builder
+  "options": ["red", "blue", "yellow"],
     
-    // Applies when type="array". A JSON object defining properties of 
-    // each element in an array
-    "elementDefinition": { /* keyed prop definitions*/ }
+  // Applies when type="array". A JSON object defining properties of 
+  // each element in an array
+  "elementDefinition": { /* keyed prop definitions*/ }
     
 }
 ```
@@ -130,11 +130,11 @@ Below is an example generator definition:
 // name of exported generator, from _lib file 
 "app": {
 
-	// how the generator is named within the builder 
-	"name": "Full Application",
+  // how the generator is named within the builder 
+  "name": "Full Application",
     
-    // longer description of the generator, displayed in the builder 
-	"description": "Generate app based on your backend"
+  // longer description of the generator, displayed in the builder 
+  "description": "Generate app based on your backend"
 }
 ```
 
