@@ -19,7 +19,7 @@ This file is not used at runtime, by your built app - it is only used to describ
 
 The file will take the overall structure of
 
-```json
+```javascript
 {
     // path to your built javascript package 
     "_lib": "./dist/index.js", 
@@ -51,7 +51,7 @@ The file will take the overall structure of
 
 The JSON of a single component (within `components.json`) should take the following structure
 
-```json
+```javascript
 {
     // key should refer to a component, exported from your javascript package 
     "button" : {
@@ -84,7 +84,7 @@ The JSON of a single component (within `components.json`) should take the follow
 
 Component properties take the form 
 
-```json
+```javascript
 "propertyName" : { 
     
     // the type of the property. This determines which control will be used 
@@ -126,7 +126,7 @@ Property types:
 
 Below is an example generator definition:
 
-```json
+```javascript
 // name of exported generator, from _lib file 
 "app": {
 
