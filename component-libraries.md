@@ -55,7 +55,7 @@ The JSON of a single component (within `components.json`) should take the follow
 {
   // key should refer to a component, exported from your javascript package 
   "button" : {
-        
+    
     // The name of the component, as displayed in Budibase builder 
 	"name": "Button", 
         
