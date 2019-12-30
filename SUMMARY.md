@@ -19,8 +19,8 @@
 ## 🔧 Technical
 
 * [Component Libraries](component-libraries/README.md)
-  * [Components.json](component-libraries/1-components-json)
-  * [Component JSON API](component-libraries/2-component-json-api.md) 
+  * [Components.json](component-libraries/1-components-json.md)
+  * [Component JSON API](component-libraries/2-component-json-api.md)
   * [Generator JSON API](component-libraries/3-generator-json-api.md)
 * [Budibase Core](budibase-core.md)
 
