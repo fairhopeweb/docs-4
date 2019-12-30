@@ -12,7 +12,7 @@
 
 ## 📘 User Guide
 
-- [Getting Started](getting-started/getting-started-users.md)
+- [Getting Started](user-guide/getting-started-users.md)
 
 
 
