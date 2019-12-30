@@ -6,4 +6,8 @@ Our mission is to enable application you to build the common, repetitive feature
 
 ###### This is a work in progress
 
-Buidbase is in development, as are these docs! 
+Budibase is in development, as are these docs! 
+
+To raise an issue, or make a pull request against these docs, do so at https://github.com/budibase/docs
+
+Read these docs in full at https://docs.budibase.com
