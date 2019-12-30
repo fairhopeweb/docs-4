@@ -17,7 +17,10 @@
     * [Instance](glossary/instance.md)
     * [Record](glossary/record.md)
     * [Trigger](glossary/trigger.md)
-* [Frequently Asked Questions](frequently-asked-questions.md)
+* [Frequently Asked Questions](faq/README.md)
+    * [Why did we pick Svelte?](faq/why-svelte.md)
+    * [How does Budibase differ from other low/no-code platforms?](faq/how-do-we-differ-from-others.md)
+    * [Can I build Facebook / AirBnB ?](faq/why-cant-i-build-facebook.md)
 
 
 
