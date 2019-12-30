@@ -1,5 +1,7 @@
 # How comfortable am I with writing code ?
 
+![required skill level](../assets/is-budibase-for-me/skill-level.jpg)
+
 We have been surveying our signups, asking the question:
 
 > How comfortable are you with writing code ? **1**=Not Comfortable at all .... **5**=Very Comfortable
