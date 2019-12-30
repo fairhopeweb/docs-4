@@ -25,3 +25,5 @@ We want to get you past these common features within hours. Then, (if you need t
 With the Budibase builder, you can use a GUI (the "Budibase Builder") to build out the basics of your backend. Then, using a combination of the builder and component libraries, application themes and templates, you build out your frontend. 
 
 You may then customise your backend using Nodejs, and your frontend using your favourite JavaScript and CSS frameworks.
+
+![budibase solution overview](./assets/overview/problem-space.jpg)
