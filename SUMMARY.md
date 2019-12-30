@@ -6,6 +6,17 @@
 * [Is Budibase for Me ?](is-budibase-for-me/README.md)    
     * [How comfortable am I with writing code?](is-budibase-for-me/1-skill-level-required.md)
     * [Is my app a good fit?](is-budibase-for-me/2-is-my-app-a-good-fit.md)
+* [Glossary](glossary/README.md)
+    * [Action](glossary/action.md)
+    * [Behaviour](glossary/behaviour.md)
+    * [Collection](glossary/collection.md)
+    * [Datastore](glossary/datastore.md)
+    * [Field](glossary/field.md)
+    * [Hierarchy](glossary/hierarchy.md)
+    * [Index](glossary/index.md)
+    * [Instance](glossary/instance.md)
+    * [Record](glossary/record.md)
+    * [Trigger](glossary/trigger.md)
 * [Frequently Asked Questions](frequently-asked-questions.md)
 
 
