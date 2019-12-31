@@ -1,14 +1,23 @@
-# What is Budibase
+---
+description: >-
+  Budibase is an open source, low-code platform, for creating full stack web
+  applications.
+---
 
-Budibase is an [open source](https://github.com/Budibase/budibase), low-code platform, for creating full stack web applications.
+# Introduction
 
-Our mission is to enable you to build the common, repetitive features of your application in hours - allowing you to spend your time on the exciting parts that make your product unique.
+### 
 
-## This is a work in progress
+### Get Started
 
-Budibase is in development, as are these docs!
+There are two main ways to get started with Budibase:
 
-To raise an issue, or make a pull request against these docs, do so at [https://github.com/budibase/docs](https://github.com/budibase/docs)
+1. Tutorial: Step-by-step instructions on how to install Budibase and start a new project: written for developers with no Budibase experience. Many non-developers/citizen developers have also completed the tutorial.
+2. Quick start: For the speedsters out there who like to jump right in, we have a one-page quick start guide for you: written for more experience developers.
 
-Read these docs in full at [https://docs.budibase.com](https://docs.budibase.com)
+
+
+### Make a contribution
+
+We're extremely thankful and proud of our hard-working community. Visit the contribution section to find guides on the Budibase community, code of conduct, and how to get started contributing to Budibase. 
 

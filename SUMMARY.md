@@ -1,11 +1,12 @@
 # Table of contents
 
-* [What is Budibase](README.md)
+* [Introduction](README.md)
 
 ## 💡 About
 
+* [What is Budibase](about/what-is-budibase.md)
 * [Our Purpose](purpose.md)
-* [Is Budibase right for me?](about/is-budibase-for-me/README.md)
+* [Is Budibase right for me?](about/is-budibase-right-for-me/README.md)
   * [How comfortable am I with writing code?](is-budibase-for-me/1-skill-level-required.md)
   * [Is my app a good fit?](is-budibase-for-me/2-is-my-app-a-good-fit.md)
 * [Web Server Architecture](architecture.md)
