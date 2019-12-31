@@ -1,6 +1,6 @@
 # Collection
 
-A collection refers to all records of a particular type. 
+A collection refers to all records of a particular type.
 
 If we have to following record keys:
 

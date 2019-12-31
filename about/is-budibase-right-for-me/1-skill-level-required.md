@@ -1,12 +1,12 @@
-# How comfortable am I with writing code ?
+# How comfortable am I with writing code?
 
-![required skill level](./skill-level.jpg)
+![required skill level](../../.gitbook/assets/skill-level%20%281%29.jpg)
 
 We have been surveying our signups, asking the question:
 
 > How comfortable are you with writing code ? **1**=Not Comfortable at all .... **5**=Very Comfortable
 
-**Eventually**, we want Budibase to be able to serve people who answered 2,3,4 and 5. 
+**Eventually**, we want Budibase to be able to serve people who answered 2,3,4 and 5.
 
 **We are starting** with the 4s and 5s.
 
@@ -16,7 +16,7 @@ How we would describe these levels....
 
 Someone with real world software development experience
 
-Someone who has completed a programming educational course. A degree, bootcamp, self taught course 
+Someone who has completed a programming educational course. A degree, bootcamp, self taught course
 
 Someone who has contributed code to open source.
 
@@ -28,4 +28,5 @@ A systems administrator, who sometimes has to understand/piece together a shell 
 
 A business IT person who loves to hack away with spreadsheet formulas
 
-Basically anyone who has a a little coding exposure, but is not afraid to learn 
+Basically anyone who has a a little coding exposure, but is not afraid to learn
+
