@@ -8,6 +8,7 @@
 * [Is Budibase for Me ?](is-budibase-for-me/README.md)
   * [How comfortable am I with writing code?](is-budibase-for-me/1-skill-level-required.md)
   * [Is my app a good fit?](is-budibase-for-me/2-is-my-app-a-good-fit.md)
+* [Web Server Architecture](architecture.md)
 * [Glossary](glossary/README.md)
   * [Action](glossary/action.md)
   * [Behaviour](glossary/behaviour.md)
