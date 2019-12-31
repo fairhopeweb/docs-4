@@ -12,6 +12,7 @@
 * [Glossary](glossary/README.md)
   * [Action](glossary/action.md)
   * [Application](glossary/application.md)
+  * [Application Package](glossary/application-package.md)
   * [Behaviour](glossary/behaviour.md)
   * [Collection](glossary/collection.md)
   * [Datastore](glossary/datastore.md)
