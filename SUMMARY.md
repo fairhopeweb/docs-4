@@ -7,7 +7,6 @@
 * [What is Budibase](about/what-is-budibase.md)
 * [Our Purpose](about/purpose.md)
 * [Is Budibase right for me?](about/is-budibase-right-for-me/README.md)
-  * [How comfortable am I with writing code?](about/is-budibase-right-for-me/1-skill-level-required.md)
   * [Is my app a good fit?](about/is-budibase-right-for-me/2-is-my-app-a-good-fit.md)
 * [Web Server Architecture](about/architecture.md)
 * [Glossary](about/glossary/README.md)
