@@ -99,3 +99,19 @@ _bb.getStateOrValue( _bb.props.title )
 ##### Arguments
 
 `propValue`: a static value, or binding expression
+
+### isBound - function
+
+Checks whether the prop is a binding expression. If the value of the prop is bound to a state object property, isBound will return true. 
+
+`isBound(property)` is often used in conjunction with `setStateFromBinding(stateProperty, value)`:
+
+```javascript
+if (_bb.isBound(_bb.props.checked)) {
+      _bb.setStateFromBinding(_bb.props.checked, value)
+    }
+```
+
+#### Arguments
+
+`property`: property on `_bb.props` to check for a binding expression. 
