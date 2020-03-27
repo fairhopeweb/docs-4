@@ -39,5 +39,6 @@
   * [Components.json](technical/component-libraries/1-components-json.md)
   * [Component JSON API](technical/component-libraries/2-component-json-api.md)
   * [Generator JSON API](technical/component-libraries/3-generator-json-api.md)
+  * [_bb - budibase client API](technical/component-libraries/4-bb-budibase-client-api.md)
 * [Budibase Core](technical/budibase-core.md)
 
