@@ -108,8 +108,8 @@ Checks whether the prop is a binding expression. If the value of the prop is bou
 
 ```javascript
 if (_bb.isBound(_bb.props.checked)) {
-      _bb.setStateFromBinding(_bb.props.checked, value)
-    }
+  _bb.setStateFromBinding(_bb.props.checked, value)
+}
 ```
 
 #### Arguments
