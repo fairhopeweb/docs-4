@@ -29,7 +29,7 @@ original props as defined by the builder. if this includes binding expressions, 
  used to call an event on the component... e.g. 
 
 ```javascript
-_bb.call("onClick", { message: "hello!" })
+_bb.call(onClick, { message: "hello!" })
 ```
 
 ##### Arguments
