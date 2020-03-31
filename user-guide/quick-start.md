@@ -1,42 +1,48 @@
 # Quick Start
 
-## 1. Prerequisites \(for nodegyp\)
+## 0. Pre-requisites
 
-We will try to make this bit easier, but for now:
+Install the latest version of NodeJS https://nodejs.org
 
-* Windows  - [https://github.com/nodejs/node-gyp\#on-windows](https://github.com/nodejs/node-gyp#on-windows)
-* Ubuntu `sudo apt-get install build-essentials`
-* Mac: [https://github.com/nodejs/node-gyp\#on-macos](https://github.com/nodejs/node-gyp#on-macos)
+## **1. NPM - Global install budibase**
 
-## 2. Global install budibase
+```
+npm install -g budibase
+```
 
-`npm install -g budibase`
 
-## 3. Start using Budibase
+
+## **2. Initialise your Budibase**
 
 Create a directory to store your Budibase apps
 
-`mkdir my-budibase`
+```
+mkdir my-budibase
+```
 
-`cd my-budibase`
+```
+cd my-budibase
+```
 
 Initialise Budibase in current directory
 
-`budi init`
+```
+budi init
+```
 
 Create a new Budibase app
 
-`budi new my-app`
+```
+budi new my-app
+```
 
-Run Budibase
+## **3. Run Budibase**
 
-`budi`
+```
+budi
+```
 
-You can now access the Budibase builder on [http://localhost:4001/\_builder](http://localhost:4001/_builder)
+You can now access the Budibase builder on http://localhost:4001/_builder
 
 Start building!
-
-Once you have created your app, you need to create yourself an instance of your app \(i.e. a database\)
-
-`budi instance my-app`
 
