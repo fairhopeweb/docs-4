@@ -32,6 +32,10 @@
 ## 📘 User Guide
 
 * [Quick Start](user-guide/quick-start.md)
+* [Create Your App](/user-guide/create-app.md)
+* [Design your Backend](/user-guide/backend/README.md)
+  * [Create a Model](/user-guide/backend/create-a-model.md)
+  * [Add Fields to your Model](/user-guide/backend/add-fields-to-model.md)
 
 ## 🔧 Technical
 
