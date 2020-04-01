@@ -36,6 +36,8 @@
 * [Design your Backend](/user-guide/backend/README.md)
   * [Create a Model](/user-guide/backend/create-a-model.md)
   * [Add Fields to your Model](/user-guide/backend/add-fields-to-model.md)
+  * [The Default View](/user-guide/backend/default-view.md)
+  * [Child Records](/user-guide/backend/child-records.md)
 
 ## 🔧 Technical
 
