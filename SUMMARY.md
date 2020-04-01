@@ -2,6 +2,16 @@
 
 * [Introduction](README.md)
 
+## 📘 Tutorial
+
+* [Quick Start](user-guide/quick-start.md)
+* [Create Your App](/user-guide/create-app.md)
+* [Design your Backend](/user-guide/backend/README.md)
+  * [Create a Model](/user-guide/backend/create-a-model.md)
+  * [Add Fields to your Model](/user-guide/backend/add-fields-to-model.md)
+  * [The Default View](/user-guide/backend/default-view.md)
+  * [Child Records](/user-guide/backend/child-records.md)
+
 ## 💡 About
 
 * [What is Budibase](about/what-is-budibase.md)
@@ -28,16 +38,6 @@
   * [Why did we pick Svelte?](about/faq/why-svelte.md)
   * [How does Budibase differ from other low/no-code platforms?](about/faq/how-do-we-differ-from-others.md)
   * [Can I build Facebook / AirBnB ?](about/faq/why-cant-i-build-facebook.md)
-
-## 📘 User Guide
-
-* [Quick Start](user-guide/quick-start.md)
-* [Create Your App](/user-guide/create-app.md)
-* [Design your Backend](/user-guide/backend/README.md)
-  * [Create a Model](/user-guide/backend/create-a-model.md)
-  * [Add Fields to your Model](/user-guide/backend/add-fields-to-model.md)
-  * [The Default View](/user-guide/backend/default-view.md)
-  * [Child Records](/user-guide/backend/child-records.md)
 
 ## 🔧 Technical
 
