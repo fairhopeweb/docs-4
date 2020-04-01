@@ -11,6 +11,8 @@
   * [Add Fields to your Model](/user-guide/backend/add-fields-to-model.md)
   * [The Default View](/user-guide/backend/default-view.md)
   * [Child Records](/user-guide/backend/child-records.md)
+  * [Create a Database](/user-guide/backend/create-a-database.md)
+  * [Managing Test Data](/user-guide/backend/managing-test-data.md)
 
 ## 💡 About
 
