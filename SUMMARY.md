@@ -13,6 +13,7 @@
   * [Child Records](/user-guide/backend/child-records.md)
   * [Create a Database](/user-guide/backend/create-a-database.md)
   * [Managing Test Data](/user-guide/backend/managing-test-data.md)
+  * [User Access Levels](/user-guide/backend/user-access-levels.md)
 
 ## 💡 About
 
