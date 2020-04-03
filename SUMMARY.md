@@ -14,6 +14,9 @@
   * [Create a Database](/user-guide/backend/create-a-database.md)
   * [Managing Test Data](/user-guide/backend/managing-test-data.md)
   * [User Access Levels](/user-guide/backend/user-access-levels.md)
+* [Design your Frontend](/user-guide/frontend/README.md)
+  * [Page Layout](/user-guide/frontend/page-layout.md)
+  * [Adding Components](/user-guide/frontend/adding-components.md)
 
 ## 💡 About
 
