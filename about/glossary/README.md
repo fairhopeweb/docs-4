@@ -1,4 +1,4 @@
 # Glossary
 
-This is a alphabetised reference for all terms used in Budibase.
+This is an alphabetised reference for all terms used in Budibase.
 

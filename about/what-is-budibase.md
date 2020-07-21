@@ -2,7 +2,7 @@
 
 Budibase is an [open source](https://github.com/Budibase/budibase), low-code platform, for creating full stack web applications.
 
-Our mission is to enable you to build the common, repetitive features of your application in hours - allowing you to spend your time on the exciting parts that make your product unique.
+Our mission is to enable you to build the common, repetitive features of your application in hours. This lets you spend your time on the exciting parts that make your product unique.
 
 ## This is a work in progress
 

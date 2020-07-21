@@ -1,9 +1,9 @@
 # Record
 
-A record is the fundamental unit of data in Budibase. Records are stored as JSON. A record has a schema, that is defined in the app definition. The record's schema will define
+A record is the fundamental unit of data in Budibase. Records are stored as JSON. A record has a schema, that is defined in the app definition. The record's schema will define:
 
 1. Fields. Every field must be declared, and will consist of
-   * Name. e.g. "last\_name". This is the name of the member, as store in JSON
+   * Name. e.g. "last\_name". This is the name of the member, as stored in JSON
    * Label. e.g. "Last Name". What the field will be labelled in the user interface
    * Type. e.g. "string". Types are listed below
    * TypeOptions. See types below

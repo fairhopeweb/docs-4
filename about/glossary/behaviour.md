@@ -1,6 +1,6 @@
 # Behaviour
 
-Behaviors are how we write custom backend code for Budibase. A behaviour
+Behaviors are how we write custom backend code for Budibase. A behaviour:
 
 * Is a javascript function, that takes one argument
 * Lives inside a javascript module. We refer to this module as a "Behaviour Source"

@@ -9,5 +9,5 @@ In a few statements...
 * Each instance will have one or more users attached
 * The Budibase admin application \(a single instance\), will store data about all applications, versions, users and sessions
 
-![budibase web server architecture](../.gitbook/assets/architecture.jpg)
+![Budibase web server architecture](../.gitbook/assets/architecture.jpg)
 
