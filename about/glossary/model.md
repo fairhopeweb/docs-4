@@ -16,4 +16,4 @@ A model is the fundamental unit of data in Budibase. Records are stored as JSON.
 6. Children. A model may have child models. E.g. "Invoice" may belong to "Customer". See "Heirarchy" below.
 7. Views. Used to keep a retrievable list of the record's decendants \(children, grandchildren etc...\). See "Views" below.
 
-A Budibase record will always have a "key" member. The key is used to determine the record's model<Paste>
+A Budibase record will always have a "key" member. The key is used to determine the record's model
