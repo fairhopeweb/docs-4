@@ -8,7 +8,7 @@ A record is the fundamental unit of data in Budibase. Records are stored as JSON
    * Type. e.g. "string". Types are listed below
    * TypeOptions. See types below
    * InitialValue. e.g. "\(unknown\)". The initial value on a new record 
-   * DefaultValue. e.g. "\(not set\)". The value taken if the the loaded JSON object is missing this field.
+   * DefaultValue. e.g. "\(not set\)". The value taken if the loaded JSON object is missing this field.
 2. Validation Rules. A set of rules, written in javascript, which are run when a record is created or updated.
 3. Collection Name. This defines the "key" \(and therefore URL\) of the record. e.g. "customers", may cause a record to have a key of "/**customers**/0-6shd8uu""
 4. Record Node Id. Each record type will have its own unique integer. this is used to for the record's key. e.g. "/customer/**0**-6shd8uu".

@@ -2,7 +2,7 @@
 
 You will only need to know this information if you are trying to create Budibase components using an unsupported Javascript framework. Currently we support Svelte, but intend to add more in the future.
 
-All Budibase components are initialised (by the Budibase client library) using the following interface. Your components must implement this interface.
+All Budibase components are initialised (by the Budibase client library) using the following interface. Your components must implement this interface:
 
 ```javascript
 new MyComponent({
