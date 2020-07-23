@@ -1,6 +1,6 @@
 # Quick Start
 
-## 0. Pre-requisites
+## 0. Prerequisites
 
 Install the latest version of NodeJS https://nodejs.org
 
@@ -14,7 +14,7 @@ npm install -g budibase
 
 ## **2. Initialise your Budibase**
 
-Create a directory to store your Budibase apps
+Create a directory to store your Budibase apps:
 
 ```
 mkdir my-budibase
@@ -24,13 +24,13 @@ mkdir my-budibase
 cd my-budibase
 ```
 
-Initialise Budibase in current directory
+Initialise Budibase in current directory:
 
 ```
 budi init
 ```
 
-Create a new Budibase app
+Create a new Budibase app:
 
 ```
 budi new my-app

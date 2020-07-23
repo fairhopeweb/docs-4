@@ -6,7 +6,7 @@ Currently, we only support Svelte \(V3\) as a framework for creating frontend co
 
 ![custom-components-overview](../../.gitbook/assets/custom-components-overview.png)
 
-Your component library will export
+Your component library will export:
 
 * A `components.json` file, describing all the libraries components
 * A bundled javascript file, containing your components \(`index.js` in the above example\)

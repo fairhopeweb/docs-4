@@ -1,8 +1,8 @@
 # Add fields to your model
 
-Models have fields. Fields are always of a particular type
+Models have fields. Fields are always of a particular type.
 
-Our "Clown" model is going to have the folloing fields.
+Our "Clown" model is going to have the following fields.
 
 | Field Name        | Description                                                  | Type          |
 | ----------------- | ------------------------------------------------------------ | ------------- |
@@ -12,4 +12,4 @@ Our "Clown" model is going to have the folloing fields.
 
 
 
-Click on the "Add new field" button, to create these fields, then click "Save" when you are finished adding fields
+Click on the "Add new field" button, to create these fields. Click "Save" when you are finished adding fields.
