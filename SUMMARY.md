@@ -5,11 +5,11 @@
 ## 📘 Tutorial
 
 * [Introduction](tutorial/1.-download.md)
-* [2. Setup](tutorial/2.-setup.md)
-* [3. Add data](tutorial/3.-add-data.md)
-* [4. Design](tutorial/4.-design.md)
-* [5. Automate](tutorial/5.-automate.md)
-* [6. Deploy](tutorial/6.-deploy.md)
+* [1. Setup](tutorial/2.-setup.md)
+* [2. Add data](tutorial/3.-add-data.md)
+* [3. Design](tutorial/4.-design.md)
+* [4. Automate](tutorial/5.-automate.md)
+* [5. Deploy](tutorial/6.-deploy.md)
 
 ## 🗂️ Data
 

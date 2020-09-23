@@ -25,7 +25,7 @@ Getting started with Budibase is easy. Simply complete the checklist below and y
 The Budibase tutorial offers you step-by-step instructions on how to download Budibase, start a new project, and build a simple web application. The tutorial aims to be simple to follow and comprehensive. It is a great starting point for users who have never created a web application and do not have Budibase experience.  
 
 
-## 👐 Make a contribution
+## [👐 Make a contribution &gt;](contributions/contributing-to-budibase.md)
 
 We're extremely thankful and proud of our hard-working community. Visit the contribution section to find guides on the Budibase community, our code of conduct, and how to start contributing to Budibase
 
