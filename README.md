@@ -15,10 +15,7 @@ Getting started with Budibase is easy. Simply complete the checklist below and y
 * [ ] Create a username and password
 * [ ] Copy your API key
 * [ ] Download Budibase
-* [ ] Open Budibase and create your new app 
-* [ ] Enter your API key
-* [ ] Create a new user
-* [ ] And enjoy!
+* [ ] Open Budibase and enter your API key
 
 ## 📘 [**Tutorial &gt;**](tutorial/1.-download.md) 
 
