@@ -1,8 +1,11 @@
 ---
-description: 'Budibase is an open source, no-code platform, for creating custom software.'
+description: >-
+  Budibase is an open-source, no-code platform, for creating custom software.
+  The Budibase documentation site will explain how to set up, use, and
+  contribute to Budibase. Welcome to the community!
 ---
 
-# Budibase Documentation
+# 👋 Budibase Documentation
 
 ## Get Started
 

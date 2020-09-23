@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Budibase Documentation](README.md)
+* [👋 Budibase Documentation](README.md)
 
 ## 📘 Tutorial
 
@@ -20,6 +20,19 @@
 ## 🌠 Quick Start
 
 * [Quick Start](quick-start/quick-start.md)
+
+## 🔧 Technical
+
+* [Component Libraries](technical/component-libraries/README.md)
+  * [Components.json](technical/component-libraries/1-components-json.md)
+  * [Component JSON API](technical/component-libraries/2-component-json-api.md)
+  * [Generator JSON API](technical/component-libraries/3-generator-json-api.md)
+  * [\_bb - budibase client API](technical/component-libraries/4-bb-budibase-client-api.md)
+* [Budibase Core](technical/budibase-core.md)
+
+## 👐 Contributions
+
+* [Contributing to Budibase](contributions/contributing-to-budibase.md)
 
 ## 💡 About
 
@@ -47,13 +60,4 @@
   * [Why did we pick Svelte?](about/faq/why-svelte.md)
   * [How does Budibase differ from other low/no-code platforms?](about/faq/how-do-we-differ-from-others.md)
   * [Can I build Facebook / AirBnB ?](about/faq/why-cant-i-build-facebook.md)
-
-## 🔧 Technical
-
-* [Component Libraries](technical/component-libraries/README.md)
-  * [Components.json](technical/component-libraries/1-components-json.md)
-  * [Component JSON API](technical/component-libraries/2-component-json-api.md)
-  * [Generator JSON API](technical/component-libraries/3-generator-json-api.md)
-  * [\_bb - budibase client API](technical/component-libraries/4-bb-budibase-client-api.md)
-* [Budibase Core](technical/budibase-core.md)
 
