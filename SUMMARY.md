@@ -4,7 +4,6 @@
 
 ## 📘 Tutorial
 
-* [Create Your App](tutorial/create-app.md)
 * [Design your Backend](tutorial/backend/README.md)
   * [Create a Model](tutorial/backend/create-a-model.md)
   * [Add Fields to your Model](tutorial/backend/add-fields-to-model.md)
