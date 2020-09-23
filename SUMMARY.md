@@ -1,22 +1,25 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Budibase Documentation](README.md)
 
 ## 📘 Tutorial
 
-* [Quick Start](user-guide/quick-start.md)
-* [Create Your App](/user-guide/create-app.md)
-* [Design your Backend](/user-guide/backend/README.md)
-  * [Create a Model](/user-guide/backend/create-a-model.md)
-  * [Add Fields to your Model](/user-guide/backend/add-fields-to-model.md)
-  * [The Default View](/user-guide/backend/default-view.md)
-  * [Child Records](/user-guide/backend/child-records.md)
-  * [Create a Database](/user-guide/backend/create-a-database.md)
-  * [Managing Test Data](/user-guide/backend/managing-test-data.md)
-  * [User Access Levels](/user-guide/backend/user-access-levels.md)
-* [Design your Frontend](/user-guide/frontend/README.md)
-  * [Page Layout](/user-guide/frontend/page-layout.md)
-  * [Adding Components](/user-guide/frontend/adding-components.md)
+* [Create Your App](tutorial/create-app.md)
+* [Design your Backend](tutorial/backend/README.md)
+  * [Create a Model](tutorial/backend/create-a-model.md)
+  * [Add Fields to your Model](tutorial/backend/add-fields-to-model.md)
+  * [The Default View](tutorial/backend/default-view.md)
+  * [Child Records](tutorial/backend/child-records.md)
+  * [Create a Database](tutorial/backend/create-a-database.md)
+  * [Managing Test Data](tutorial/backend/managing-test-data.md)
+  * [User Access Levels](tutorial/backend/user-access-levels.md)
+* [Design your Frontend](tutorial/frontend/README.md)
+  * [Page Layout](tutorial/frontend/page-layout.md)
+  * [Adding Components](tutorial/frontend/adding-components.md)
+
+## 🌠 Quick Start
+
+* [Quick Start](quick-start/quick-start.md)
 
 ## 💡 About
 
@@ -51,6 +54,6 @@
   * [Components.json](technical/component-libraries/1-components-json.md)
   * [Component JSON API](technical/component-libraries/2-component-json-api.md)
   * [Generator JSON API](technical/component-libraries/3-generator-json-api.md)
-  * [_bb - budibase client API](technical/component-libraries/4-bb-budibase-client-api.md)
+  * [\_bb - budibase client API](technical/component-libraries/4-bb-budibase-client-api.md)
 * [Budibase Core](technical/budibase-core.md)
 

@@ -1,14 +1,12 @@
-# Example 1 - A CRM Application
+# Example 1 - CRM
 
 This type of application is an ideal fit for Budibase.
 
 Characteristics:
 
-- Multiple groups or teams of users
-- Each group accesses their own set of data
-- Groups do not share data. They are segregated from each other
+* Multiple groups or teams of users
+* Each group accesses their own set of data
+* Groups do not share data. They are segregated from each other
 
-
-
-![CRM App Diagram](../../assets/is-budibase-for-me/crm.jpg)
+![CRM App Diagram](../../.gitbook/assets/crm.jpg)
 
