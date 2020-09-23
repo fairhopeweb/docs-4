@@ -15,6 +15,34 @@
 * [5. Automate](tutorial/5.-automate.md)
 * [6. Deploy](tutorial/6.-deploy.md)
 
+## 🗂️ Data
+
+* [Introduction to Data](data/introduction-to-data.md)
+* [Tables](data/tables/README.md)
+  * [Columns](data/tables/columns.md)
+  * [Rows](data/tables/rows.md)
+* [Views](data/views/README.md)
+  * [Filters](data/views/filters.md)
+  * [Calculations](data/views/calculations.md)
+  * [Groups](data/views/groups.md)
+
+## 🎨 Design
+
+* [Introduction to Design](design/introduction-to-design.md)
+* [Screens](design/screens.md)
+* [Components](design/components.md)
+* [Design properties](design/design-properties.md)
+* [Binding](design/binding.md)
+* [Actions](design/actions.md)
+
+## 🤖 Automate
+
+* [Introduction to Automate](automate/introduction-to-automate.md)
+
+## 🚀 Deploy
+
+* [Introduction to Deploy](deploy/introduction-to-deploy.md)
+
 ## 🔧 Technical
 
 * [Component Libraries](technical/component-libraries/README.md)
@@ -24,23 +52,7 @@
   * [\_bb - budibase client API](technical/component-libraries/4-bb-budibase-client-api.md)
 * [Budibase Core](technical/budibase-core.md)
 
-## 👐 Contributions
+## 👐 Contributing <a id="contributions"></a>
 
 * [Contributing to Budibase](contributions/contributing-to-budibase.md)
-
-## 🗂️ Data
-
-* [Introduction to Data](data/introduction-to-data.md)
-
-## 🎨 Design
-
-* [Introduction to Design](design/introduction-to-design.md)
-
-## 🤖 Automate
-
-* [Introduction to Automate](automate/introduction-to-automate.md)
-
-## 🚀 Deploy
-
-* [Introduction to Deploy](deploy/introduction-to-deploy.md)
 
