@@ -9,7 +9,7 @@ description: >-
 
 ## 🌠 Quick Start
 
-Getting started with Budibase, is easy. Simply complete the checklist below and you'll be building you web app in no time.
+Getting started with Budibase is easy. Simply complete the checklist below and you'll be building your web app in no time.
 
 * [ ] [Head over to the sign-up form](https://portal.budi.live/signup) - [https://portal.budi.live/signup](https://portal.budi.live/signup)
 * [ ] Create a username and password
@@ -22,7 +22,7 @@ Getting started with Budibase, is easy. Simply complete the checklist below and 
 
 ## 📘 [**Tutorial &gt;**](tutorial/1.-download.md) 
 
-The Budibase tutorial offers you a step-by-step instructions on how to download Budibase, start a new project, and build a simple web application. The tutorial aims to be simple to follow and comprehensive. It is a great starting point for users who have never created a web application and do not have Budibase experience.  
+The Budibase tutorial offers you step-by-step instructions on how to download Budibase, start a new project, and build a simple web application. The tutorial aims to be simple to follow and comprehensive. It is a great starting point for users who have never created a web application and do not have Budibase experience.  
 
 
 ## 👐 Make a contribution
