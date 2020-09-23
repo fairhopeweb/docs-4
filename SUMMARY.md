@@ -4,7 +4,7 @@
 
 ## 📘 Tutorial
 
-* [Introduction](tutorial/1.-download.md)
+* [Tutorial Introduction](tutorial/1.-download.md)
 * [1. Setup](tutorial/2.-setup.md)
 * [2. Add data](tutorial/3.-add-data.md)
 * [3. Design](tutorial/4.-design.md)
