@@ -2,13 +2,9 @@
 
 * [👋 Budibase Documentation](README.md)
 
-## 🌠 Quick Start
-
-* [Quick Start](quick-start/quick-start.md)
-
 ## 📘 Tutorial
 
-* [1. Download](tutorial/1.-download.md)
+* [Introduction](tutorial/1.-download.md)
 * [2. Setup](tutorial/2.-setup.md)
 * [3. Add data](tutorial/3.-add-data.md)
 * [4. Design](tutorial/4.-design.md)

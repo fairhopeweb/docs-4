@@ -7,12 +7,23 @@ description: >-
 
 # 👋 Budibase Documentation
 
-## Get Started
+## 🌠 Quick Start
 
-There are two main ways to get started with Budibase:
+Getting started with Budibase, is easy. Simply complete the checklist below and you'll be building you web app in no time.
 
-1. 📘 [**Tutorial &gt;**](tutorial/1.-download.md)  Step-by-step instructions on how to download Budibase, start a new project, and build a simple web application. The tutorial aims to be easy to follow and comprehensive. It is a great starting point for users who are new to no-code and do not have Budibase experience. 
-2. 🌠 [**Quick start &gt;**](quick-start/quick-start.md) ****  For the speedsters out there who like to jump right in, we have a one-page quick start guide for you: written for more experienced users.
+* [ ] [Head over to the sign-up form](https://portal.budi.live/signup) - [https://portal.budi.live/signup](https://portal.budi.live/signup)
+* [ ] Create a username and password
+* [ ] Copy your API key
+* [ ] Download Budibase
+* [ ] Open Budibase and create your new app 
+* [ ] Enter your API key
+* [ ] Create a new user
+* [ ] And enjoy!
+
+## 📘 [**Tutorial &gt;**](tutorial/1.-download.md) 
+
+The Budibase tutorial offers you a step-by-step instructions on how to download Budibase, start a new project, and build a simple web application. The tutorial aims to be simple to follow and comprehensive. It is a great starting point for users who have never created a web application and do not have Budibase experience.  
+
 
 ## 👐 Make a contribution
 
