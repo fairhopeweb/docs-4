@@ -6,11 +6,7 @@ description: >-
 
 # Quick Start
 
-## 
-
-{% embed url="https://portal.budi.live/signup" %}
-
-* [ ] [Head over to the sign-up form](https://portal.budi.live/signup)
+* [ ] [Head over to the sign-up form](https://portal.budi.live/signup) - [https://portal.budi.live/signup](https://portal.budi.live/signup)
 * [ ] Enter username and password
 * [ ] Answer onboarding questions
 * [ ] Copy API key \(allows you to deploy you web app on a Budibase domain\)
