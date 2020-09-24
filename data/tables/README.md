@@ -10,11 +10,11 @@ A table is the highest level data block within Budibase. Columns, rows, and view
 
 Tables are made up of columns and rows. 
 
-
-
 ## How to create a new table
 
 To create a new table, click the `create new table` button, and give it a name.
+
+{% embed url="https://www.loom.com/share/4eeb97ad01614065b966e09bb2bbc4bf" %}
 
 ## How to upload data a table
 
