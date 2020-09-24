@@ -14,3 +14,11 @@ When you create a View within Budibase, it presents you with all the data from i
 
 When designing your UI, you can reference data from your Views. So, if you have a table of sales people and their total sales, you can create a View and a Calculation which gives you the total sales of all sales people. You can then reference the data from this View in the design section of Budibase, and display the answer to the calculation.
 
+## How to create a new view
+
+To create a new table, click the `create new view` button, and give it a name.
+
+{% embed url="https://www.loom.com/share/4eeb97ad01614065b966e09bb2bbc4bf" %}
+
+
+
