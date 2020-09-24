@@ -12,5 +12,5 @@ When you create a View within Budibase, it presents you with all the data from i
 2. [Groups](groups.md)
 3. [Calculations](calculations.md)
 
-When designing your UI, you can reference data from your Views. So, if you have a table of sales people and their total sales, you can create a View and a Calculation which gives you the total sales of all sales people. You can then reference the data from this View in the design section of Budibase, and display the calculation.
+When designing your UI, you can reference data from your Views. So, if you have a table of sales people and their total sales, you can create a View and a Calculation which gives you the total sales of all sales people. You can then reference the data from this View in the design section of Budibase, and display the answer to the calculation.
 
