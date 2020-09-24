@@ -10,7 +10,7 @@ Columns are the vertical group of cells within your table. Another name for 'col
 Example: A 'Phone Number' Column, will use the 'Number' type.
 {% endhint %}
 
-## How to add a column
+## How to create a new Column
 
 To create a new column:
 

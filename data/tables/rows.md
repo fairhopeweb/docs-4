@@ -6,7 +6,7 @@ description: Learn more about rows within Budibase
 
 Rows are the horizontal group of cells within your table. Another name for 'rows', is 'records'. Your data is stored in rows. A row is composed of fields and contains all the information related a person, company, or item.
 
-## How to add a Row
+## How to create a new Row
 
 To create a new Row:
 
