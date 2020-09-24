@@ -13,15 +13,20 @@ Try adding filters when:
 
 ## How to create a new Filter
 
-To create a new Filter:
-
-* [ ] Click the `create new row` button
-* [ ] Add your data
-* [ ] Click save
-
 {% hint style="info" %}
-Your table must have a column before you can create a table
+You can only create Filters within Views
 {% endhint %}
 
-{% embed url="https://www.loom.com/share/5d84d8f9d7f743159c1d8604a1a073d4" %}
+To create a new Filter:
+
+* [ ] Click the `create new filter` button
+* [ ] Click `Add Filter`
+* [ ] Select the Column you would like to filter
+* [ ] Select a filter function
+* [ ] Type your query
+* [ ] Click `Save`
+
+{% embed url="https://www.loom.com/share/fc6aba96f9cb4d10868290c009938b34" %}
+
+
 

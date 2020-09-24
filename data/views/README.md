@@ -16,9 +16,13 @@ When designing your UI, you can reference data from your Views. So, if you have 
 
 ## How to create a new view
 
+{% hint style="info" %}
+You must have a Table, before you can create a View
+{% endhint %}
+
 To create a new table, click the `create new view` button, and give it a name.
 
-{% embed url="https://www.loom.com/share/4eeb97ad01614065b966e09bb2bbc4bf" %}
+{% embed url="https://www.loom.com/share/c2cddf6236d64a1b9857f89f6a0f421a" %}
 
 
 
