@@ -10,6 +10,17 @@ Columns are the vertical group of cells within your table. Another name for 'col
 Example: A 'Phone Number' Column, will use the 'Number' type.
 {% endhint %}
 
+## How to add a column
+
+To create a new column:
+
+* [ ] Click the `create new column` button
+* [ ] Give your new column a name
+* [ ] Select a column type
+* [ ] Click save
+
+[https://www.loom.com/share/00339ad805124ceb8e63d34f04f144a0](https://www.loom.com/share/00339ad805124ceb8e63d34f04f144a0)
+
 ## Data types
 
 ### **Text**
@@ -28,9 +39,13 @@ Example: You might have a scoring system in place. The scoring system is from 0 
 
 The Yes/No is a data type that has one of two possible values \(usually denoted as true/false, yes/no, Boolean\). Within your UI, this is usually displayed in the form of a checkbox.
 
+{% hint style="info" %}
+Example: You have a to-do list, and you want to label your tasks as 'Completed' or 'Not Completed'.  You would create the column, name it 'Completed?', and select the yes/no field type. 
+{% endhint %}
+
 ### **Attachment**
 
-Within your Budibase table, you can store images and documents using the attachment data type. Budibase supports a number of popular image formats, including PNG, JPEG, GIF.
+Within your Budibase table, you can store images and documents using the attachment data type. Budibase supports all file formats and has an upload limit of 20MB.
 
 ### **Date**
 
@@ -47,15 +62,4 @@ The options data type stores options. When adding options, you must take a new l
 {% hint style="info" %}
 Example: You might a table called Accounts and you want to know to assign a sales person to each new account. To do this, you would add a sales person column, and select the options data type. Once you have selected the options data type, you would then add the members of your sales team.
 {% endhint %}
-
-## How to add a column
-
-To create a new column:
-
-* [ ] Click the `create new column` button
-* [ ] Give your new column a name
-* [ ] Select a column type
-* [ ] Click save
-
-{% embed url="https://www.loom.com/share/4eeb97ad01614065b966e09bb2bbc4bf" %}
 
