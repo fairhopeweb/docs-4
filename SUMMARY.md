@@ -1,6 +1,7 @@
 # Table of contents
 
 * [👋 Budibase Documentation](README.md)
+* [🌠 Quick Start](quick-start.md)
 
 ## 📘 Tutorial
 
