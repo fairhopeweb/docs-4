@@ -10,7 +10,7 @@ Within Budibase, calculations are predefinned formulas. Instead of writing the f
 
 To create a new Calculation:
 
-* [ ] Click the `create new row` button
+* [ ] Click the `Calculate` button
 * [ ] Add your data
 * [ ] Click save
 
@@ -18,7 +18,9 @@ To create a new Calculation:
 Your table must have a column before you can create a table
 {% endhint %}
 
-{% embed url="https://www.loom.com/share/5d84d8f9d7f743159c1d8604a1a073d4" %}
+{% embed url="https://www.loom.com/share/2fbb93d54a2046a48d35f543a7fe4307" %}
+
+
 
 ### Formulas
 

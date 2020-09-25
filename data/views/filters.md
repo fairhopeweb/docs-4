@@ -19,7 +19,7 @@ You can only create Filters within Views
 
 To create a new Filter:
 
-* [ ] Click the `create new filter` button
+* [ ] Click the `Filter` button
 * [ ] Click `Add Filter`
 * [ ] Select the Column you would like to filter
 * [ ] Select a filter function
@@ -28,5 +28,21 @@ To create a new Filter:
 
 {% embed url="https://www.loom.com/share/fc6aba96f9cb4d10868290c009938b34" %}
 
+
+
+## Filter Functions
+
+1. Equals
+2. Less than
+3. Less than or equal to
+4. More than
+5. More than or equal to
+6. Contains
+
+  
+  
+  
+  
+  
 
 
