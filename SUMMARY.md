@@ -29,7 +29,6 @@
 * [Screens](design/screens.md)
 * [Components](design/components/README.md)
   * [Layout](design/components/layout.md)
-  * [Container](design/components/container.md)
   * [Form](design/components/form.md)
   * [Table](design/components/table.md)
   * [Charts](design/components/charts.md)
