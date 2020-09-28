@@ -4,7 +4,7 @@ description: Learn about the Table component within Budibase
 
 # Table
 
-Use the Table component to display information from your Tables to users. With the Table component, your users can create, read, update, and delete data within the Table component, which will automatically update the data in your Tables.
+Use the Table component to display data from your tables to users. With the Table component, your users can create, read, update, and delete data within the Table component, which will automatically update the data in your Tables.
 
 ![](../../.gitbook/assets/table.png)
 
