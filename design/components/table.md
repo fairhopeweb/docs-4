@@ -4,13 +4,14 @@ description: Learn about the Table component within Budibase
 
 # Table
 
-The form components within Budibase is a crucial one. It's how data is added your tables, from within your web app. The form component knows about your tables in the  backend making it incredibly simple to setup.
+Use the Table component to display information from your Tables to users. With the Table component, your users can create, read, update, and delete data within the Table component, which will automatically update the data in your Tables.
 
-## How to add a new Form
+![](../../.gitbook/assets/table.png)
+
+## How to add a new Table
 
 To add a new form to your designs:
 
-* [ ] Click the `form` button
-* [ ] Within the settings panel, connect your form to whatever table you want the form to bind to.
-* [ ] Remove any forms fields you don't want within your form 
+* [ ] Click the `table` button
+* [ ] Within the settings panel, connect your Table component to a table in your data section.
 

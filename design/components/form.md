@@ -4,7 +4,9 @@ description: Learn about the Form component within Budibase
 
 # Form
 
-The form component within Budibase is a crucial one. It's how data is added your tables, from within your web app. The form component knows about your tables in the  backend making it incredibly simple to setup.
+Use the form component to retrieve data from users, and add that data to your database. The form component knows about your tables from the Data section making it incredibly simple to set up.
+
+![](../../.gitbook/assets/form.png)
 
 ## How to add a new Form
 

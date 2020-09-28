@@ -4,9 +4,9 @@ description: Learn about the Layout component within Budibase
 
 # Layout
 
-Budibase comes with preset Layouts. Use Layouts to structure your components within your screens. 
+Budibase comes with pre-designed Layouts. Use Layouts to structure your components within your screens. 
 
-Layouts are created using CSS grid. Each layout has its own custom settings.
+Layouts are created using CSS grid. Each layout has its own custom settings for modifications.
 
 ## Predefined layouts
 
