@@ -6,18 +6,19 @@ description: Learn about Components within Budibase
 
 Components are the building blocks of Budibase. They are used to construct your user interface.
 
-Within Budibase, there is a growing list of components at your disposal. You can find these components below:
+Within Budibase, there is a growing list of components at your disposal. You can find links to these components below:
 
-* Layout
-* Container
-* Form
-* Table
-* Chart
-* Card
-* Text
-* Button
-* Icon
-* Embed
+* [Layout](layout.md)
+* [Container](container.md)
+* [Form](form.md)
+* [Table](table.md)
+* [Chart](charts.md)
+* [Card](card.md)
+* [Text](text.md)
+* [Button](button.md)
+* [Icon](icon.md)
+* [Image](image.md)
+* [Embed](embed.md)
 
 
 
