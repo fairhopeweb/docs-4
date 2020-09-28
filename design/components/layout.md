@@ -10,11 +10,11 @@ Layouts are created using CSS grid. Each layout has its own custom settings.
 
 ## Predefined layouts
 
-### **Container**
-
 ### Top Nav
 
-### Sidepanel
+The top nav component comes with structured link alignment, and a setting to include your logo.  Simple add your logos, links, and any other components within the Top Nav container, and that's it. A beautiful navigation bar ready to wow your users.
+
+### Side panel
 
 ### Footer
 
@@ -24,5 +24,7 @@ Layouts are created using CSS grid. Each layout has its own custom settings.
 
 ### 3 column
 
-\*\*\*\*
+### Grid
+
+
 
