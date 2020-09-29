@@ -8,7 +8,7 @@ Use the Card component to display data from your tables to your users in a struc
 
 {% hint style="info" %}
 Important!   
-If you select the Magic Repeater component, select a table, and add the Card component to it, you can generate multiple cards at once.
+If you select the Repeater component, select a table, and add the Card component to it, you can generate multiple cards at once.
 {% endhint %}
 
 ![](../../.gitbook/assets/card.png)
@@ -22,14 +22,14 @@ To add a new Card to your designs:
 
 ## How to display data from your tables as Cards 
 
-* [ ] Click the layout dropdown, and select the `Magic Repeater` component
+* [ ] Click the layout dropdown, and select the `Repeater` component
 * [ ] Link your Magic Repeater component to the Table which contains the data you would like to display
 * [ ] Click the Card component dropdown, and select a Card type
 * [ ] In the Card's Setup panel, [bind](../binding.md) your data from your Tables to your Card component using the ✎ icon.
 
 ## How to style your Card
 
-There are 2 types of Cards within Budibase:
+There are 2 types of Cards within Budibase. Each Card has its own unique settings. The Card component can also accept some style updates from the Design panel i.e `Background - Gradient: Heavy Rain`:
 
 ### Vertical
 
