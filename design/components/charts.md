@@ -10,7 +10,7 @@ Use the Chart component to display data from your tables to your users in a visu
 
 ## How to add a new Chart
 
-To add a new form to your designs:
+To add a new chart to your designs:
 
 * [ ] Click the `chart` button
 * [ ] Select the chart type you would like to add
@@ -18,8 +18,6 @@ To add a new form to your designs:
 ## How to style your Chart
 
 There are 4 types of charts within Budibase and they all have different settings and data requirements:
-
-### 
 
 ### Donut Chart
 
