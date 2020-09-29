@@ -6,6 +6,11 @@ description: Learn about the Cards component within Budibase
 
 Use the Card component to display data from your tables to your users in a structured, repetitive manner. Cards contain content and in some cases images and actions about a single subject. There is currently two types of Card component; vertical and horizontal. 
 
+{% hint style="info" %}
+Important!   
+If you select the Magic Repeater component, select a table, and add the Card component to it, you can generate multiple cards at once.
+{% endhint %}
+
 ![](../../.gitbook/assets/card.png)
 
 ## How to add a new Card
@@ -14,6 +19,14 @@ To add a new Card to your designs:
 
 * [ ] Click the `card` button
 * [ ] Select the card type you would like to add
+
+## How to display data from your tables as Cards 
+
+* [ ] Click the layout dropdown, and select the `Magic Repeater` component
+* [ ] Link your Magic Repeater component to the Table which contains the data you would like to display
+* [ ] Click the Card component dropdown, and select a Card type
+* [ ] In the Card's Setup panel, find the Heading property, and click the ✎ icon.
+* [ ] You 
 
 ## How to style your Card
 
