@@ -94,7 +94,7 @@ A line chart \(also known as a line plot or line graph\) is a chart that uses li
 
 ### 
 
-### Grouped bar Chart
+### Grouped Bar Chart
 
 | Setting | Required | Description |
 | :--- | :--- | :--- |
