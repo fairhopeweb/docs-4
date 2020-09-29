@@ -36,6 +36,7 @@
   * [Card](design/components/card.md)
   * [Text](design/components/text.md)
   * [Button](design/components/button.md)
+  * [Link](design/components/link.md)
   * [Icon](design/components/icon.md)
   * [Image](design/components/image.md)
   * [Embed](design/components/embed.md)
