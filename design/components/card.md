@@ -25,8 +25,7 @@ To add a new Card to your designs:
 * [ ] Click the layout dropdown, and select the `Magic Repeater` component
 * [ ] Link your Magic Repeater component to the Table which contains the data you would like to display
 * [ ] Click the Card component dropdown, and select a Card type
-* [ ] In the Card's Setup panel, find the Heading property, and click the ✎ icon.
-* [ ] You 
+* [ ] In the Card's Setup panel, [bind](../binding.md) your data from your Tables to your Card component using the ✎ icon.
 
 ## How to style your Card
 
@@ -38,17 +37,37 @@ The Vertical Card is structured in a vertical manner - items are stacked on top 
 
 The Vertical Card component comes with the following settings:
 
-| Setting | Required | Description |
-| :--- | :--- | :--- |
-| Name | Yes | Change the name of the component |
-| Table | Yes | Choose a table to link your chart to |
-| Name Field | Yes | Select the column would you like to set as your categories |
-| Value Field | Yes | Select the column you would like to display as your values \(must be a number data type\) |
-| Animate chart | No | Tell your chart to load in an animated fashion |
-| Hover highlight | No | Tell your chart to display the relevant value when the user hovers |
-| Keep last hover | No | Tell your chart to continue to present the last value hovered  |
-| Colors | No | Select different color palettes |
-| Legend width | No | Control the width of the accompanying legend |
+| Setting | Description |
+| :--- | :--- |
+| Name | Change the name of the component |
+| Image | Add an image to your Card |
+| Heading | Add a heading to your card, directly under the image |
+| Description | Add a description to your card, directly under the heading  |
+| Link Text | Add the text of your link to your card, directly under the description  |
+| Link URL | Activate your link with a URL |
+| Link Color | Change the color of your link |
+| Hover Color | Change the hover color of your link |
+| Image Height | Set your image's height \(in rem\) |
+| Card Width | Set the width of your Card |
 
 ### Horizontal
+
+The Horizontal Card is structured in a horizontal manner - items are stacked alongside each other.
+
+The Horizontal Card component comes with the following settings:
+
+| Setting | Description |
+| :--- | :--- |
+| Name | Change the name of the component |
+| Image | Add an image to your Card |
+| Heading | Add a heading to your card, directly under the image |
+| Description | Add a description to your card, directly under the heading  |
+| Subtext | A muted text which sits underneath your description. |
+| Link Text | Add the text of your link to your card, directly under the description  |
+| Link URL | Activate your link with a URL |
+| Link Color | Change the color of your link |
+| Hover Color | Change the hover color of your link |
+| Image Width | Set your image's width \(in rem\) |
+| Card Width | Set the width of your Card |
+| Card Height | Set the height of your Card |
 
