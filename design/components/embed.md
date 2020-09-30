@@ -12,5 +12,10 @@ The Embed component is used to embed content into your web application.  This co
 
 ![](../../.gitbook/assets/embed.png)
 
+## How to add the Embed component:
 
+To add the Embed component to your designs:
+
+* [ ] Click the `Embed` button
+* [ ] Enter your Embed's URL in the Setup panel
 
