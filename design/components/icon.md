@@ -13,8 +13,9 @@ This component is using the fantastic [Font Awesome](http://fortawesome.github.c
 To add an Icon to your designs:
 
 * [ ] Click the `Icon` button
+* [ ] Within the Setup panel, click the Icon button and select and Icon from the list. 
 
 ## How to style your Icon
 
-The Button component is versatile and can accept updates from all of the [design properties](../design-properties/). Once you have finished the initial design, you should [enhance your button with a Hover and Active class →](../design-properties/hover-and-active.md). 
+The Icon component can accept multiple styling updates from the design panel, including size, color, and margin.
 

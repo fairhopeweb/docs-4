@@ -30,6 +30,7 @@
 * [Components](design/components/README.md)
   * [Layout](design/components/layout.md)
   * [Container](design/components/container.md)
+  * [Repeater](design/components/repeater.md)
   * [Form](design/components/form.md)
   * [Table](design/components/table.md)
   * [Chart](design/components/charts.md)
