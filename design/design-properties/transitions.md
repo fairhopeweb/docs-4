@@ -8,6 +8,10 @@ Transitions enable you to define the transition between two states of an element
 
 ## Properties
 
+{% hint style="info" %}
+All three transition properties below must be set to implement a transition!
+{% endhint %}
+
 | Property | Description |
 | :--- | :--- |
 | Property | Select the property you wish to change in your new state \(All is a safe bet\) |
