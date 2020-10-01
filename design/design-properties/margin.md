@@ -22,7 +22,9 @@ The Margin property comes with the following settings:
 
 Further information regarding margin, can be found below:
 
-[https://developer.mozilla.org/en-US/docs/Web/CSS/margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
+{% embed url="https://developer.mozilla.org/en-US/docs/Web/CSS/margin" %}
+
+
 
   
 
