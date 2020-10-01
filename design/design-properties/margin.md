@@ -4,18 +4,25 @@ description: Learn more about the Margin design properties within Budibase
 
 # Margin
 
-Use the Margin property to control the spacing around a component. 
+Use the Margin property to control the spacing surrounding a component. 
 
 ## Margin properties
 
+The Margin property comes with the following settings:
 
+| Setting | Description |
+| :--- | :--- |
+| All sides | Set the margin for all sides of the component |
+| Top | Set the margin for the top of the component |
+| Right | Set the margin for the right of the component |
+| Bottom | Set the margin for the bottom of the component |
+| Left | Set the margin for the left of the component |
 
-* [ ] Click the `Margin` dropdown
-* [ ] Enter your image URL into the SRC input
+## Further reading
 
-To add an Image to your designs:
+Further information regarding margin, can be found below:
 
-## How to add a single Image:
+[https://developer.mozilla.org/en-US/docs/Web/CSS/margin](https://developer.mozilla.org/en-US/docs/Web/CSS/margin)
 
   
 
