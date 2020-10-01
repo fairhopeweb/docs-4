@@ -8,7 +8,7 @@ Use the Typography properties to style [Text](../components/text.md) components.
 
 ## Properties
 
-The Size property comes with the following settings:
+The Typography property comes with the following settings:
 
 | Setting | Description |
 | :--- | :--- |
