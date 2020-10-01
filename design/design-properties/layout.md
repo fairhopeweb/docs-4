@@ -162,8 +162,6 @@ Flex items are laid out in a single line which may cause the flex container to o
 {% endtab %}
 {% endtabs %}
 
-
-
 ### Gap
 
 The gap property sets the gaps \(gutters\) between rows and columns. It is a shorthand for row-gap and column-gap. It's a great property for spacing and comes in handy when working with the repeater.
@@ -171,6 +169,8 @@ The gap property sets the gaps \(gutters\) between rows and columns. It is a sho
 {% hint style="info" %}
 The Gap property does not render in the Budibase builder but does in your application and in preview mode. This is due to Electron using an old version of Chrome -  the Gap property is new to Chrome. 
 {% endhint %}
+
+![](../../.gitbook/assets/gap.png)
 
 ## Helpful resources:
 
