@@ -8,9 +8,7 @@ Use the background properties to change the look of your component backgrounds.
 
 ## Properties
 
-The Background property comes with the following settings:
-
-| Setting | Description |
+| Property | Description |
 | :--- | :--- |
 | Color | Change the color of your component's background  |
 | Gradient | Change the color of your component's background to a gradient |

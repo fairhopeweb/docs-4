@@ -8,9 +8,7 @@ Use the Typography properties to style [Text](../components/text.md) components.
 
 ## Properties
 
-The Typography property comes with the following settings:
-
-| Setting | Description |
+| Property | Description |
 | :--- | :--- |
 | Font | Choose from a range of fonts. |
 | Weight | Set the weight \(or boldness\) of the font. 100 is lightest. 900 is the heaviest. |

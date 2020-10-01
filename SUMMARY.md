@@ -42,7 +42,6 @@
   * [Image](design/components/image.md)
   * [Embed](design/components/embed.md)
 * [Design properties](design/design-properties/README.md)
-  * [Hover and Active](design/design-properties/hover-and-active.md)
   * [Layout](design/design-properties/layout.md)
   * [Margin](design/design-properties/margin.md)
   * [Padding](design/design-properties/padding.md)
@@ -53,6 +52,7 @@
   * [Border](design/design-properties/border.md)
   * [Effects](design/design-properties/effects.md)
   * [Transitions](design/design-properties/transitions.md)
+* [States](design/states.md)
 * [Binding](design/binding.md)
 * [Actions](design/actions.md)
 
