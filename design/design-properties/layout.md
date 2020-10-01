@@ -62,7 +62,7 @@ Same as column, but reversed.
 
 
 
-### Justify-content 
+### Justify-content \(horizontal alignment\)
 
 The [justify-content](https://yoksel.github.io/flex-cheatsheet/#section-justify-content) property dictates how objects are spaced out along a column or row. 
 
@@ -84,15 +84,93 @@ The [justify-content](https://yoksel.github.io/flex-cheatsheet/#section-justify-
 
 ![](../../.gitbook/assets/center.png)
 {% endtab %}
+
+{% tab title="Space-between" %}
+[Flex items](https://www.w3.org/TR/css-flexbox-1/#flex-item) are evenly distributed in the line.
+
+![](../../.gitbook/assets/space-between.png)
+{% endtab %}
+
+{% tab title="Space-around" %}
+[Flex items](https://www.w3.org/TR/css-flexbox-1/#flex-item) are evenly distributed along the line, with half-size spaces on either end.
+
+![](../../.gitbook/assets/space-around.png)
+{% endtab %}
+
+{% tab title="Space-evenly" %}
+Flex-items are evenly distributed with a full-size space on either end
+
+![](../../.gitbook/assets/space-evenly.png)
+{% endtab %}
 {% endtabs %}
 
 
 
+### Align-items \(vertical alignment\)
+
+The **`align-items`** property sets the default alignment for the objects within the container.
+
+{% tabs %}
+{% tab title="Flex-start" %}
+Flex items are packed toward the start of the flex container.
+
+![](../../.gitbook/assets/align-start.png)
+{% endtab %}
+
+{% tab title="Flex-end" %}
+Flex items are packed toward the end of the flex container.
+
+![](../../.gitbook/assets/align-end.png)
+{% endtab %}
+
+{% tab title="Center" %}
+Flex items are packed toward the center of the flex container.
+
+![](../../.gitbook/assets/align-center.png)
+{% endtab %}
+
+{% tab title="Baseline" %}
+Flex items are aligned such that their [flex container baselines](https://drafts.csswg.org/css-flexbox-1/#flex-baselines) align.
+
+![](../../.gitbook/assets/align-baseline.png)
+{% endtab %}
+
+{% tab title="Stretch" %}
+[Flex items](https://www.w3.org/TR/css-flexbox-1/#flex-item) are evenly distributed along the line, with half-size spaces on either end.
+
+![](../../.gitbook/assets/align-stretch.png)
+{% endtab %}
+{% endtabs %}
 
 
 
+### Wrap
+
+The **`flex-wrap`** property sets whether flex items are forced onto one line or can wrap onto multiple lines.
+
+{% tabs %}
+{% tab title="Wrap" %}
+Flex items break into multiple lines. A must-have for responsive design. 
+
+![](../../.gitbook/assets/wrap.png)
+{% endtab %}
+
+{% tab title="No wrap" %}
+Flex items are laid out in a single line which may cause the flex container to overflow.
+
+![](../../.gitbook/assets/no-wrap.png)
+{% endtab %}
+{% endtabs %}
 
 
+
+### Gap
+
+The gap property sets the gaps \(gutters\) between rows and columns. It is a shorthand for row-gap and column-gap. It's a great property for spacing and comes in handy when working with the repeater.
+
+{% hint style="info" %}
+The Gap property does not render in the Budibase builder but does in your application and in preview mode. This is due to Electron using an old version of Chrome -  the Gap property is new to Chrome. 
+{% endhint %}
 
 ## Helpful resources:
 
