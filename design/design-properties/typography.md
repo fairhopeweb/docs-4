@@ -12,12 +12,13 @@ The Size property comes with the following settings:
 
 | Setting | Description |
 | :--- | :--- |
-| Font | Choose from a range of fonts |
-| Weight | Set your font's weight. 100 is the lightest, 900 is the heaviest. |
-| Size | Set the minimum width of the component |
-| Min Height | Set the minimum height of the component |
-| Max Width | Set the maximum width of the component |
-| Max Height | Set the maximum height of the component |
+| Font | Choose from a range of fonts. |
+| Weight | Set the weight \(or boldness\) of the font. 100 is lightest. 900 is the heaviest. |
+| Line height | Set the distance between lines of text. |
+| Color | Set the color of your text. |
+| Align | Set the alignment of text to left-aligned, centered, right-aligned of justified. |
+| Transform | Make your text appear in all-uppercase or all-lowercase, or with each word capitalized. |
+| Decoration | Set the appearance of decorative lines on text. |
 
 
 
