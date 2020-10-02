@@ -7,6 +7,10 @@ description: >-
 
 # 👋 Budibase Documentation
 
+{% hint style="info" %}
+**Important - Please be aware, Budibase is in Beta and is undergoing final testing before its official release. There may be serious bugs and a lot of UI/UX changes. We ask for your patience and thank you for having faith in us. The journey has just begun!**
+{% endhint %}
+
 ## [🌠 Quick Start &gt;](quick-start.md)
 
 Getting started with Budibase is easy. Simply complete the checklist below and you'll be building your web app in no time.
