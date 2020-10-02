@@ -66,8 +66,7 @@
 
 ## 🔧 Settings
 
-* [Add and manage users](settings/settings.md)
-* [Add Integrations / APIs](settings/add-integrations-apis.md)
+* [Add Users](settings/settings.md)
 
 ## ✨ Templates
 
