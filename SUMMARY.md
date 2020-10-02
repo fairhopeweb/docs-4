@@ -68,6 +68,10 @@
 
 * [Add Users](settings/settings.md)
 
+## Integrations
+
+* [SendGrid](integrations/sendgrid.md)
+
 ## ✨ Templates
 
 * [Templates](templates/templates.md)
@@ -84,8 +88,4 @@
 ## 👐 Contributing <a id="contributions"></a>
 
 * [Contributing to Budibase](contributions/contributing-to-budibase.md)
-
-## Integrations
-
-* [SendGrid](integrations/sendgrid.md)
 
