@@ -77,3 +77,11 @@
 
 * [Contributing to Budibase](contributions/contributing-to-budibase.md)
 
+## 🔧 Settings
+
+* [Settings](settings/settings.md)
+
+## ✨ Templates
+
+* [Templates](templates/templates.md)
+
