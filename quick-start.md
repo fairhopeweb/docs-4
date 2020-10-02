@@ -12,3 +12,9 @@ Getting started with Budibase is easy. Simply complete the checklist below and y
 * [ ] Download Budibase
 * [ ] Open Budibase and enter your API key
 
+{% embed url="https://www.loom.com/share/4734b116b5df42c7a7cd803b6311b1b5" %}
+
+
+
+
+
