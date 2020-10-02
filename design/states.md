@@ -1,5 +1,5 @@
 ---
-description: Learn more about the Hover and Active design properties within Budibase
+description: Learn more about the Hover and Active design states within Budibase
 ---
 
 # States
