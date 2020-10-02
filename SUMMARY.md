@@ -85,3 +85,7 @@
 
 * [Contributing to Budibase](contributions/contributing-to-budibase.md)
 
+## Integrations
+
+* [SendGrid](integrations/sendgrid.md)
+
