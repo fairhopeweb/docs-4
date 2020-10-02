@@ -12,5 +12,9 @@ This integration enables you to hook up SendGrid email to the email action withi
 
 ## How to set up the SendGrid Integration?
 
-This integration enables you to hook up SendGrid email to the email action within [Automations](../tutorial/5.-automate.md). This allows you to send automated emails.
+* [ ] Sign up for Sendgrid
+* [ ] [Create your API Key](https://sendgrid.com/docs/ui/account-and-settings/api-keys/)
+* [ ] Click the Settings icon in Budibase
+* [ ] Click APIs
+* [ ] Navigate to the SendGrid section and add your SendGrid API Key
 
