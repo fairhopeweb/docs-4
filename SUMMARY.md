@@ -64,6 +64,15 @@
 
 * [Introduction to Deploy](deploy/introduction-to-deploy.md)
 
+## 🔧 Settings
+
+* [Add and manage users](settings/settings.md)
+* [Add Integrations / APIs](settings/add-integrations-apis.md)
+
+## ✨ Templates
+
+* [Templates](templates/templates.md)
+
 ## 🔧 Technical
 
 * [Component Libraries](technical/component-libraries/README.md)
@@ -76,12 +85,4 @@
 ## 👐 Contributing <a id="contributions"></a>
 
 * [Contributing to Budibase](contributions/contributing-to-budibase.md)
-
-## 🔧 Settings
-
-* [Settings](settings/settings.md)
-
-## ✨ Templates
-
-* [Templates](templates/templates.md)
 

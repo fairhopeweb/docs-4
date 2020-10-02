@@ -1,6 +1,6 @@
 ---
-description: Learn about the available Settings within Budibase
+description: Learn how to add users to your Budibase web app
 ---
 
-# Settings
+# Add and manage users
 
