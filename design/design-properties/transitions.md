@@ -27,7 +27,7 @@ All three transition properties below must be set to implement a transition!
 * [ ] Select your property - All is usually a safe bet
 * [ ] Set your duration 
 * [ ] Setting your easing
-* [ ] Navigate to one of the states \(hover or active\)
+* [ ] Navigate to the hover state
 * [ ] Design your components 2nd state
 
 {% embed url="https://www.loom.com/share/1c609ce0db0e4ac584ca18f938a930ba" %}
