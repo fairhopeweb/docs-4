@@ -59,6 +59,12 @@
 ## 🤖 Automate
 
 * [Introduction to Automate](automate/introduction-to-automate.md)
+* [Steps](automate/steps/README.md)
+  * [Triggers](automate/steps/triggers.md)
+  * [Logic](automate/steps/logic.md)
+  * [Actions](automate/steps/actions.md)
+* [Contextual bindings](automate/contextual-bindings.md)
+* [Activating and testing](automate/activating-and-testing.md)
 
 ## 🚀 Deploy
 
