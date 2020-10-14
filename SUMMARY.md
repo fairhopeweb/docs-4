@@ -22,6 +22,8 @@
   * [Filters](data/views/filters.md)
   * [Calculations](data/views/calculations.md)
   * [Groups](data/views/groups.md)
+* [Data Types](data/data-types/README.md)
+  * [Relationships](data/data-types/relationships.md)
 
 ## 🎨 Design
 
@@ -55,6 +57,7 @@
 * [States](design/states.md)
 * [Binding](design/binding.md)
 * [Actions](design/actions.md)
+* [Relationships](design/relationships.md)
 
 ## 🤖 Automate
 
