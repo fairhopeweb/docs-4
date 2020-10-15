@@ -18,7 +18,7 @@ The first relationship type we can model in Budibase is the most basic of types,
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
-The second relationship we can model in Budibase is one of the most common, linking a single record to many other records. Here we can see that a class can only be taught by a single teacher however a teacher is capable of teaching many different classes.
+The second relationship we can model in Budibase is one of the most common, linking a single [row](../../tables/rows.md) to many other [rows](../../tables/rows.md). Here we can see that a class can only be taught by a single teacher however a teacher is capable of teaching many different classes.
 
 #### Many to many
 
