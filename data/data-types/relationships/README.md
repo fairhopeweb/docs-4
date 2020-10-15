@@ -18,7 +18,7 @@ The process of creating a relationship column allowing rows in two different [ta
 
 #### Using relationships
 
-So in this section we've covered how to create and update relationships, at this point your web app will be creating data relationships everywhere they are needed! How to view this relationships however is another topic, which has been covered in the [Design - relationships section](../../../design/relationships.md).
+This section covers how to create and update relationships in relation to the [tables](../../tables/) and you might be wondering how to actually use them. This is for a different topic and has been covered in the [Design - relationships section](../../../design/relationships.md).
 
 #### Coming up
 
