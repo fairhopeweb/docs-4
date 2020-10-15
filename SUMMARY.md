@@ -23,7 +23,8 @@
   * [Calculations](data/views/calculations.md)
   * [Groups](data/views/groups.md)
 * [Data Types](data/data-types/README.md)
-  * [Relationships](data/data-types/relationships.md)
+  * [Relationships](data/data-types/relationships/README.md)
+    * [Example](data/data-types/relationships/example.md)
 
 ## 🎨 Design
 
