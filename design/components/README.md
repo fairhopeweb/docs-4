@@ -20,9 +20,3 @@ Within Budibase, there is a growing list of components at your disposal. You can
 * [Image](image.md)
 * [Embed](embed.md)
 
-
-
-
-
- 
-

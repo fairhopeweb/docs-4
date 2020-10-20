@@ -8,25 +8,25 @@ In this example we will be creating a web app for tracking students, teachers, p
 
 Specifically we are going to break these down into the three relationship types that can be modelled with Budibase. Below we will map out the relationships that we are going to create, first describing them then walking through how to build them.
 
-#### One to one
+## One to one
 
 ![](../../../.gitbook/assets/image%20%286%29.png)
 
 The first relationship type we can model in Budibase is the most basic of types, linking two rows to each other. In this case a Teacher is assigned a single parking spot and that parking spot can only be used by a single teacher.
 
-#### One to many
+## One to many
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
 The second relationship we can model in Budibase is one of the most common, linking a single [row](../../tables/rows.md) to many other [rows](../../tables/rows.md). Here we can see that a class can only be taught by a single teacher however a teacher is capable of teaching many different classes.
 
-#### Many to many
+## Many to many
 
 ![](../../../.gitbook/assets/image%20%285%29.png)
 
 The last relationship we can model is arguably one of the most complex but again very common in real life systems. Here we can see that students are able to take many classes and each class can have many different students in it.
 
-#### Building it in Budibase
+## Building it in Budibase
 
 To create this in Budibase all we need to do is:
 
@@ -37,7 +37,7 @@ To create this in Budibase all we need to do is:
 
 As you can see by creating three relationship columns we were able to make a fairly complex web of relationships, which can now be easily managed when creating/updating [rows](../../tables/rows.md) in any of the [tables](../../tables/).
 
-#### Video demonstration
+## Video demonstration
 
 Based on the example above here is a video showing how easy it is to create in the Budibase Builder!
 

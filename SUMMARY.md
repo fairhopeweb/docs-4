@@ -6,8 +6,9 @@
 ## 📘 Tutorial
 
 * [Tutorial Introduction](tutorial/1.-download.md)
-* [1. Setup](tutorial/2.-setup.md)
-* [2. Add data](tutorial/3.-add-data.md)
+* [1. Signing up and downloading Budibase](tutorial/2.-setup.md)
+* [2. Getting started with Budibase and creating your first app](tutorial/3.-add-data.md)
+* [3. Creating a table and uploading data](tutorial/3.-creating-a-table-and-uploading-data.md)
 * [3. Design](tutorial/4.-design.md)
 * [4. Automate](tutorial/5.-automate.md)
 * [5. Deploy](tutorial/6.-deploy.md)
