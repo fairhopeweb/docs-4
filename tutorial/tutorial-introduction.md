@@ -18,5 +18,5 @@ So, are you ready?
 
 Let’s do this!
 
-{% page-ref page="2.-setup.md" %}
+{% page-ref page="tutorial-signing-up.md" %}
 

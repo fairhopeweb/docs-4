@@ -5,10 +5,10 @@
 
 ## 📘 Tutorial
 
-* [1. Tutorial Introduction](tutorial/1.-download.md)
-* [2. Signing up and downloading Budibase](tutorial/2.-setup.md)
-* [3. Getting started with Budibase and creating your first app](tutorial/3.-add-data.md)
-* [4. Adding and managing data](tutorial/3.-creating-a-table-and-uploading-data.md)
+* [1. Tutorial Introduction](tutorial/tutorial-introduction.md)
+* [2. Signing up and downloading Budibase](tutorial/tutorial-signing-up.md)
+* [3. Getting started with Budibase and creating your first app](tutorial/tutorial--setup.md)
+* [4. Adding and managing data](tutorial/tutorial-adding-data.md)
 
 ## 🗂️ Data
 

@@ -15,7 +15,7 @@ description: >-
 
 Getting started with Budibase is easy. Simply complete the checklist below and you'll be building your web app in no time.
 
-## 📘 [**Tutorial &gt;**](tutorial/1.-download.md) 
+## 📘 [**Tutorial &gt;**](tutorial/tutorial-introduction.md) 
 
 The Budibase tutorial offers you step-by-step instructions on how to download Budibase, start a new project, and build a simple web application. The tutorial aims to be simple to follow and comprehensive. It is a great starting point for users who have never created a web application and do not have Budibase experience.
 
