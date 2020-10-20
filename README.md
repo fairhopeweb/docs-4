@@ -8,7 +8,7 @@ description: >-
 # 👋 Budibase Documentation
 
 {% hint style="info" %}
-**Important - Please be aware, Budibase is in Beta and is undergoing final testing before its official release. There may be serious bugs and a lot of UI/UX changes. We ask for your patience and thank you for having faith in us. The journey has just begun!**
+**📣Warning -  Budibase is currently in Public Beta. Please be advised, Budibase is not production-ready. Apps created with Budibase might not be compatible post-launch!**
 {% endhint %}
 
 ## [🌠 Quick Start &gt;](quick-start.md)
