@@ -1,5 +1,5 @@
 ---
-description: Learn more about how Budibase manages static files 
+description: Learn more about how Budibase manages static files. 
 ---
 
 # Attachments
@@ -11,7 +11,7 @@ These could be images, text files, audio files and more. With budibase, you can 
 Let's get started. 
 
 #### The Attachment Field Type
-In budibase, static files are stored under the __Attachment__ field type. Attachments can be any static file - images, csv files and even code. To create an attachment field type, add a new column to a new or existing [table](../../tables/) and select the **Attachment** type. An attachment field can have as many attachments in it as you like, but the maximum file upload size per file is **20MB**.
+In budibase, static files are stored under the __Attachment__ field type. Attachments can be any static file - images, CSV files and even code. To create an attachment field type, add a new column to a new or existing [table](../../tables/) and select the **Attachment** type. An attachment field can have as many attachments in it as you like, but the maximum file upload size per file is **20MB**.
 
 #### Uploading Attachments
 When you create a new [row](../../tables/rows.md) in your table by clicking the "Create New Row" button above the backend data table, you will be presented with a dropzone component for your attachment field that you can use to upload files.  
@@ -21,5 +21,7 @@ A **Dropzone** component is a commonly used file upload component in web applica
 {% endhint %}
 
 Once you have selected your files, image files are processed in the background and resized. Other files are just stored as is, without any kind of resizing or transformation applied. These files will remain on your machine until you deploy - at which point they will be uploaded to the budibase hosting cloud. 
+
+Your attachments will be displayed like any regular field - inside grids and tables, forms and more budibase components.
 
 To see attachments in action, take a look at the following example section. We will build a small app for storing country data using budibase attachments. 

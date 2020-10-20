@@ -1,8 +1,6 @@
 ---
-description: Building an attachment example
+description: Fun with Flags 
 ---
-
-# Example - Fun With Flags
 
 In this example, we will be creating a simple web application that will be used to store information about different countries around the world. Some of the information we are going to include in our application:
 - Country Name
@@ -15,10 +13,10 @@ Let's begin by creating a [table](../../tables/) to store data for our countries
 
 Next, we need to create [columns](../../tables/columns.md) in our `Countries` table. Let's look at the information we need to include about each country and decide which data types are the best to use for our columns.
 
-**Country Name**: Country names are just letters, so a **Text** type is a good fit here.
-**Country Population**: We should use a **Number** type for this.
-**Country Flag**: This will require an image file - here is where **Attachment** types come in.
-**Travel Guide**: We can store PDF travel guides for each country here. Let's use another **Attachment** type.
+- **Country Name**: Country names are just letters, so a **Text** type is a good fit here.
+- **Country Population**: We should use a **Number** type for this.
+- **Country Flag**: This will require an image file - here is where **Attachment** types come in.
+- **Travel Guide**: We can store PDF travel guides for each country here. Let's use another **Attachment** type.
 
 Watch the video below to find out how to set up your table as detailed above.
 
