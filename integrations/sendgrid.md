@@ -8,7 +8,7 @@ _SendGrid_ is a cloud-based SMTP provider that allows you to send email without 
 
 ## What does the SendGrid integration do?
 
-This integration enables you to hook up SendGrid email to the email action within [Automations](../tutorial/5.-automate.md). This allows you to send automated emails.
+This integration enables you to hook up SendGrid email to the email action within [Automations](). This allows you to send automated emails.
 
 ## How to set up the SendGrid Integration?
 
