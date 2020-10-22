@@ -8,5 +8,7 @@ Budibase's Data section is often described as the backend builder of Budibase bu
 
 ![](../.gitbook/assets/screenshot-2020-10-05-at-14.45.36.png)
 
-When you first open the data section, you should begin by creating a table.  You can find out more about that in the [Table](tables/) section of the docs.
+## Getting started
+
+When you first open the data section, you should begin by creating a new table.  You can find out more about that in the [Table](tables/) section of the docs.
 
