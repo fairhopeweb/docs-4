@@ -9,6 +9,7 @@
 * [2. Signing up and downloading Budibase](tutorial/tutorial-signing-up.md)
 * [3. Getting started with Budibase and creating your first app](tutorial/tutorial--setup.md)
 * [4. Adding and managing data](tutorial/tutorial-adding-data.md)
+* [5. Designing your app](tutorial/5.-designing-your-app.md)
 
 ## 🗂️ Data
 
