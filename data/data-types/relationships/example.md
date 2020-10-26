@@ -41,3 +41,7 @@ As you can see by creating three relationship columns we were able to make a fai
 
 Based on the example above here is a video showing how easy it is to create in the Budibase Builder!
 
+{% embed url="https://www.loom.com/share/1a78d4e58ba24ffe93a3fefbe0f728be" %}
+
+
+
