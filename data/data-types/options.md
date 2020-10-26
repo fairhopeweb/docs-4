@@ -1,3 +1,7 @@
+---
+description: The options data type stores options.
+---
+
 # Options
 
 The options data type stores options. When adding options, you must take a new line for each option. 
