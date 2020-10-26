@@ -58,7 +58,6 @@
 * [States](design/states.md)
 * [Binding](design/binding.md)
 * [Actions](design/actions.md)
-* [Relationships](design/relationships.md)
 
 ## 🤖 Automate
 

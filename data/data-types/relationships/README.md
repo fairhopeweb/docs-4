@@ -18,7 +18,7 @@ The process of creating a relationship column allowing rows in two different [ta
 
 #### Using relationships
 
-This section covers how to create and update relationships in relation to the [tables](../../tables/) and you might be wondering how to actually use them. This is for a different topic and has been covered in the [Design - relationships section](../../../design/relationships.md).
+This section covers how to create and update relationships in relation to the [tables](../../tables/) and you might be wondering how to actually use them. This is for a different topic and has been covered in the [Design - relationships section]().
 
 #### Coming up
 
