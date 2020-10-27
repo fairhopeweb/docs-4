@@ -27,7 +27,7 @@
 * [Data Types](data/data-types/README.md)
   * [Text](data/data-types/text.md)
   * [Number](data/data-types/number.md)
-  * [Yes/No \(Boolean\)](data/data-types/yes-no-boolean.md)
+  * [True/False \(Boolean\)](data/data-types/yes-no-boolean.md)
   * [Date](data/data-types/date.md)
   * [Options](data/data-types/options.md)
   * [Attachments](data/data-types/attachments/README.md)

@@ -10,7 +10,7 @@ The text data type stores text, including numbers - also known as a string.  A t
 
 #### Creating a text column
 
-The process of creating a text column takes a few seconds.
+The process for creating a text column takes a few seconds.
 
 {% embed url="https://www.loom.com/share/f1fd4c3453a8420bb2ba72aa75aff78e" %}
 
