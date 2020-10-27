@@ -12,7 +12,9 @@ The date/time data type stores dates. This is important when using components, o
 
 The process for creating a date column takes a few seconds.
 
-{% embed url="https://www.loom.com/share/415ca3644d2140559042902b16832de2" %}
+{% embed url="https://www.loom.com/share/a417d523bf0e47ecae4842a78955c6ce" %}
+
+
 
 1. First, click the Create New Column button
 2. Give your column a name - we used Date Started in the video above.
