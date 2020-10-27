@@ -1,8 +1,39 @@
 ---
-description: The number data type stores numbers.
+description: 'This topic describes the number data types, supported in Budibase'
 ---
 
 # Number
 
-The number data type stores numbers.  A number column is a good choice if you want to store data like age,  values, sales. It's important to note, the number column type is important when you need to do calculations within your data. Within the Number data type, you can provide min and max values. This allows you to add additional validation to your data type. 
+The number data type stores numbers.  A number column is a good choice if you want to store data like age,  values, scores, IDs. The number column type is important when you need to do calculations within your data. Within the Number data type, you can provide min and max values. This allows you to add additional validation to your data type. 
+
+
+
+#### Creating a number column
+
+The process for creating a number column takes a few seconds.
+
+{% embed url="https://www.loom.com/share/669a1fd684f94b37bb8f7f0c717baaa3?from\_recorder=1" %}
+
+1. First, click the Create New Column button
+2. Give your column a name - we used Score in the video above.
+3. Choose Number as your data type
+4. Give it a min of 1, and a max of 5
+5. Click Save Column
+6. Add data to your new column by [adding rows](../tables/rows.md)
+
+#### 
+
+#### Using the number data type
+
+In the Design section, you can pull in information from your number column, using the [Repeater](../../design/components/repeater.md) component and [binding](../../design/binding.md).
+
+{% embed url="https://www.loom.com/share/5d471e733a294cb786bfe21add9f1d53?from\_recorder=1" %}
+
+## Important considerations
+
+* A number column can only include numbers. 
+* It cannot include punctuation marks, letters.
+* Telephone numbers need to be stored as a text/string data type because they often begin with a 0 and if they were stored as an integer then the leading zero would be discounted.
+
+
 
