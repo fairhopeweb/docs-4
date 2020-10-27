@@ -1,7 +1,5 @@
 ---
-description: >-
-  The text data type stores text, including numbers. It is also referred to as
-  the String data type
+description: 'This topic describes the string/text data types, supported in Budibase'
 ---
 
 # Text
