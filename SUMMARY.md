@@ -11,8 +11,7 @@
 * [4. Adding and managing data](tutorial/tutorial-adding-data.md)
 * [5. Designing your app](tutorial/5.-designing-your-app.md)
 * [6. Adding an email automation](tutorial/6.-adding-an-email-automation.md)
-* [7. Deploying your web app](tutorial/7.-deploying-your-web-app.md)
-* [8. Exploring our new CRM](tutorial/8.-exploring-our-new-crm.md)
+* [7. Deploying and exploring your new CRM](tutorial/7.-deploying-your-web-app.md)
 
 ## 🗂️ Data
 
