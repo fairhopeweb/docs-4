@@ -39,7 +39,6 @@
 * [Introduction to Design](design/introduction-to-design.md)
 * [Screens](design/screens.md)
 * [Components](design/components/README.md)
-  * [Layout](design/components/layout.md)
   * [Container](design/components/container.md)
   * [Repeater](design/components/repeater.md)
   * [Form](design/components/form.md)
