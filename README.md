@@ -1,8 +1,8 @@
 ---
 description: >-
-  Budibase is an open-source, low-code platform, for creating custom software.
-  The Budibase documentation site will explain how to set up, use, and
-  contribute to Budibase. Welcome to the community!
+  Budibase is an open-source low-code platform for building business apps. The
+  Budibase documentation site will explain how to set up, use, and contribute to
+  Budibase. Welcome to the community!
 ---
 
 # 👋 Budibase Documentation
@@ -13,11 +13,11 @@ description: >-
 
 ## [🌠 Quick Start &gt;](quick-start.md)
 
-Getting started with Budibase is easy. Simply complete the checklist below and you'll be building your web app in no time.
+Head to the quick start section for a micro-tutorial on how to get started. The process should only take a couple of minutes.
 
 ## 📘 [**Tutorial &gt;**](tutorial/tutorial-introduction.md) 
 
-The Budibase tutorial offers you step-by-step instructions on how to download Budibase, start a new project, and build a simple web application. The tutorial aims to be simple to follow and comprehensive. It is a great starting point for users who have never created a web application and do not have Budibase experience.
+The Budibase tutorial offers you step-by-step instructions on how to download Budibase, start a new project, and build a simple CRM. The tutorial aims to be simple to follow and comprehensive. It is a great starting point for users who have never created a web application and do not have Budibase experience.
 
 ## [👐 Make a contribution &gt;](contributions/contributing-to-budibase.md)
 
