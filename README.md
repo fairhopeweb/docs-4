@@ -8,7 +8,7 @@ description: >-
 # 👋 Budibase Documentation
 
 {% hint style="info" %}
-**📣 Warning -  Budibase is currently in Public Beta. Please be advised, Budibase is not production-ready. Apps created with Budibase might not be compatible post-launch!**
+📣 Warning -  Budibase is currently in Public Beta. Please be advised, Budibase is not production-ready. Apps created with Budibase might not be compatible post-launch!
 {% endhint %}
 
 ![](.gitbook/assets/banner-gradient-3-100.jpg)
