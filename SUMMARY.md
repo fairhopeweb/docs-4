@@ -84,7 +84,17 @@
 
 * [Add Users](settings/settings.md)
 
-## Integrations
+## 🖥️ Self hosting
+
+* [Introduction to self hosting](self-hosting/introduction-to-self-hosting.md)
+* [Hosting methods](self-hosting/hosting-methods/README.md)
+  * [Docker compose](self-hosting/hosting-methods/docker-compose.md)
+* [Hosting settings](self-hosting/hosting-settings.md)
+* [Builder settings](self-hosting/builder-settings.md)
+* [Advanced options](self-hosting/advanced-options/README.md)
+  * [Reverse proxy](self-hosting/advanced-options/reverse-proxy.md)
+
+## 🔗 Integrations
 
 * [SendGrid](integrations/sendgrid.md)
 
