@@ -13,6 +13,8 @@ The first step to getting your Budibase platform up and running with [Docker](ht
 
 The pre-requisites for installing Docker are minimal, in general the most important factor is that your OS is up to date - on Linux systems you will need a relatively up to date kernel. To help with this we have provided some scripts to help with installation and setup on a Linux based system, found [here](https://github.com/Budibase/budibase/tree/master/hosting/scripts/linux).
 
+To run the Budibase platform the minimum requirements are simply those required to install and run Docker, these can be found in the [Docker documentation](https://docs.docker.com/).
+
 For running in production we recommend the use of a Linux host, if you run into any issues getting this setup we recommend checking the output of [this script](https://github.com/moby/moby/blob/master/contrib/check-config.sh) - if you are missing some services here you may need to perform a distribution upgrade.
 
 ### Setting up Budibase

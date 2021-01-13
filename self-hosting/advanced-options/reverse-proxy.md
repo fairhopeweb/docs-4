@@ -6,7 +6,14 @@ description: How to configure a reverse proxy for your Budibase platform
 
 One of the main things you will want to setup before putting your Budibase platform into production use is a proxy, which can control access to the cluster via a domain \(removing the need for a port number and so on\) as well as allowing the use of HTTPS for a domain that you own. In this section we will provide some configuration options to get this up and running easily with [NGINX](https://www.nginx.com/).
 
-Our recommendation for running Budibase is a "many app one server" approach, where many different apps can be deployed to the same self hosted Budibase platform. In general this means that when you are making use of your app cluster there will be two main use cases that need to be forwarded:
+{% hint style="info" %}
+Please note, this section assumes some knowledge of NGINX installation, setup and configuration. Information about NGINX can be found here:  [installing](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/), [setup](https://docs.nginx.com/nginx/admin-guide/basic-functionality/runtime-control/) and [configuration](https://docs.nginx.com/nginx/admin-guide/basic-functionality/managing-configuration-files/). 
+{% endhint %}
+
+Our recommendation for running Budibase is a "many app one server" approach, where many different apps can be deployed to the same self hosted Budibase platform. In general this means you'll have two main options for hosting the Budibase platform:
+
+1.  A basic method where the app cluster is simply accessed directly.
+2. An advanced method where paths on your domain are directed to apps individually.
 
 #### Basic
 
