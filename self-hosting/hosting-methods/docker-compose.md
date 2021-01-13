@@ -25,7 +25,9 @@ Once you have Docker fully installed the rest of the process should be simple! Y
 
 Once you have these files downloaded running the platform is as simple as:
 
-`docker-compose --env-file hosting.properties up`
+```text
+docker-compose --env-file hosting.properties up
+```
 
 Running the above command in a prompt or terminal will start-up the Budibase cluster, installing the latest images for our required services and setting up a network to run them across - this may take some time to download the necessary resources.
 

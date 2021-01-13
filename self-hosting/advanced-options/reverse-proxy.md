@@ -18,18 +18,23 @@ set $budibase_host      <BUDIBASE_ADDRESS>;
 set $budibase_port      10000;
 
 server {
+    listen 80;
     server_name yourdomain.com;
+    
     location / {
         proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
         proxy_set_header X-Forwarded-Proto $scheme;
         proxy_set_header X-Real-IP $remote_addr;
         proxy_set_header Host $http_host;
+        proxy_http_version 1.1;
         proxy_pass http://$budibase_host:$budibase_port;
     }
+    
     client_max_body_size 50m;
 }
-
 ```
+
+In this configuration all that needs to be updated for this to work is where the Budibase platform has been hosted, if it is hosted on the same machine then simply replace `<BUDIBASE_ADDRESS>` with `localhost`.
 
 There are a few ways this can be extended/altered:
 
@@ -55,25 +60,27 @@ set $budibase_port      10000;
 
 # Ensure trailing slash is present
 location /crm {
-        return 302 /crm/;
+    return 302 /crm/;
 }
 
 # Serve main HTML from root path
 location /crm/ {
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_pass http://$budibase_host:$budibase_port/app/$budibase_app_id/;
-        proxy_http_version 1.1;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header Host $http_host;
+    proxy_http_version 1.1;
+    proxy_pass http://$budibase_host:$budibase_port/app/$budibase_app_id/;
 }
 
 # Serve app assets and API calls
 location ~* ^/(app-assets|api|deployment) {
-        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
-        proxy_set_header X-Forwarded-Proto $scheme;
-        proxy_set_header X-Real-IP $remote_addr;
-        proxy_pass http://$budibase_host:$budibase_port;
-        proxy_http_version 1.1;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header Host $http_host;
+    proxy_http_version 1.1;
+    proxy_pass http://$budibase_host:$budibase_port;
 }
 ```
 
