@@ -16,3 +16,7 @@ From here the process is much the same as deploying to our hosted platform and o
 
 {% embed url="https://www.loom.com/share/e4eb5ede6a0e40788298356ad8f47c25" caption="Self hosting with Budibase" %}
 
+### Final steps
+
+Now that you have your Budibase platform up and running and you've tested it by deploying apps to it you may want to look into some more advanced options such as setting up a NGINX reverse proxy to your platform and getting HTTPS configured; we have guides for this available in our advanced option section, [found here](advanced-options/).
+

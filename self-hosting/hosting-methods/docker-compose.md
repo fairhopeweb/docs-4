@@ -21,9 +21,13 @@ For running in production we recommend the use of a Linux host, if you run into 
 
 Once you have Docker fully installed the rest of the process should be simple! You'll want to download the following files to your host:
 
-1. [docker-compose.yaml](https://github.com/Budibase/budibase/blob/master/hosting/docker-compose.yaml) - this defines the images used by Budibase and how to orchestrate them.
-2. [hosting.properties](https://github.com/Budibase/budibase/blob/master/hosting/hosting.properties) - this contains all the default settings for your Budibase platform.
-3. [envoy.yaml](https://github.com/Budibase/budibase/blob/master/hosting/envoy.yaml) - this contains configuration information for the proxy service that directs traffic to the correct services inside the Budibase platform.
+1. [docker-compose.yaml](https://raw.githubusercontent.com/Budibase/budibase/master/hosting/docker-compose.yaml) - this defines the images used by Budibase and how to orchestrate them.
+2. [hosting.properties](https://raw.githubusercontent.com/Budibase/budibase/master/hosting/hosting.properties) - this contains all the default settings for your Budibase platform.
+3. [envoy.yaml](https://raw.githubusercontent.com/Budibase/budibase/master/hosting/envoy.yaml) - this contains configuration information for the proxy service that directs traffic to the correct services inside the Budibase platform.
+
+{% hint style="info" %}
+If you are planning to run the cluster in a production environment, you will want to update some of the settings before moving on, importantly the `HOSTING_KEY` found in the `hosting.properties`. Information about this can be found [here](../hosting-settings.md).
+{% endhint %}
 
 Once you have these files downloaded running the platform is as simple as:
 
@@ -37,11 +41,7 @@ When the cluster is ready you'll see a mixture of log messages from the various 
 
 ### Next steps
 
-Now that you have your Budibase platform up there are a few steps you will want to take:
-
-1. [Production usage](../hosting-settings.md) - If this cluster is for a production usage then you will want to change all of the hosting settings to suit your needs and secure your platform properly, information about this can be found [here](../hosting-settings.md).
-2. [Advanced options](../advanced-options/) - To proxy requests from a domain and re-map apps to specific paths/sub-domains then you may want to read our documentation around this. 
-3. [Using the platform](../builder-settings.md) - To connect to the platform from your Builder you will want to make use of self hosting options in the Builder, information about this can be found [here](../builder-settings.md).
+From here the next step is to test that your Budibase platform works correctly, by deploying an app from your Budibase Builder. To connect to the platform from your Builder you will want to make use of self hosting options in the Builder, information about this can be found [here](../builder-settings.md).
 
 ### Further information
 
