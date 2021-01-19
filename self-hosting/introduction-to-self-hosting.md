@@ -4,7 +4,9 @@ description: How to host Budibase anywhere
 
 # Introduction to self hosting
 
-Budibase wants to make sure anyone can use the tools we develop and we know a lot of people need to be able to host the apps they make on their own systems - that is why we've decided to try and make self hosting as easy as possible!
+Budibase wants to make sure anyone can use the tools we develop and we know a lot of people need to be able to host the apps they make on their own systems - that is why we've decided to try and make self-hosting as easy as possible!
+
+![](../.gitbook/assets/youtube-self-host-video-thumbnail.png)
 
 Budibase currently supports hosting of our platform through the use of [Docker](https://www.docker.com/) and an orchestration tool called [Docker Compose](https://docs.docker.com/compose/). With these tools it is possible to get Budibase up and running anywhere in only a few minutes! Follow the links below to find out more and get the full details on how to get this setup.
 
