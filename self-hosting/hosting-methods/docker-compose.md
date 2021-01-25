@@ -2,7 +2,7 @@
 description: Setting up a cluster with Docker and Docker compose
 ---
 
-# Docker compose
+# Docker Compose Manual Setup
 
 ### Installing Docker
 
