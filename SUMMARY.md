@@ -88,6 +88,7 @@
 
 * [Introduction to self hosting](self-hosting/introduction-to-self-hosting.md)
 * [Hosting methods](self-hosting/hosting-methods/README.md)
+  * [DigitalOcean](self-hosting/hosting-methods/digitalocean.md)
   * [Docker compose](self-hosting/hosting-methods/docker-compose.md)
 * [Hosting settings](self-hosting/hosting-settings.md)
 * [Builder settings](self-hosting/builder-settings.md)
@@ -104,6 +105,8 @@
 
 ## 🔧 Technical
 
+* [Contributing External Data Connectors](technical/contribute-data-connectors.md)
+* [Untitled](technical/untitled.md)
 * [Component Libraries](technical/component-libraries/README.md)
   * [Components.json](technical/component-libraries/1-components-json.md)
   * [Component JSON API](technical/component-libraries/2-component-json-api.md)
