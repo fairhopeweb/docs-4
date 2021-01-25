@@ -2,9 +2,11 @@
 description: Setting up a cluster with Docker and Docker compose
 ---
 
-# Docker Compose Manual Setup
+# Docker compose
 
-### Installing Docker
+![](../../.gitbook/assets/youtube-self-host-video-thumbnail.png)
+
+## Installing Docker
 
 The first step to getting your Budibase platform up and running with [Docker](https://www.docker.com/) is to make sure that you have the following installed:
 
@@ -17,7 +19,7 @@ To run the Budibase platform the minimum requirements are simply those required 
 
 For running in production we recommend the use of a Linux host, if you run into any issues getting this setup we recommend checking the output of [this script](https://github.com/moby/moby/blob/master/contrib/check-config.sh) - if you are missing some services here you may need to perform a distribution upgrade.
 
-### Setting up Budibase
+## Setting up Budibase
 
 Once you have Docker fully installed the rest of the process should be simple! You'll want to download the following files to your host:
 
@@ -39,11 +41,11 @@ Running the above command in a prompt or terminal will start-up the Budibase clu
 
 When the cluster is ready you'll see a mixture of log messages from the various services that makeup the cluster - you should now be able to connect from your builder and make use of it! If you run into any issues the easiest way to resolve them would be to get in contact with the team through our official [Discord server](https://discord.gg/aux3PNGTXz).
 
-### Next steps
+## Next steps
 
 From here the next step is to test that your Budibase platform works correctly, by deploying an app from your Budibase Builder. To connect to the platform from your Builder you will want to make use of self hosting options in the Builder, information about this can be found [here](../builder-settings.md).
 
-### Further information
+## Further information
 
 For those out there interested in a more advanced setup you may want to make alternations to the `docker-compose.yaml` config file, so just for you we'll cover the various services and their purposes.
 

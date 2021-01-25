@@ -10,25 +10,27 @@ Budibase wants to make sure anyone can use the tools we develop and we know a lo
 
 Budibase currently supports hosting of our platform through the use of [Docker](https://www.docker.com/) and an orchestration tool called [Docker Compose](https://docs.docker.com/compose/). With these tools it is possible to get Budibase up and running anywhere in only a few minutes! Follow the links below to find out more and get the full details on how to get this setup.
 
+## Simple Setup
 
-### Simple Setup
 The simplest way to get self-hosted budibase up and running quickly is to use [DigitalOcean](https://www.digitalocean.com). Create an account if you don't have one. You can also use our [referral code](https://m.do.co/c/0caaa6085a82) to get $100 of free DigitalOcean credit!
 
 Follow these steps to set up your budibase instance:
 
-#### Create a Docker Droplet
-We use [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) to run budibase. DigitalOcean provides a droplet (server) pre-configured with both. Create a docker droplet here:
+### Create a Docker Droplet
 
-https://marketplace.digitalocean.com/apps/docker
+We use [Docker](https://www.docker.com/) and [Docker Compose](https://docs.docker.com/compose/install/) to run budibase. DigitalOcean provides a droplet \(server\) pre-configured with both. Create a docker droplet here:
+
+[https://marketplace.digitalocean.com/apps/docker](https://marketplace.digitalocean.com/apps/docker)
 
 Click **Create Docker Droplet** to get to the configuration screen.
 
-#### Set Up Droplet
+### Set Up Droplet
+
 Now it's time to configure your droplet.
 
 ![](../.gitbook/assets/dropletconfig.png)
 
-The smallest droplet (1GB) will run the platform well, but we recommend larger instances for higher volume use cases.
+The smallest droplet \(1GB\) will run the platform well, but we recommend larger instances for higher volume use cases.
 
 Choose where you would like to host your droplet by clicking on one of the flags in the datacenter region section, or leave as default to host in New York.
 
@@ -50,12 +52,13 @@ Now, create a password for your instance. This allows you to access your instanc
 
 Finally, click the **Create Droplet** button at the bottom. This will bring up your shiny new budibase instance, and you can now [configure your builder](builder-settings.md) to deploy your budibase applications to your new instance!
 
-#### Video
-If you are more of a visual person, here's an instructional video showing how to perform the above simple DigitalOcean installation. 
+### Video
+
+If you are more of a visual person, here's an instructional video showing how to perform the above simple DigitalOcean installation.
 
 {% embed url="https://www.loom.com/share/6a65f9f09c2b45e3a79f9f9d8662c05b" caption="" %}
 
-### Hosting Configuration
+## Hosting Configuration
 
 We do not recommend the simple digitalocean setup alone for production installations. The following sections detail how you can edit your budibase configuration, or spin up budibase manually on your own servers.
 
