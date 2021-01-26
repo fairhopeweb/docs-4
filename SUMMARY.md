@@ -105,7 +105,6 @@
 
 ## 🔧 Technical
 
-* [Contributing External Data Connectors](technical/contribute-data-connectors.md)
 * [Untitled](technical/untitled.md)
 * [Component Libraries](technical/component-libraries/README.md)
   * [Components.json](technical/component-libraries/1-components-json.md)
@@ -116,5 +115,6 @@
 
 ## 👐 Contributing <a id="contributions"></a>
 
+* [Writing Your Own External Data Connectors](contributions/contribute-data-connectors.md)
 * [Contributing to Budibase](contributions/contributing-to-budibase.md)
 
