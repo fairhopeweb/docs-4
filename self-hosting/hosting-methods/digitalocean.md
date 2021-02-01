@@ -10,6 +10,16 @@ description: The simplest way to self-host your own budibase instance
 
 The simplest way to get self-hosted budibase up and running quickly is to use [DigitalOcean](https://www.digitalocean.com). Create an account if you don't have one. You can also use our [referral code](https://m.do.co/c/0caaa6085a82) to get $100 of free DigitalOcean credit!
 
+### One Click Setup
+
+The fastest way to set up budibase with the default settings is to use our one click offering on the DigitalOcean marketplace, click the button below to deploy your budbase server to DigitalOcean with ease.
+
+[![Deploy to DO](https://www.deploytodo.com/do-btn-blue.svg)](https://cloud.digitalocean.com/droplets/new?onboarding_origin=marketplace&i=09038e&fleetUuid=bb04f9c8-1de8-4687-b2ae-1d5177a0535b&appId=77729671&type=applications&size=s-4vcpu-8gb&region=nyc1&refcode=0caaa6085a82&image=budibase-20-04)
+
+If you would like to set up your droplet from scratch, or you want to run budibase on an existing droplet, please follow the manual setup below.
+
+## Manual Setup
+
 Follow these steps to set up your budibase instance:
 
 ### Create a Docker Droplet
