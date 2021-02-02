@@ -105,7 +105,6 @@
 
 ## 🔧 Technical
 
-* [Untitled](technical/untitled.md)
 * [Component Libraries](technical/component-libraries/README.md)
   * [Components.json](technical/component-libraries/1-components-json.md)
   * [Component JSON API](technical/component-libraries/2-component-json-api.md)

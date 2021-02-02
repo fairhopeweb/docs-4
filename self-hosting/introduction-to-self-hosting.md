@@ -1,5 +1,5 @@
 ---
-description: The simplest way to self-host your own budibase instance.
+description: The easiest way to self-host your own budibase instance.
 ---
 
 # Introduction to self hosting
