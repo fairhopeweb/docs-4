@@ -4,15 +4,13 @@ description: The date data type stores dates.
 
 # Date/time
 
-The date/time data type stores dates. This is important when using components, or displaying information that relies on time/dates. A calendar component, for example, will utilize the date field. With Budibase, you can also provide an earliest and latest date, within your date/time data type. This allows you to add additional validation so dates added have to fall after, before or in between the earlier and latest dates. The date's within Budibase comply to ISO8601 formating - `2020-09-24T13:12:04.622Z`. Thankfully, we have a date picker which removes the need for data entry and makes life easier.
+The date/time data type stores dates. This is important when using components, or displaying information that relies on time/dates. A calendar component, for example, will utilize the date field. With Budibase, you can also provide an earliest and latest date, within your date/time data type. This allows you to add additional validation so dates added have to fall after, before, or in between the earlier and latest dates. The date's within Budibase comply with ISO8601 formating - `2020-09-24T13:12:04.622Z`. Thankfully, we have a date picker that removes the need for data entry and makes life easier.
 
 
 
 #### Creating a date/time column
 
 The process for creating a date column takes a few seconds.
-
-{% embed url="https://www.loom.com/share/a417d523bf0e47ecae4842a78955c6ce" %}
 
 
 

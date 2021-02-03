@@ -15,8 +15,6 @@ True/False is a data type that has one of two possible values \(usually denoted 
 
 The process for creating a true/false column takes a few seconds.
 
-{% embed url="https://www.loom.com/share/7cb45b0664f44e71b2c5ce282e172de1" %}
-
 1. First, click the Create New Column button
 2. Give your column a name - we used Completed in the video above.
 3. Choose True/False as your data type
@@ -28,6 +26,4 @@ The process for creating a true/false column takes a few seconds.
 #### Using the true/false data type
 
 In the Design section, you can pull in information from your true/false column, using the [Repeater](../../design/components/repeater.md) component and [binding](../../design/binding.md).
-
-{% embed url="https://www.loom.com/share/7942bc05d9a44d0f8a77e223761f1fdd" %}
 

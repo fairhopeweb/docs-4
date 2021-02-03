@@ -18,10 +18,6 @@ To create a new Calculation:
 Your table must have a column before you can create a table
 {% endhint %}
 
-{% embed url="https://www.loom.com/share/2fbb93d54a2046a48d35f543a7fe4307" %}
-
-
-
 ### Formulas
 
 Sum

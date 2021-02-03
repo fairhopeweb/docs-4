@@ -18,7 +18,3 @@ To create a new Group:
 * [ ] Select the Column you would like to Group by.
 * [ ] Click save
 
-{% embed url="https://www.loom.com/share/f95cdc9e87774159ae0742069763fa6c" %}
-
-
-

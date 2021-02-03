@@ -12,8 +12,6 @@ The number data type stores numbers.  A number column is a good choice if you wa
 
 The process for creating a number column takes a few seconds.
 
-{% embed url="https://www.loom.com/share/669a1fd684f94b37bb8f7f0c717baaa3?from\_recorder=1" %}
-
 1. First, click the Create New Column button
 2. Give your column a name - we used Score in the video above.
 3. Choose Number as your data type
@@ -26,8 +24,6 @@ The process for creating a number column takes a few seconds.
 #### Using the number data type
 
 In the Design section, you can pull in information from your number column, using the [Repeater](../../design/components/repeater.md) component and [binding](../../design/binding.md).
-
-{% embed url="https://www.loom.com/share/5d471e733a294cb786bfe21add9f1d53?from\_recorder=1" %}
 
 ## Important considerations
 
