@@ -51,12 +51,16 @@ description: Welcome to Budi TV - a collection of screencasts to help you master
 | :--- | :--- |
 | Change screen background-color | [https://www.loom.com/share/fd4887feb7ab4054aa51d5151890c76c](https://www.loom.com/share/fd4887feb7ab4054aa51d5151890c76c) |
 
+
+
 ## Components
 
 | Title | Video |
 | :--- | :--- |
 | Repeater | [https://www.loom.com/share/bb4cbb0449cc446a8898ef555d00417a](https://www.loom.com/share/bb4cbb0449cc446a8898ef555d00417a) |
 | Stat card | [https://www.loom.com/share/035a8b03f8bc4a4caf3699477a49385a](https://www.loom.com/share/035a8b03f8bc4a4caf3699477a49385a) |
+
+
 
 ## Binding
 
@@ -65,6 +69,8 @@ description: Welcome to Budi TV - a collection of screencasts to help you master
 | Binding data | [https://www.loom.com/share/bb4cbb0449cc446a8898ef555d00417a](https://www.loom.com/share/bb4cbb0449cc446a8898ef555d00417a) |
 | Subtract | [https://www.loom.com/share/035a8b03f8bc4a4caf3699477a49385a](https://www.loom.com/share/035a8b03f8bc4a4caf3699477a49385a) |
 | Capitalize | [https://www.loom.com/share/035a8b03f8bc4a4caf3699477a49385a](https://www.loom.com/share/035a8b03f8bc4a4caf3699477a49385a) |
+
+
 
 ## Automations
 
