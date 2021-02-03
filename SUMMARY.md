@@ -2,6 +2,7 @@
 
 * [👋 Budibase Documentation](README.md)
 * [🌠 Quick Start](quick-start.md)
+* [Screencasts](screencasts.md)
 
 ## 📘 Tutorial
 

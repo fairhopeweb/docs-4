@@ -19,6 +19,10 @@ To create a new column:
 * [ ] Select a column type
 * [ ] Click save
 
+{% embed url="https://www.loom.com/share/cac61c903f574f3b84f3b871502de38f" %}
+
+
+
 {% embed url="https://www.loom.com/share/00339ad805124ceb8e63d34f04f144a0" %}
 
 ## Data types
