@@ -22,7 +22,7 @@ The normal screens _slot_ into your screen slot when the application is compiled
 
 To create a new Screen:
 
-* [ ] Click the `create new screen` button
+* [ ] Click the `+` button
 * [ ] Give your new Screen a name
 * [ ] Assign a URL slug to your screen i.e. /leads
 * [ ] Click the `create screen` button
