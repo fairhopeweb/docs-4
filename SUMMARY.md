@@ -64,7 +64,7 @@
   * [Effects](design/design-properties/effects.md)
   * [Transitions](design/design-properties/transitions.md)
 * [States](design/states.md)
-* [Binding](design/binding.md)
+* [Bindings](design/binding.md)
 * [Actions](design/actions.md)
 
 ## 🤖 Automate

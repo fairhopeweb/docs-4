@@ -2,7 +2,7 @@
 description: data bindings with Handlebars
 ---
 
-# Binding
+# Bindings
 
 Budibase is focused on building data-centric web apps and tools - to be able to do this you need a way to manipulate data. To do this Budibase has the ability to bind data into any design or automation element through the use of [Handlebars syntax](https://handlebarsjs.com/).
 
@@ -13,7 +13,7 @@ Budibase bindings utilise Handlebars heavily, therefore it is useful to have an 
 There are a number of places that bindings can be utilised throughout the Budibase Builder such as:
 
 1. External data source queries - when building a query it is possible to utilise Handlebars syntax to specify where parameters should be inserted, e.g. `SELECT * FROM users WHERE username = {{ value }}`
-2. The value of components in design - the values of most components in the design can be populated with bindings; anywhere that a value in the components setting has a "pen" next to it a binding can be inserted. Clicking the binding button \(the pen\) will open the binding drawer.
+2. The value of components in design - the values of most components in the design can be populated with bindings; anywhere that a value in the components setting has a lightning bolt next to it a binding can be inserted. Clicking the binding button \(the bolt\) will open the binding drawer.
 3. Automation steps - automations have the ability to make use of data from previous steps, this can be found in the binding panel; opened in the same manner as with the design bindings.
 
 When making use of bindings it is possible to manipulate the data using the Budibase Handlebars helpers, these allow performing calculations, carrying out some basic logical comparisons and some array/string functions. The full list of options available is as follows:
