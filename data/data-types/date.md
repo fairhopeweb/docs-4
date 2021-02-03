@@ -12,8 +12,6 @@ The date/time data type stores dates. This is important when using components, o
 
 The process for creating a date column takes a few seconds.
 
-
-
 1. First, click the Create New Column button
 2. Give your column a name - we used Date Started in the video above.
 3. Choose date/time as your data type
