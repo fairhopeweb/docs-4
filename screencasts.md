@@ -57,4 +57,17 @@ description: Welcome to our library of screencasts.
 | :--- | :--- |
 | Create new automation | [https://www.loom.com/share/bb4cbb0449cc446a8898ef555d00417a](https://www.loom.com/share/eeead2e4ec9b45f6b557a493abbf2472) |
 | Adding steps | [https://www.loom.com/share/1fa21c7cfb1947e8bb217a81aeec1e7d](https://www.loom.com/share/1fa21c7cfb1947e8bb217a81aeec1e7d) |
+|  |  |
+
+
+
+
+
+## Self-hosting
+
+| Title | Video |
+| :--- | :--- |
+| Digital Ocean | [https://www.loom.com/share/bb4cbb0449cc446a8898ef555d00417a](https://www.loom.com/share/eeead2e4ec9b45f6b557a493abbf2472) |
+| Docker | [https://www.loom.com/share/1fa21c7cfb1947e8bb217a81aeec1e7d](https://www.loom.com/share/1fa21c7cfb1947e8bb217a81aeec1e7d) |
+|  |  |
 
