@@ -11,8 +11,6 @@ description: Welcome to Budi TV - a collection of screencasts to help you master
 | Add user | [https://www.loom.com/share/4449a8bb788a4939b215b7e4843fcc2a](https://www.loom.com/share/4449a8bb788a4939b215b7e4843fcc2a) |
 | Delete user | [https://www.loom.com/share/73994f50aaaa48d5b578055b7e4ef326](https://www.loom.com/share/73994f50aaaa48d5b578055b7e4ef326) |
 
-
-
 ## Tables
 
 | Title | Video |
