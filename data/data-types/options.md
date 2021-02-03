@@ -12,10 +12,6 @@ The options data type stores options in the form of strings/text that are availa
 
 The process for creating an option column takes a few seconds.
 
-{% embed url="https://www.loom.com/share/f912328759464d8993022454dea8fe88" %}
-
-
-
 1. First, click the Create New Column button
 2. Give your column a name - we used Department in the video above.
 3. Choose options as your data type
@@ -28,8 +24,4 @@ The process for creating an option column takes a few seconds.
 #### Using the date/time data type
 
 In the Design section, you can pull in information from your options column, using the [Repeater](../../design/components/repeater.md) component and [binding](../../design/binding.md).
-
-{% embed url="https://www.loom.com/share/bcf11f06c5b2433ea55efdb61f81715a" %}
-
-
 
