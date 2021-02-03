@@ -27,10 +27,6 @@ The process for creating a date column takes a few seconds.
 
 In the Design section, you can pull in information from your date/time column, using the [Repeater](../../design/components/repeater.md) component and [binding](../../design/binding.md).
 
-{% embed url="https://www.loom.com/share/c464f668f252469d8927f7ef782a245d" %}
-
-
-
 
 
 ### 
