@@ -10,6 +10,7 @@ description: Welcome to Budi TV - a collection of screencasts to help you master
 | :--- | :--- |
 | Return to apps | [https://www.loom.com/share/e391291f10b14cc68ad63ac23324d486](https://www.loom.com/share/e391291f10b14cc68ad63ac23324d486) |
 | Light mode / dark mode | [https://www.loom.com/share/0d7fc454d7f5429da7042822d3832dae](https://www.loom.com/share/0d7fc454d7f5429da7042822d3832dae) |
+| Deleting an app | [https://www.loom.com/share/75de4421b291444ab4bd9c9e52cff10e](https://www.loom.com/share/75de4421b291444ab4bd9c9e52cff10e) |
 
 ## 
 
