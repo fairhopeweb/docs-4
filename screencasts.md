@@ -11,6 +11,8 @@ description: Welcome to Budi TV - a collection of screencasts to help you master
 | Add user | [https://www.loom.com/share/4449a8bb788a4939b215b7e4843fcc2a](https://www.loom.com/share/4449a8bb788a4939b215b7e4843fcc2a) |
 | Delete user | [https://www.loom.com/share/73994f50aaaa48d5b578055b7e4ef326](https://www.loom.com/share/73994f50aaaa48d5b578055b7e4ef326) |
 
+
+
 ## Tables
 
 | Title | Video |
@@ -19,6 +21,8 @@ description: Welcome to Budi TV - a collection of screencasts to help you master
 | Create a column | [https://www.loom.com/share/cac61c903f574f3b84f3b871502de38f](https://www.loom.com/share/cac61c903f574f3b84f3b871502de38f) |
 | Creating a relationship | [https://www.loom.com/share/1a78d4e58ba24ffe93a3fefbe0f728be](https://www.loom.com/share/1a78d4e58ba24ffe93a3fefbe0f728be) |
 | Add attachment column | [https://www.loom.com/share/487b345890c54ec39c8b9667a7ec21cb](https://www.loom.com/share/487b345890c54ec39c8b9667a7ec21cb) |
+| Editing a row | [https://www.loom.com/share/e1aeec63e5d747dd9ef6e1006d3c59ce](https://www.loom.com/share/e1aeec63e5d747dd9ef6e1006d3c59ce) |
+| Edit column title | [https://www.loom.com/share/a9ed23067e3b4f8eb31593436c1da7d9](https://www.loom.com/share/a9ed23067e3b4f8eb31593436c1da7d9) |
 
 
 
