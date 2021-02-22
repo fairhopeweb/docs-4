@@ -34,6 +34,7 @@ Parameters are used to supply data into a query. This allows you to create a dyn
 Below is an example using a SQL query:
 
 Parameter: `emailAddress`
+
 Query: `SELECT id, name, telephone FROM customers WHERE email = '{{ emailAddress }}'`
 
 Here, we use the `emailAddress` parameter to filter the SQL statement.
@@ -42,10 +43,10 @@ When we use a query in the Budibase design section, we have the option to supply
 
 ### Parameter default value
 
-When you create a parameter, we have then option of setting a "Default Value". The query will use this value when the parameter is not supplied by the caller.
+When you create a parameter, we have then option of setting a "Default Value". The query will use this value when the parameter is not supplied.
 
 ## Schema
 
 The schema defines a list of fields that describe the output from your query. All queries must define a schema.
 
-Once you have set up your query, clicking "Run Query" will automatically populate your schema. You may then manually add and remove fields from your schema.
+Once you have set up your query, click "Run Query" to automatically create your schema. You may then manually add and remove fields from your schema.
