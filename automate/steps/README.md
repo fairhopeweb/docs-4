@@ -18,7 +18,7 @@ In the following pages we will cover the three step types:
 
 Below is a quick overview of setting up a few steps as part of an automation.
 
-{% embed url="https://www.loom.com/share/f1d5e4a57d564b56b0c311fb2058db37" caption="Setting up some steps" %}
+{% embed url="https://youtu.be/b95JgUSUmfM" caption="Setting up some steps" %}
 
 
 
