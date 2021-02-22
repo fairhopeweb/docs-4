@@ -34,6 +34,9 @@
     * [Example](data/data-types/attachments/example.md)
   * [Relationships](data/data-types/relationships/README.md)
     * [Example](data/data-types/relationships/example.md)
+* [Data Sources](data/data-sources/README.md)
+  * [Queries](data/data-sources/queries.md)
+  * [Using Queries in your app](data/data-sources/displaying-query-data-in-your-app.md)
 
 ## 🎨 Design
 
