@@ -15,7 +15,7 @@ To create a Data Source,
 4. Choose the type of data source
 5. Enter configuration details
 
-{% embed url="https://www.youtube.com/embed/8fcQDZ2PcoY" %}
+{% embed url="https://youtu.be/8fcQDZ2PcoY" %}
 
 This is where you describe the basic connection details of your data source. You must create a [query](./queries.md) to read and write data to the data source.
 

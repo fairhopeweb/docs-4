@@ -8,7 +8,7 @@ Once you have setup your external data source, you can use a query to describe h
 
 In the examble below, I run a `select`, against a Postgres database.
 
-{% embed url="https://www.youtube.com/embed/NIvMwc78DYc" %}
+{% embed url="https://youtu.be/NIvMwc78DYc" %}
 
 ## Function
 

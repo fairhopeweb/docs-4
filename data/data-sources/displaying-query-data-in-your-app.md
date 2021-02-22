@@ -10,4 +10,4 @@ If you have added parameters to your query, you can supply values for these usin
 
 The example in the video below shows how we can use a form and a grid to execute a query with parameters.
 
-{% embed url="https://www.youtube.com/embed/Nei220VBrBU" %}
+{% embed url="https://youtu.be/Nei220VBrBU" %}
