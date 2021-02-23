@@ -83,6 +83,7 @@
 ## 🚀 Deploy
 
 * [Introduction to Deploy](deploy/introduction-to-deploy.md)
+* [Deployment information](deploy/deployment-information.md)
 
 ## 🔧 Settings
 
@@ -102,6 +103,7 @@
 ## 🔗 Integrations
 
 * [SendGrid](integrations/sendgrid.md)
+* [Budibase architecture](integrations/budibase-architecture.md)
 
 ## 👐 Contributing <a id="contributions"></a>
 
