@@ -24,7 +24,7 @@ Next, we need to create [columns](../../tables/columns.md) in our `Countries` ta
 
 Watch the video below to find out how to set up your table as detailed above.
 
-{% embed url="https://www.loom.com/share/487b345890c54ec39c8b9667a7ec21cb" caption="" %}
+{% embed url="https://youtu.be/78qLHu6ShkY" %}
 
 ## Creating Rows and Uploading Data
 
@@ -37,7 +37,7 @@ Here are the files used in the video below if you don't have your own:
 * [Spanish Flag Image](https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png)
 * [Spanish Travel Guide](https://www.madeforspainandportugal.com/wp-content/uploads/2016/01/Spain-with-Made-for-Spain.pdf)
 
-{% embed url="https://www.loom.com/share/01267f53e26d4e1c8183a5919ec176d2" caption="" %}
+{% embed url="https://youtu.be/yULNH7MHez8" %}
 
 Muy bien! 🇪🇸
 
@@ -61,11 +61,11 @@ Let's dive into some of the different ways we can interact with attachments in o
 
 Let's edit our Spain row to add another travel guide. This involves navigating to the detail view for Spain and adding another PDF file.
 
-{% embed url="https://www.loom.com/share/a14e97fe11434f6b9293e9d7196846c0" caption="" %}
+{% embed url="https://youtu.be/vKcwGA7evbQ" %}
 
 ### Delete Country Attachments
 
 You can delete an attachment from the Country table or the Country Detail Screen. Let's delete one of our travel guides from the table view, and the other one from the detail view.
 
-{% embed url="https://www.loom.com/share/869744c20764415ea6bf6f7a49974c6c" caption="" %}
+{% embed url="https://youtu.be/BqPYV7\_-w10" %}
 
