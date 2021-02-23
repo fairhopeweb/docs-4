@@ -26,9 +26,7 @@ To create a new Filter:
 * [ ] Type your query
 * [ ] Click `Save`
 
-{% embed url="https://www.loom.com/share/fc6aba96f9cb4d10868290c009938b34" %}
-
-
+{% embed url="https://youtu.be/oxSW6fqjLOQ" %}
 
 ## Filter Functions
 
