@@ -14,7 +14,7 @@ Once you have your Budibase platform up and running the next step is to deploy a
 
 From here the process is much the same as deploying to our hosted platform and once you have deployed you should be able to view the app using its app ID and your self hosted Budibase platform. Below is a video walking you through these stages from getting the right settings to get your app deployed.
 
-{% embed url="https://www.loom.com/share/e4eb5ede6a0e40788298356ad8f47c25" caption="Self hosting with Budibase" %}
+{% embed url="https://youtu.be/S2D5-5VIjag" %}
 
 ### Final steps
 
