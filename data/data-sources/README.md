@@ -8,7 +8,13 @@ Using Data Sources, you can read and write data from sources outside of Budibase
 
 ## How to create a Data Source
 
-To create a Data Source, 1. Click "Data Sources" 2. Click the `+` button 3. Enter a name for your data source 4. Choose the type of data source 5. Enter configuration details
+To create a Data Source
+
+1. Click "Data Sources" 
+2. Click the `+` button 
+3. Enter a name for your data source
+4. Choose the type of data source
+5. Enter configuration details
 
 {% embed url="https://youtu.be/8fcQDZ2PcoY" caption="" %}
 
