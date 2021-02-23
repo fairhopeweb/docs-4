@@ -10,7 +10,7 @@ Within Budibase, there is a growing list of components at your disposal. You can
 
 * [Container](container.md)
 * [Repeater](repeater.md)
-* [Form](form.md)
+* [Forms](../forms/)
 * [Table](table.md)
 * [Chart](charts.md)
 * [Card](card.md)
@@ -19,4 +19,6 @@ Within Budibase, there is a growing list of components at your disposal. You can
 * [Icon](icon.md)
 * [Image](image.md)
 * [Embed](embed.md)
+
+
 
