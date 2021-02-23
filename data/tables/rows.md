@@ -18,7 +18,7 @@ To create a new Row:
 Your table must have a column before you can create a table
 {% endhint %}
 
-{% embed url="https://www.loom.com/share/b5c63f0923534d559d43dc63b5b7727c" %}
+{% embed url="https://youtu.be/CY-s\_GJBnw0" %}
 
 
 
