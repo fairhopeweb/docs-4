@@ -37,6 +37,7 @@
 * [External Data Sources](data/data-sources/README.md)
   * [Queries](data/data-sources/queries.md)
   * [Using Queries in your app](data/data-sources/displaying-query-data-in-your-app.md)
+* [Users](data/users.md)
 
 ## 🎨 Design
 
@@ -87,7 +88,7 @@
 
 ## 🔧 Settings
 
-* [Add Users](settings/settings.md)
+* [Introduction to settings](settings/settings.md)
 
 ## 🖥️ Self hosting
 
