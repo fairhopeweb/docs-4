@@ -22,7 +22,9 @@ You must have a Table, before you can create a View
 
 To create a new table, click the `create new view` button, and give it a name.
 
-{% embed url="https://www.loom.com/share/c2cddf6236d64a1b9857f89f6a0f421a" %}
+By default, a view will display all the data in your table. You should add a filter and/or a calculation to change data is displayed.
+
+{% embed url="https://youtu.be/oxSW6fqjLOQ" %}
 
 
 
