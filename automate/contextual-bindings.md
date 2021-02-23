@@ -24,7 +24,5 @@ Our binding editor will keep track of all of the outputs from previous steps but
 
 Below is a short video showing how the contextual bindings can be used in a basic automation.
 
-{% embed url="https://youtu.be/Kb7F8FSYKA4" %}
-
-
+{% embed url="https://youtu.be/Kb7F8FSYKA4" caption="" %}
 

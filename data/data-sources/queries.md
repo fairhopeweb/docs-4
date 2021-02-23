@@ -8,22 +8,22 @@ Once you have setup your external data source, you can use a query to describe h
 
 In the examble below, I run a `select`, against a Postgres database.
 
-{% embed url="https://youtu.be/NIvMwc78DYc" %}
+{% embed url="https://youtu.be/NIvMwc78DYc" caption="" %}
 
 ## Function
 
 You must choose a function when creating a query. The options are
 
-- *Read* - Budibase will fetch a list of records from your data source.
-- *Create* - A new record is created in your data source
-- *Update* -An existing record is updated in your data source
-- *Delete* - An existing record is deleted from your datasource
+* _Read_ - Budibase will fetch a list of records from your data source.
+* _Create_ - A new record is created in your data source
+* _Update_ -An existing record is updated in your data source
+* _Delete_ - An existing record is deleted from your datasource
 
 ## Fields
 
 This section defines the information that you must input to setup your query.
 
-This information differs, depending on which data connector you have decided to use (e.g. Postgres, MongoDb, Airtable etc).
+This information differs, depending on which data connector you have decided to use \(e.g. Postgres, MongoDb, Airtable etc\).
 
 For example, if you are using a SQL connector, this is where you will input your SQL statement.
 
@@ -50,3 +50,4 @@ When you create a parameter, we have then option of setting a "Default Value". T
 The schema defines a list of fields that describe the output from your query. All queries must define a schema.
 
 Once you have set up your query, click "Run Query" to automatically create your schema. You may then manually add and remove fields from your schema.
+

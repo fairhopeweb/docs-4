@@ -19,7 +19,5 @@ If your automation does not run as expected then check that all input mustache s
 
 Below is a video showing the testing of a very basic automation being activated and then tested.
 
-{% embed url="https://youtu.be/clZJ7ntWbPY1" %}
-
-
+{% embed url="https://youtu.be/clZJ7ntWbPY1" caption="" %}
 

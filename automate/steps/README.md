@@ -20,13 +20,3 @@ Below is a quick overview of setting up a few steps as part of an automation.
 
 {% embed url="https://youtu.be/b95JgUSUmfM" caption="Setting up some steps" %}
 
-
-
-
-
-
-
-
-
-
-
