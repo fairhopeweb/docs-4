@@ -1,5 +1,5 @@
 ---
-description: Covering the Budibase platform architecture in self hosting and the Cloud
+description: Covering the architecture that makes the Budibase platform work
 ---
 
 # Budibase architecture
