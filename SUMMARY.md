@@ -92,6 +92,7 @@
 ## 🖥️ Self hosting
 
 * [Introduction to self hosting](self-hosting/introduction-to-self-hosting.md)
+* [Budibase architecture](self-hosting/budibase-architecture.md)
 * [Hosting methods](self-hosting/hosting-methods/README.md)
   * [DigitalOcean](self-hosting/hosting-methods/digitalocean.md)
   * [Docker compose](self-hosting/hosting-methods/docker-compose.md)
@@ -103,7 +104,6 @@
 ## 🔗 Integrations
 
 * [SendGrid](integrations/sendgrid.md)
-* [Budibase architecture](integrations/budibase-architecture.md)
 
 ## 👐 Contributing <a id="contributions"></a>
 
