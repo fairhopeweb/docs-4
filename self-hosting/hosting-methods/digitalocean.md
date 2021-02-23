@@ -62,7 +62,7 @@ Finally, click the **Create Droplet** button at the bottom. This will bring up y
 
 If you are more of a visual person, here's an instructional video showing how to perform the above simple DigitalOcean installation.
 
-{% embed url="https://www.loom.com/share/6a65f9f09c2b45e3a79f9f9d8662c05b" caption="" %}
+{% embed url="https://youtu.be/IZzGSHNE5xM" %}
 
 ## 
 
