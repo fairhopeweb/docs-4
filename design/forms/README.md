@@ -28,6 +28,12 @@ Forms automatically validate their fields if a form schema has been set, and the
 
 {% page-ref page="fields.md" %}
 
+### Video Guides
+
+{% embed url="https://www.youtube.com/watch?v=MduKMv3JpQo" caption="Using a form to create rows in a table" %}
+
+{% embed url="https://www.youtube.com/watch?v=MLjFZ4VZ6Uk" caption="Using a form to filter and search lists" %}
+
 
 
  
