@@ -51,7 +51,7 @@ Now we will go back to our Deals table. I think this table needs an extra few co
 
 Now, we’ll create a new column for our logos.
 
-Call the column Logos, and select `text` as the column type.  And click `save`.
+Call the column Logos, and select `attachment` as the column type.  And click `save`.
 
 ## Editing rows
 
