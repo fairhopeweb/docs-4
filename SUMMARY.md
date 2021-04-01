@@ -1,8 +1,8 @@
 # Table of contents
 
-* [👋 Budibase Documentation](README.md)
-* [🌠 Quick Start](quick-start.md)
-* [📺 Screencasts](screencasts.md)
+* [Welcome](README.md)
+* [Quick Start](quick-start.md)
+* [Screencasts](screencasts.md)
 
 ## 📘 Tutorial
 

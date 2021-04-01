@@ -2,7 +2,7 @@
 description: 'For Screencasts, please visit our YouTube channel.'
 ---
 
-# 📺 Screencasts
+# Screencasts
 
 Visit the Budibase YouTube channel:
 

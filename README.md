@@ -5,7 +5,7 @@ description: >-
   Budibase. Welcome to the community!
 ---
 
-# 👋 Budibase Documentation
+# Welcome
 
 ![](.gitbook/assets/banner-gradient-3-100.jpg)
 

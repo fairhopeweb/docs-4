@@ -2,7 +2,7 @@
 description: Quickly get started with Budibase.
 ---
 
-# 🌠 Quick Start
+# Quick Start
 
 Getting started with Budibase is easy. Simply complete the checklist below and you'll be building your web app in no time.
 
