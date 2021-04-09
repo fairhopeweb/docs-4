@@ -11,7 +11,7 @@ description: >-
 
 ## [🌠 Quick Start &gt;](quick-start.md)
 
-Head to the quick start section for a micro-tutorial on how to get started. The process should only take a couple of minutes.
+Head to the quick start section for a micro-tutorial on how to get started. The process should only take a couple of minutes. 
 
 ## 📘 [**Tutorial &gt;**](tutorial/tutorial-introduction.md) 
 
