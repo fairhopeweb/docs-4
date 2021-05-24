@@ -13,7 +13,7 @@ description: >-
 
 Head to the quick start section for a micro-tutorial on how to get started. The process should only take a couple of minutes. 
 
-## 📘 [**Tutorial &gt;**](tutorial/tutorial-introduction.md) 
+## 📘 [**Tutorial &gt;**]() 
 
 The Budibase tutorial offers you step-by-step instructions on how to download Budibase, start a new project, and build a simple CRM. The tutorial aims to be simple to follow, yet comprehensive enough to provide you with a complete understand of how to use Budibase. It is a great starting point for users who have never created a web application, end-to-end, and do not have Budibase experience.
 
