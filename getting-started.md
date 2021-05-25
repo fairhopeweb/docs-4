@@ -34,9 +34,9 @@ $ npm i -g @budibase/cli
 
 Alternatively, you can just download the budibase CLI for your operating system here:
 
-* [Windows](https://github.com/Budibase/budibase/releases/download/latest/cli-win.exe)
-* [Mac](https://github.com/Budibase/budibase/releases/download/latest/cli-macos)
-* [Linux](https://github.com/Budibase/budibase/releases/download/latest/cli-linux)
+* [Windows](https://github.com/Budibase/budibase/releases/download/v0.9.1/cli-win.exe)
+* [Mac](https://github.com/Budibase/budibase/releases/download/v0.9.1/cli-macos)
+* [Linux](https://github.com/Budibase/budibase/releases/download/v0.9.1/cli-linux)
 
 ## Running Budibase
 
