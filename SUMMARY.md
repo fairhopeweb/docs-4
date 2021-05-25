@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [Quick Start](quick-start.md)
+* [Getting Started](getting-started.md)
 * [Screencasts](screencasts.md)
 
 ## 🗂️ Data
