@@ -74,6 +74,7 @@
 * [States](design/states.md)
 * [Bindings](design/binding.md)
 * [Actions](design/actions.md)
+* [Fetching Data](design/fetching-data.md)
 
 ## 🤖 Automate
 
