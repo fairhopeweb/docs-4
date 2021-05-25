@@ -9,7 +9,7 @@ description: >-
 
 ![](.gitbook/assets/banner-gradient-3-100.jpg)
 
-## [🌠 Quick Start &gt;]()
+## [🌠 Quick Start &gt;](getting-started.md)
 
 Head to the quick start section for a micro-tutorial on how to get started. The process should only take a couple of minutes. 
 

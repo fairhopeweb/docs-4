@@ -4,6 +4,17 @@
 * [Getting Started](getting-started.md)
 * [Screencasts](screencasts.md)
 
+## ✨ Portal
+
+* [The Budibase Portal](portal/the-budibase-portal.md)
+* [Your User Settings](portal/your-user-settings.md)
+
+## 👩‍💼 Admin
+
+* [Authentication and OAuth](admin/authentication-and-oauth.md)
+* [Email](admin/email.md)
+* [User Management](admin/user-management.md)
+
 ## 🗂️ Data
 
 * [Introduction to Data](data/introduction-to-data.md)
@@ -74,14 +85,13 @@
 * [Contextual bindings](automate/contextual-bindings.md)
 * [Activating and testing](automate/activating-and-testing.md)
 
-## 🚀 Deploy
+## 🚀 Publish
 
-* [Introduction to Deploy](deploy/introduction-to-deploy.md)
-* [Deployment information](deploy/deployment-information.md)
+* [Introduction to Publish](publish/introduction-to-deploy.md)
+* [Deployment information](publish/deployment-information.md)
+* [Managing Your Apps](publish/managing-your-apps.md)
 
 ## 🔧 Settings
-
-* [Introduction to settings](settings/settings.md)
 
 ## 🖥️ Self hosting
 
