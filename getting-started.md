@@ -20,6 +20,10 @@ To complete this guide, you must have docker and docker compose installed on you
 Docker is a platform that makes it much easier to automate  the running of software programs. It allows us to provide a smooth and consistent budibase experience across all the major operating systems.
 {% endhint %}
 
+### Linux post install
+
+For those setting up docker/docker-compose in a Linux environment it is worth checking that your permissions are setup correctly before attempting to continue - more details about this can be found [here in the docker documentation](https://docs.docker.com/engine/install/linux-postinstall/).
+
 ## Downloading Budibase
 
 {% hint style="info" %}
