@@ -104,7 +104,7 @@ After you log in, you will be taken to the budibase **portal.** The portal is wh
 
 ### Creating Your First App
 
-The basic budibase setup is now complete. You have reached the summit of this mountain, and the end of this guide. You can now create your first budibase app by following the prompt on screen. You can find information about building apps with budibase throughout the rest of 
+The basic budibase setup is now complete. You have reached the summit of this mountain, and the end of this guide. You can now create your first budibase app by following the prompt on screen. You can find information about building apps with budibase throughout the rest of the budibase documentation.
 
 ![](.gitbook/assets/screenshot-2021-05-21-at-11.03.04.png)
 
@@ -112,7 +112,7 @@ There are a few things however, that will enhance your budibase experience.
 
 #### SMTP/Email Configuration
 
-Set up email/SMTP here.
+Set up email/SMTP [here](admin/email.md).
 
 #### \(Advanced\) Reverse Proxy Configuration
 
