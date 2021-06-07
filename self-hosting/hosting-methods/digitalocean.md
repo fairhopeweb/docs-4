@@ -40,29 +40,17 @@ The smallest droplet \(1GB\) will run the platform well, but we recommend larger
 
 Choose where you would like to host your droplet by clicking on one of the flags in the datacenter region section, or leave as default to host in New York.
 
-Next, we need to paste our userdata into the relevant area. Userdata is a script that runs to configure our budibase instance when it boots. All you need to do is click the "User data" checkbox under **Additional Options**, and paste the following:
-
-```bash
-#!/bin/bash
-
-curl -o- https://raw.githubusercontent.com/Budibase/budibase/master/hosting/bootstrap.sh | bash
-```
-
-Your setup should look like this:
-
-![](../../.gitbook/assets/userdata.png)
-
 Now, create a password for your instance. This allows you to access your instance later on.
 
 ![](../../.gitbook/assets/do-password.png)
 
-Finally, click the **Create Droplet** button at the bottom. This will bring up your shiny new budibase instance, and you can now [configure your builder](../builder-settings.md) to deploy your budibase applications to your new instance!
+Finally, click the **Create Droplet** button at the bottom. This will bring up your docker-enabled droplet. Once you have set up your droplet, you should be able to SSH into it, and run through the [Quick Start](../../getting-started.md) guide.
 
-### Video
+To SSH into your droplet on unix systems, the command will be:
 
-If you are more of a visual person, here's an instructional video showing how to perform the above simple DigitalOcean installation.
+```text
+ssh root@<your-droplet-ip-address>
 
-{% embed url="https://youtu.be/IZzGSHNE5xM" %}
-
-## 
+# Then enter your password
+```
 

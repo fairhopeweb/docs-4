@@ -41,10 +41,6 @@ Running the above command in a prompt or terminal will start-up the Budibase clu
 
 When the cluster is ready you'll see a mixture of log messages from the various services that makeup the cluster - you should now be able to connect from your builder and make use of it! If you run into any issues the easiest way to resolve them would be to get in contact with the team through our official [Discord server](https://discord.gg/aux3PNGTXz).
 
-## Next steps
-
-From here the next step is to test that your Budibase platform works correctly, by deploying an app from your Budibase Builder. To connect to the platform from your Builder you will want to make use of self hosting options in the Builder, information about this can be found [here](../builder-settings.md).
-
 ## Further information
 
 For those out there interested in a more advanced setup you may want to make alternations to the `docker-compose.yaml` config file, so just for you we'll cover the various services and their purposes.
