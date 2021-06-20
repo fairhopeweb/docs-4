@@ -32,7 +32,9 @@ There are several ways to set up budibase. Please choose the best one suited for
 
 ### I'm not comfortable with the command line, Docker or NodeJS.
 
-We do not generally recommend self-hosting software and managing your own infrastructure if this is the case. We are currently working on a hosted cloud sandbox that will allow users to use budibase in their browser without any setup or self-hosting.
+We do not generally recommend self-hosting software and managing your own infrastructure if this is the case. We are currently working on a hosted cloud sandbox that will allow users to use budibase in their browser without any setup or self-hosting. You can follow along with the progress of this here:
+
+[https://github.com/Budibase/budibase/issues/1762](https://github.com/Budibase/budibase/issues/1762)
 
 However, the simplest way to get budibase up and running until then is to use our **one click** digitalocean installation. This will create your very own self hosted budibase installation running in digitalocean, without any configuration at all.
 
