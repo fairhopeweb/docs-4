@@ -4,7 +4,47 @@ description: How to configure a reverse proxy for your Budibase platform
 
 # Reverse proxy
 
-One of the main things you will want to setup before putting your Budibase platform into production use is a proxy, which can control access to the cluster via a domain \(removing the need for a port number and so on\) as well as allowing the use of HTTPS for a domain that you own. In this section we will provide some configuration options to get this up and running easily with [NGINX](https://www.nginx.com/).
+One of the main things you will want to setup before putting your Budibase platform into production use is a proxy, which can control access to the cluster via a domain \(removing the need for a port number and so on\) as well as allowing the use of HTTPS for a domain that you own. In this section we will provide some configuration options to get this up and running easily with [NGINX](https://www.nginx.com/) or [Caddy](https://caddyserver.com/docs/automatic-https).
+
+### Simple HTTPS Setup with Caddy
+
+Caddy is an open source web server with automatic HTTPS written in Go.
+
+If you want to get HTTPS up and running on your budibase instance as quickly as possible with caddy, go through the following steps.
+
+#### Install Caddy
+
+Follow the caddy installation instructions here:
+
+{% embed url="https://caddyserver.com/docs/install" %}
+
+Once you have done this, you should be able to check that you have `caddy` available on your machine.
+
+```bash
+caddy version # should print your version of caddy
+```
+
+Next, create a `Caddyfile` with your domain in it.
+
+{% tabs %}
+{% tab title="Caddyfile" %}
+```text
+yourdomain.com
+```
+{% endtab %}
+{% endtabs %}
+
+You can then simply run `caddy`, and HTTPS should be set up on your domain.
+
+You must now set up Caddy to point at your budibase instance. You can do this by stopping caddy with `caddy stop`, and restarting it with the following command. \(Remember to replace your domain name and the URL with the ones you use.\)
+
+```text
+caddy reverse-proxy --from yourdomain.com --to localhost:10000
+```
+
+That's it! Full HTTPS and reverse proxy setup with caddy and budibase.
+
+### NGINX \(Advanced\)
 
 {% hint style="info" %}
 Please note, this section assumes some knowledge of NGINX installation, setup and configuration. Information about NGINX can be found here:  [installing](https://docs.nginx.com/nginx/admin-guide/installing-nginx/installing-nginx-open-source/), [setup](https://docs.nginx.com/nginx/admin-guide/basic-functionality/runtime-control/) and [configuration](https://docs.nginx.com/nginx/admin-guide/basic-functionality/managing-configuration-files/). 

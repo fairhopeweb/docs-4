@@ -86,9 +86,9 @@ There are a few things however, that will enhance your budibase experience.
 
 Set up email/SMTP [here](../admin/email.md).
 
-#### \(Advanced\) Reverse Proxy Configuration
+#### \(Advanced\) HTTPS/Reverse Proxy Configuration
 
-Set up NGINX to sit in front of your budibase installation [here](../self-hosting/advanced-options/reverse-proxy.md).
+Set up NGINX or caddy to sit in front of your budibase installation [here](../self-hosting/advanced-options/reverse-proxy.md).
 
 ## Managing Your Budibase Installation
 
