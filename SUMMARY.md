@@ -38,6 +38,7 @@
   * [Relationships](data/data-types/relationships/README.md)
     * [Example](data/data-types/relationships/example.md)
 * [External Data Sources](data/data-sources/README.md)
+  * ["Plus" Datasources](data/data-sources/plus-datasources.md)
   * [Queries](data/data-sources/queries.md)
   * [Using Queries in your app](data/data-sources/displaying-query-data-in-your-app.md)
 * [Users](data/users.md)
