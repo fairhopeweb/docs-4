@@ -31,6 +31,16 @@ Once you have Docker fully installed the rest of the process should be simple! Y
 If you are planning to run the cluster in a production environment, you will want to update some of the settings before moving on, importantly the `HOSTING_KEY` found in the `hosting.properties`. Information about this can be found [here](../hosting-settings.md).
 {% endhint %}
 
+{% hint style="warning" %}
+If you have an ARM based CPU, you will have to make a slight update to your `docker-compose.yaml` . Update the `couchdb-service` part of your compose config with `platform: amd64`
+
+```text
+ couchdb-service:
+    platform: linux/amd64
+    ...
+```
+{% endhint %}
+
 Once you have these files downloaded running the platform is as simple as:
 
 ```text
