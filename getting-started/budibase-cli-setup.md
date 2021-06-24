@@ -51,6 +51,16 @@ Configuration has been written successfully - please check .env file for more de
 ```
 {% endcode %}
 
+{% hint style="warning" %}
+If you have an ARM based CPU, you will have to make a slight update to your `docker-compose.yaml` . Update the `couchdb-service` part of your compose config with `platform: amd64`
+
+```text
+ couchdb-service:
+    platform: linux/amd64
+    ...
+```
+{% endhint %}
+
 ## First Time Budibase Setup
 
 You can now start the budibase services with the following command.
