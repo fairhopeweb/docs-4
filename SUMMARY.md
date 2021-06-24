@@ -78,7 +78,7 @@
 * [Bindings](design/binding.md)
 * [Actions](design/actions.md)
 * [Handling Data](design/handling-data/README.md)
-  * [Filtering Data and Search](design/handling-data/filtering-data.md)
+  * [Search/Filter Data](design/handling-data/filtering-data.md)
 
 ## 🤖 Automate
 
