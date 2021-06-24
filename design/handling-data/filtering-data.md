@@ -5,7 +5,7 @@ description: >-
   in this section of the documentation.
 ---
 
-# Filtering Data
+# Filtering Data and Search
 
 ### Static Filtering
 
