@@ -1,10 +1,14 @@
 ---
-description: data bindings with Handlebars
+description: Data bindings with Handlebars
 ---
 
 # Bindings
 
 Budibase is focused on building data-centric web apps and tools - to be able to do this you need a way to manipulate data. To do this Budibase has the ability to bind data into any design or automation element through the use of [Handlebars syntax](https://handlebarsjs.com/).
+
+For much more detailed documentation on all the handlebars helpers budibase provides, you can find the entire suite of budibase handlebars helpers here in the README of this repository:
+
+[https://github.com/Budibase/handlebars-helpers](https://github.com/Budibase/handlebars-helpers)
 
 {% hint style="info" %}
 Budibase bindings utilise Handlebars heavily, therefore it is useful to have an understanding of the syntax. Things such as how Handlebars can handle conditionals and the use of helper functions can be found in the Handlebars documentation [here](https://handlebarsjs.com/guide/).
