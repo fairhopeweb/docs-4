@@ -13,7 +13,7 @@
 
 ## 👩‍💼 Admin
 
-* [Authentication and OAuth](admin/authentication-and-oauth.md)
+* [Authentication and OAuth](admin/authentication/authentication-and-oauth.md)
 * [Email](admin/email.md)
 * [User Management](admin/user-management.md)
 
