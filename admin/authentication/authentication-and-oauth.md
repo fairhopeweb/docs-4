@@ -11,5 +11,5 @@ Budibase currently supports Google OAuth in addition to the built-in authenticat
 The callback URL you should generally use is the one that authenticates directly with budibase. It is  
  `/api/admin/auth/google/callback`
 
-![](../.gitbook/assets/auth.png)
+![](../../.gitbook/assets/auth.png)
 

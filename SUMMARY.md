@@ -14,6 +14,7 @@
 ## 👩‍💼 Admin
 
 * [Authentication and OAuth](admin/authentication/authentication-and-oauth.md)
+   * [OpenId Connect](admin/authentication/openid-connect.md)
 * [Email](admin/email.md)
 * [User Management](admin/user-management.md)
 
