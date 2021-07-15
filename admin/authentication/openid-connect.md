@@ -11,7 +11,7 @@ In addition to the built-in Google integration, Budibase supports the OIDC proto
 
 ## Setup
 
-To enable it for your IdP follow the setup steps below.
+To enable OIDC for your IdP follow the setup steps below.
 
 ### Configure your IdP
 
@@ -51,7 +51,7 @@ Use the login configuration options to customize the OIDC login button.
 
 ![](../../.gitbook/assets/oidc/oidc-login-form.png)
 
-Fill in either of the following options:
+Fill in either of the following:
 
 - **Name**
   - The name on the login button. This will be substituted at `Sign in with {name}`
@@ -62,10 +62,10 @@ Fill in either of the following options:
 
 ## Important information
 
-Some additional details on the OIDC integration are highlighted below
+Some additional details on the OIDC integration are highlighted below.
 
 **User provisioning**
 
-Unlike the Google integration which requires a local user account to exist in advance, OIDC users are created in Budibase automatically when they log in for the first time. It is important that only the users you wish to access Budibase have been assigned to the application configured in your identity provider. 
+Unlike the Google integration which requires a local user account to exist in advance, OIDC users are created in Budibase automatically when they log in for the first time. It is important that only the users you wish to access Budibase have been assigned to the application configured in your IdP. 
 
-You may still use email onboarding to create an account for a user in advance, provided the email connected to your user is consistent with the user's email in your identity provider.
+You may still use email onboarding to create an account for a user in advance, provided the email matches the user's email in your IdP.
