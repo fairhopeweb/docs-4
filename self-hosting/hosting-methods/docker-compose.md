@@ -49,7 +49,11 @@ docker-compose --env-file hosting.properties up
 
 Running the above command in a prompt or terminal will start-up the Budibase cluster, installing the latest images for our required services and setting up a network to run them across - this may take some time to download the necessary resources.
 
-When the cluster is ready you'll see a mixture of log messages from the various services that makeup the cluster - you should now be able to connect from your builder and make use of it! If you run into any issues the easiest way to resolve them would be to get in contact with the team through our official [Discord server](https://discord.gg/aux3PNGTXz).
+When the cluster is ready you'll see a mixture of log messages from the various budibase services. If you run into any issues the easiest way to resolve them would be to raise a discussion on our [github discussions community](https://github.com/Budibase/budibase/discussions).  
+  
+You can access your new installation at `<server-ip>:10000`
+
+Happy Building!
 
 ## Further information
 

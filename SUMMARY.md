@@ -96,8 +96,6 @@
 * [Deployment information](publish/deployment-information.md)
 * [Managing Your Apps](publish/managing-your-apps.md)
 
-## 🔧 Settings
-
 ## 🖥️ Self hosting
 
 * [Introduction to self hosting](self-hosting/introduction-to-self-hosting.md)

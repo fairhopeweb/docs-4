@@ -14,7 +14,7 @@ In budibase, users are shared across your whole budibase installation. Users can
 
 After creating your Admin user account you will have access to the User Management page. This is where you will invite and create new users.
 
-![The users screen](../.gitbook/assets/userlist.png)
+![The users screen](../.gitbook/assets/userlist%20%281%29.png)
 
 To add a user, hit the Add user button in the top-right part of the page. You will be presented with a modal containing a dropdown as well as an input field. 
 
