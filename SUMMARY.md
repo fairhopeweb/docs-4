@@ -14,7 +14,7 @@
 ## 👩‍💼 Admin
 
 * [Authentication and SSO](admin/authentication/README.md)
-   * [OpenId Connect](admin/authentication/oidc.md)
+   * [OpenID Connect](admin/authentication/oidc.md)
    * [SSO with Auth0](admin/authentication/examples/auth0.md)
    * [SSO with Azure AD](admin/authentication/examples/azure.md)
    * [SSO with Okta](admin/authentication/examples/okta.md)

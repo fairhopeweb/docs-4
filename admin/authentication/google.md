@@ -1,7 +1,6 @@
 ---
 description: >-
-  Although Budibase comes with basic authentication using email and password you
-  also have the ability to configure OpenID Connect for a number of different providers.
+  Configure SSO using OpenID Connect and OneLogin
 ---
 
 # Authentication and SSO

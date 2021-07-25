@@ -31,9 +31,3 @@ Guides on how to setup OpenID Connect with some of the most common providers can
 Budibase also comes with an out of the box integration with Google single sign-on.
 
 {% page-ref page="google.md" %}
-
-
-
-
-
-
