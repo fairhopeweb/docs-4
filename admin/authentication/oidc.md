@@ -1,13 +1,14 @@
 ---
 description: >-
-  OpenID Connect (OIDC) is a simple identity layer built on top of the OAuth 2.0 protocol, which allows clients to verify the identity of an end user based on the authentication performed by an authorization server or identity provider (IdP), as well as to obtain basic profile information about the end user.
+  Configure SSO using OpenID Connect
 ---
+
 
 # OpenID Connect
 
-In addition to the built-in Google integration, Budibase supports the OIDC protocol to integrate with additional IdPs.
+OpenID Connect (OIDC) is a simple identity layer built on top of the OAuth 2.0 protocol, which allows clients to verify the identity of an end user based on the authentication performed by an authorization server or identity provider (IdP), as well as to obtain basic profile information about the end user.
 
-![](../../.gitbook/assets/oidc/oidc.png)
+![](../../.gitbook/assets/authentication/oidc.png)
 
 ## Setup
 
@@ -15,12 +16,21 @@ To enable OIDC for your IdP follow the setup steps below.
 
 ### Configure your IdP
 
-Any provider that supports the OIDC protocal can be integrated into Budibase, you may even implement your own. Guides on how to setup some of the most common providers can be seen below:
-- [ADFS by Microsoft](https://wiki.resolution.de/doc/openid-oauth-authentication/latest/setup-guides/adfs-setup-guide)
-- [Auth0](https://auth0.com/docs/connections/enterprise/oidc)
-- [Azure AD](https://docs.pivotal.io/p-identity/1-12/azure-oidc/config-azure.html)
-- [Okta](https://developer.okta.com/docs/reference/api/oidc/)
-- [OneLogin](https://developers.onelogin.com/openid-connect/connect-to-onelogin)
+Any provider that supports the OIDC protocal can be integrated into Budibase, you may even implement your own. 
+
+Guides on how to setup some of the most common providers can be seen below:
+
+{% page-ref page="examples/auth0.md" %}
+
+{% page-ref page="examples/azure.md" %}
+
+{% page-ref page="examples/okta.md" %}
+
+{% page-ref page="examples/onelogin.md" %}
+
+See also:
+
+[ADFS by Microsoft](https://wiki.resolution.de/doc/openid-oauth-authentication/latest/setup-guides/adfs-setup-guide)
 
 
 **Callback URL**
@@ -49,7 +59,7 @@ Save the configuration to enable OIDC on your login page.
 
 Use the login configuration options to customize the OIDC login button. 
 
-![](../../.gitbook/assets/oidc/oidc-login-form.png)
+![](../../.gitbook/assets/authentication/oidc-login-form.png)
 
 Fill in either of the following:
 
