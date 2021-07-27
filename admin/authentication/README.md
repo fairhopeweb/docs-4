@@ -12,7 +12,7 @@ Use the OpenID Connect protocol to integrate with an identity provider of your c
 
 Follow the guide below to become familiar with the OpenID Connect configuration form in Budibase. 
 
-{% page-ref page="openid-connect.md" %}
+{% page-ref page="oidc.md" %}
 
 ### Examples
 
