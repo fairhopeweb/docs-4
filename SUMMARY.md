@@ -13,7 +13,13 @@
 
 ## 👩‍💼 Admin
 
-* [Authentication and OAuth](admin/authentication-and-oauth.md)
+* [Authentication and SSO](admin/authentication/README.md)
+   * [OpenID Connect](admin/authentication/oidc.md)
+   * [SSO with Auth0](admin/authentication/examples/auth0.md)
+   * [SSO with Azure AD](admin/authentication/examples/azure.md)
+   * [SSO with Okta](admin/authentication/examples/okta.md)
+   * [SSO with OneLogin](admin/authentication/examples/onelogin.md)
+   * [SSO with Google](admin/authentication/google.md)
 * [Email](admin/email.md)
 * [User Management](admin/user-management.md)
 
