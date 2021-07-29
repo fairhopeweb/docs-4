@@ -8,8 +8,8 @@ Actions are the core of automations, these can carry out updates on a table, cal
 
 Below is a few examples of actions that exist today however there may be many more when you look in the builder, to get a full list install the builder and check it out!
 
-1. Create row, this will create a new [row](../../data/tables/rows.md) in a specified [table](../../data/tables/)
-2. Update row, can be used to update a [row](../../data/tables/rows.md) which was triggered upon
+1. Create row, this will create a new [row]() in a specified [table](../../data/tables/)
+2. Update row, can be used to update a [row]() which was triggered upon
 3. Delete row, delete a specified row from a [table](../../data/tables/), like something that was triggered upon
 4. Send an email, as it suggests, send an email based on the specified inputs
 

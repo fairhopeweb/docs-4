@@ -16,7 +16,7 @@ To add a Button to your designs:
 
 ## How to style your Button
 
-The Button component is versatile and can accept updates from all of the [design properties](../design-properties/). Once you have finished the initial design, you should [enhance your button with a Hover and Active class →](../states.md). 
+The Button component is versatile and can accept updates from all of the [design properties](). Once you have finished the initial design, you should [enhance your button with a Hover and Active class →](../states.md). 
 
 ## Adding actions to your Button
 

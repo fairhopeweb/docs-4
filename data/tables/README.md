@@ -1,18 +1,12 @@
 ---
-description: Learn more about Tables within Budibase.
+description: An overview of the different sources that are available in Budibase
 ---
 
-# Tables
+# Sources
 
-A table is the highest level data block within Budibase. Columns, rows, and views fall under tables.
+Below you can see a list of available datasources. The way you connect to and use them differs a bit so in the next we sections we will explore them in more detail.
 
-Tables are made up of columns and rows.  Data within tables are stored locally on your machine.
-
-## How to create a new Table
-
-To create a new table, click the `+` button, and give it a name.
-
-{% embed url="https://youtu.be/In3KfwhdYDU" %}
+![Budibase Sources](../../.gitbook/assets/sources.png)
 
 
 

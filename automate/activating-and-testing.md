@@ -10,7 +10,7 @@ To active an automation simply click the big play button just next to the _Save 
 
 You now have two options for testing your automation:
 
-1. Trigger the automation using real data, for example writing a new [row](../data/tables/rows.md) to the [table](../data/tables/) which an automation has been configured to monitor
+1. Trigger the automation using real data, for example writing a new [row]() to the [table](../data/tables/) which an automation has been configured to monitor
 2. Using the _Test Automation_ button that will appear in the right panel when an automation has been saved
 
 The second option can be useful for testing automations that are designed to be used with a webhook as otherwise these can be difficult to test. Whichever option you choose you should notice that the actions which were requested have been executed, e.g. if there was a _Create Row_ action in your automation this row should now exist.

@@ -6,7 +6,7 @@ description: Covering the architecture that makes the Budibase platform work
 
 The Budibase architecture is quite simple, comprising of a few key Budibase services and a collection of open source technologies that Budibase is built on top of. Below you can see a general overview of the services that make Budibase work and how they interact.
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%287%29%20%281%29.png)
 
 ### Hosted architecture
 

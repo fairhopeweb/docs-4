@@ -18,7 +18,7 @@ The first relationship type we can model in Budibase is the most basic of types,
 
 ![](../../../.gitbook/assets/image%20%284%29.png)
 
-The second relationship we can model in Budibase is one of the most common, linking a single [row](../../tables/rows.md) to many other [rows](../../tables/rows.md). Here we can see that a class can only be taught by a single teacher however a teacher is capable of teaching many different classes.
+The second relationship we can model in Budibase is one of the most common, linking a single [row]() to many other [rows](). Here we can see that a class can only be taught by a single teacher however a teacher is capable of teaching many different classes.
 
 ## Many to many
 
@@ -30,12 +30,12 @@ The last relationship we can model is arguably one of the most complexes but aga
 
 To create this in Budibase all we need to do is:
 
-1. Create the four [tables](../../tables/), students, classes, teachers, and parking spots. In each of these, we will initially create a display text [column](../../tables/columns.md) and mark these as the _Display column -_ for example, N_ame_ or _Subject_.
-2. First, we will create the teacher to parking spot relationship, starting in the teacher [table](../../tables/) we create a relationship type [column](../../tables/columns.md), call it `ParkingSpot` and set the [table](../../tables/) to parking spots - then name the [column ](../../tables/columns.md)in the other [table ](../../tables/)`Teacher`.
-3. Second, we create the teacher to classes relationship, hopefully, at this point, it should be clear how this is done. Simply create a relationship from the teacher [table](../../tables/) to the class [table](../../tables/), name the [column](../../tables/columns.md) `Classes` and in the other [table](../../tables/) call the [column](../../tables/columns.md) `Teacher`.
-4. Lastly, we create the students to classes relationship, the same as before but set the relationship [table](../../tables/) to classes, call the [column ](../../tables/columns.md)in the students [table ](../../tables/)`Classes` and call the [column ](../../tables/columns.md)in the other [table ](../../tables/)`Students`.
+1. Create the four [tables](../../tables/), students, classes, teachers, and parking spots. In each of these, we will initially create a display text [column]() and mark these as the _Display column -_ for example, N_ame_ or _Subject_.
+2. First, we will create the teacher to parking spot relationship, starting in the teacher [table](../../tables/) we create a relationship type [column](), call it `ParkingSpot` and set the [table](../../tables/) to parking spots - then name the [column ]()in the other [table ](../../tables/)`Teacher`.
+3. Second, we create the teacher to classes relationship, hopefully, at this point, it should be clear how this is done. Simply create a relationship from the teacher [table](../../tables/) to the class [table](../../tables/), name the [column]() `Classes` and in the other [table](../../tables/) call the [column]() `Teacher`.
+4. Lastly, we create the students to classes relationship, the same as before but set the relationship [table](../../tables/) to classes, call the [column ]()in the students [table ](../../tables/)`Classes` and call the [column ]()in the other [table ](../../tables/)`Students`.
 
-As you can see by creating three relationship columns we were able to make a fairly complex web of relationships, which can now be easily managed when creating/updating [rows](../../tables/rows.md) in any of the [tables](../../tables/).
+As you can see by creating three relationship columns we were able to make a fairly complex web of relationships, which can now be easily managed when creating/updating [rows]() in any of the [tables](../../tables/).
 
 ## Video demonstration
 

@@ -28,5 +28,5 @@ To add multiple Images from your Tables to your designs:
 
 ## How to style your Image
 
-The Image component can accept multiple styling updates from the design panel, including [Size](../design-properties/size.md), [Effects](../design-properties/effects.md), and [margin](../design-properties/margin.md).
+The Image component can accept multiple styling updates from the design panel, including [Size](), [Effects](), and [margin]().
 

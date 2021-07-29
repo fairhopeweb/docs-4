@@ -4,7 +4,7 @@ description: Learn about the Charts component within Budibase
 
 # Chart
 
-Use the Chart component to display data from your tables to your users in a visually pleasing manner. The chart components pull in two types of values from your Tables; an X value and a Y value. The data within the column linked to the Y-axis must be a ['Number' \(data type](../../data/tables/columns.md)\).
+Use the Chart component to display data from your tables to your users in a visually pleasing manner. The chart components pull in two types of values from your Tables; an X value and a Y value. The data within the column linked to the Y-axis must be a ['Number' \(data type]()\).
 
 ![](../../.gitbook/assets/chart.png)
 

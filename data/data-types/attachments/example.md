@@ -15,7 +15,7 @@ In this example, we will be creating a simple web application that will be used 
 
 Let's begin by creating a [table](../../tables/) to store data for our countries.
 
-Next, we need to create [columns](../../tables/columns.md) in our `Countries` table. Let's look at the information we need to include about each country and decide which data types are the best to use for our columns.
+Next, we need to create [columns]() in our `Countries` table. Let's look at the information we need to include about each country and decide which data types are the best to use for our columns.
 
 * **Country Name**: Country names are just letters, so a **Text** type is a good fit here.
 * **Country Population**: We should use a **Number** type for this.
@@ -28,7 +28,7 @@ Watch the video below to find out how to set up your table as detailed above.
 
 ## Creating Rows and Uploading Data
 
-Now that we have set up our columns, we can start to add some [rows](../../tables/rows.md) to our `Countries` table. You will now notice that on row creation, you will be presented with dropzone components inside the row creation popover for both of our attachment types - `Flag` and `Travel Guides`.
+Now that we have set up our columns, we can start to add some [rows]() to our `Countries` table. You will now notice that on row creation, you will be presented with dropzone components inside the row creation popover for both of our attachment types - `Flag` and `Travel Guides`.
 
 Let's create an row for Spain. Follow along with the video below to find out how.
 

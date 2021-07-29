@@ -4,16 +4,9 @@ description: Adding and managing Budibase users
 
 # Users
 
-One of the core pieces of data in your Budibase app is its users. Users are currently managed as a data table, this will be the first table you are presented with when you make a new Budibase app. By standard Budibase users have three columns:
+Users in Budibase are global. To add, remove or edit users, have a look at the [User Management page](../admin/user-management.md).
 
-1. Status - whether the use is active or not, an inactive user cannot log into the platform.
-2. Role - the user's role, this is used to determine their level of access to screens, tables and so on - the core of Budibase access control.
-3. Email - the email address of the user which acts as their username.
+The Users table in Budibase is where you can edit the current application roles. These can then be applied in the User Management page. You can also add columns that are specific to your application here. This data will only be available in this app.
 
-The user table acts exactly like any other table, you can create new columns and relationships to it as needed by your data structure. There are only a few differences with it:
-
-1. Auto columns \(created by and updated by\) will be automatically linked to the user table - you can view them by showing the auto columns \(hidden by default\).
-2. There is an option to manage roles from the user table, this allows creating new roles if more levels are required.
-3. There is a hidden column, the user password, which you will be able to input to when creating a new user. Once input this cannot be retrieved, the password is hashed and the system will never return it; this is why there is no password column.
-4. You cannot delete or edit the core user columns, the system is dependent on their existence.
+The User table in Budibase is a bit different to other tables that you create. You can't delete or add users or update some of their core information, like first and last names.
 

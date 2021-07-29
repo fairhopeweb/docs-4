@@ -17,7 +17,7 @@ The process for creating an option column takes a few seconds.
 3. Choose options as your data type
 4. Add your options - we added IT, Sales, HR in the video above
 5. Click Save Column
-6. Add data to your new column by [adding rows](../tables/rows.md)
+6. Add data to your new column by [adding rows]()
 
 #### 
 

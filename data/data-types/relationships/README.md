@@ -14,7 +14,7 @@ The process of creating a relationship column allowing rows in two different [ta
 2. Make sure that in both tables there is a column defined which can be used for display purposes, when creating this column make sure to set it with the _Display column_ toggle.
 3. Click the _Create new column_ button in either of the two tables and select the _Relationship_ data type from the dropdown.
 4. Here you will need to select two options, the [table](../../tables/) to which this column relates to, and the name of the relationship column in the other [table ](../../tables/)as well. The example coming up should explain why it is necessary to name the column in the other [table](../../tables/).
-5. At this point, you will now have a relationship formed between the two [tables](../../tables/)! If you create a [row ](../../tables/rows.md)in one of the [tables](../../tables/), then go to the other [table ](../../tables/)and create a [row ](../../tables/rows.md)you should see the first [row ](../../tables/rows.md)that was created as an option in the relationship multi-select.
+5. At this point, you will now have a relationship formed between the two [tables](../../tables/)! If you create a [row ]()in one of the [tables](../../tables/), then go to the other [table ](../../tables/)and create a [row ]()you should see the first [row ]()that was created as an option in the relationship multi-select.
 
 #### Using relationships
 

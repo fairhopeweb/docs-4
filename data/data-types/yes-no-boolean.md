@@ -19,7 +19,7 @@ The process for creating a true/false column takes a few seconds.
 2. Give your column a name - we used Completed in the video above.
 3. Choose True/False as your data type
 4. Click Save Column
-5. Add data to your new column by [adding rows](../tables/rows.md)
+5. Add data to your new column by [adding rows]()
 
 #### 
 

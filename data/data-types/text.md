@@ -16,7 +16,7 @@ The process for creating a text column takes a few seconds.
 2. Give your text column a name - we used Name in the video above.
 3. Due to the popularity of the text data type, it is shown by default; so there's no need to change it.
 4. Click Save Column
-5. Add data to your new column by [adding rows](../tables/rows.md)
+5. Add data to your new column by [adding rows]()
 
 #### 
 
