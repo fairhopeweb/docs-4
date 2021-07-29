@@ -5,9 +5,15 @@ description: >-
   Budibase. Welcome to the community!
 ---
 
-# Welcome
+# Welcome to Budibase
+
+{% hint style="info" %}
+Budibase is currently in beta and you may find some small issues. We kindly ask you to [report these on Github.](https://github.com/Budibase/budibase/issues)
+{% endhint %}
 
 ![](.gitbook/assets/community.png)
+
+
 
 ## [🌠 Quick Start &gt;](getting-started/)
 

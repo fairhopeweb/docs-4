@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome to Budibase](README.md)
 * [Getting Started](getting-started/README.md)
   * [Budibase CLI Setup](getting-started/budibase-cli-setup.md)
 * [Screencasts](screencasts.md)
