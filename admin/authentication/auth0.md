@@ -44,5 +44,5 @@ Use the **Client Secret** field as your Client ID in Budibase.
 
 Scroll down to the 'Application URIs' section and enter your callback URL
 
-![](../../.gitbook/assets/callback%20%283%29.png)
+![](../../.gitbook/assets/callback.png)
 
