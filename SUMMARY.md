@@ -50,6 +50,7 @@
 ## 🎨 Design
 
 * [Introduction to Design](design/introduction-to-design.md)
+* [Layouts](design/layouts.md)
 * [Screens](design/screens.md)
 * [Components](design/components/README.md)
   * [Container](design/components/container.md)
