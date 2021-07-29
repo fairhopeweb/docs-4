@@ -16,7 +16,7 @@ To become familiar with OpenID Connect in Budibase, see:
 
 Create the budibase application in your Applications list.
 
-![](../../.gitbook/assets/create%20%281%29.png)
+![](../../.gitbook/assets/create.png)
 
 Select 'OIDC - OpenID Connect' and 'Web Application'
 
@@ -50,5 +50,5 @@ Use the **Issuer** field to construct your Configuration URL in Budibase. e.g. `
 
 Visit the 'General' tab in your application, scroll down and edit the 'General Settings' section. Enter your callback URL
 
-![](../../.gitbook/assets/callback%20%281%29.png)
+![](../../.gitbook/assets/callback.png)
 

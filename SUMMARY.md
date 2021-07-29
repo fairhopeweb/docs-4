@@ -40,6 +40,7 @@
     * [Example](data/data-types/attachments/example.md)
   * [Relationships](data/data-types/relationships/README.md)
     * [Example](data/data-types/relationships/example.md)
+  * [Formula](data/data-types/formula.md)
 * [Views](data/views/README.md)
   * [Filters](data/views/filters.md)
   * [Calculations](data/views/calculations.md)

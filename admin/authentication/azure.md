@@ -60,5 +60,5 @@ Use the **Value** field as your Client ID in Budibase.
 
 Visit 'Authentication' and enter your callback URL
 
-![](../../.gitbook/assets/callback%20%281%29%20%281%29.png)
+![](../../.gitbook/assets/callback%20%282%29.png)
 
