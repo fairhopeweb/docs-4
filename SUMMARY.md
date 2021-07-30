@@ -28,7 +28,7 @@
 * [Introduction to Data](data/introduction-to-data.md)
 * [Sources](data/tables/README.md)
   * [Internal/CSV](data/tables/internal-csv.md)
-  * [PostgreSQL, MySQL and SQL Server](data/tables/postgresql-mysql-and-sql-server.md)
+  * [PostgreSQL and MySQL](data/tables/postgresql-mysql-and-sql-server.md)
   * [Other sources](data/tables/other-sources.md)
 * [Data Types](data/data-types/README.md)
   * [Text](data/data-types/text.md)

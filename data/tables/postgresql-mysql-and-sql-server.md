@@ -4,7 +4,7 @@ description: >-
   you connect to your external databases that use SQL.
 ---
 
-# PostgreSQL, MySQL and SQL Server
+# PostgreSQL and MySQL
 
 Most companies already have big databases that they want to pull data out of and use in their internal applications. Let's take a look at how we can connect to one.
 
