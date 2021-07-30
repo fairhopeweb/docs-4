@@ -8,6 +8,8 @@ description: >-
 
 Often you want to run automations or update data when a user presses a button. This is what actions are for.   To define your actions, click the `Define actions`, a drawer will appear where you can add, or remove actions tied to this component.
 
+![An image showing the location of the action settings](../.gitbook/assets/actionslocation.png)
+
 The list of available actions are listed below:
 
 * Save Row
