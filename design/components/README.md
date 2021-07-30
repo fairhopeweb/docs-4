@@ -10,6 +10,14 @@ There are a number of components in Budibase. They can be found along the top of
 
 ![Showing a list of different components in the builder](../../.gitbook/assets/components.png)
 
+### Using components
+
+When you have added a component you will be able to see the options that you can tweak on the right side under the Settings bar. Some components also have a toolbar that will appear above it in the preview window.
+
+![](../../.gitbook/assets/toolbar.png)
+
+### Available components
+
 Here's a list of links to the current components that are available:
 
 * [Section](section.md)
