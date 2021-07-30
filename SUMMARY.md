@@ -75,6 +75,7 @@
 * [Actions](design/actions.md)
 * [Handling Data](design/handling-data/README.md)
   * [Search/Filter Data](design/handling-data/filtering-data.md)
+* [Conditions](design/conditions.md)
 
 ## 🤖 Automate
 
