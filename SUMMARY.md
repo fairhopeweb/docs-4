@@ -14,6 +14,7 @@
 ## 👩‍💼 Admin
 
 * [Authentication and SSO](admin/authentication/README.md)
+  * [SSO with Keycloak](admin/authentication/sso-with-keycloak.md)
   * [OpenID Connect](admin/authentication/oidc.md)
   * [SSO with Auth0](admin/authentication/auth0.md)
   * [SSO with Azure AD](admin/authentication/azure.md)
