@@ -30,6 +30,10 @@ To help Budibase understand your database you will need to create the relationsh
 
 ![An example of how setting up a relationship looks](../../.gitbook/assets/relationships.png)
 
+Through/join tables are only for many-to-many relationships in SQL.
+
+If you have a direct mapping of 1:N with a foreign key you do not need a through table if you have a foreign key. To set up a relationship select `One` and link to the other table.  Select the foreign key.
+
 ### Writing your own Query
 
 There are situations where you need more than a simple CRUD interface. In order to around that we also have the  ability to write our own SQL queries. To get started, hit the `Add query` button. On the next page you will have to enter a name for the query as well as select the function you want to perform and last but certainly not least, enter your actual actual SQL.
