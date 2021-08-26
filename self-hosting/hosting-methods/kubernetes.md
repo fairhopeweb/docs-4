@@ -102,7 +102,8 @@ By default, budibase configures a basic NGINX ingress controller to route traffi
 
 ```yaml
 ingress:
-  enabled: false
+  nginx: false
+  aws: true
 ```
 
 #### **Using a Custom Domain**
@@ -114,6 +115,7 @@ You should then be able to set up an A record in your DNS provider to point to t
 ```yaml
 ingress:
   enabled: true
+  nginx: true
   className: ""
   annotations: 
     kubernetes.io/ingress.class: nginx
@@ -175,7 +177,7 @@ kubectl get secret budibase-budibase -o go-template='{{ .data.jwtSecret }}' -n b
 kubectl get secret budibase-budibase -o go-template='{{ .data.objectStoreAccess }}' -n budibase | base64 --decode
 
 # MinIO Secret Key
-kubectl get secret budibase-budibase -o go-template='{{ .data.objectStoreAccess }}' -n budibase | base64 --decode
+kubectl get secret budibase-budibase -o go-template='{{ .data.objectStoreSecret }}' -n budibase | base64 --decode
 ```
 
 **Redis**
