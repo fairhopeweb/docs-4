@@ -58,6 +58,14 @@ If you don't want to install NodeJS or the CLI and just want to jump in with the
 
 {% page-ref page="../self-hosting/hosting-methods/docker-compose.md" %}
 
+### Kubernetes
+
+You can run and provision budibase on a kubernetes cluster using our [helm](https://helm.sh/) chart. Follow the guide below to find out how.
+
+{% page-ref page="../self-hosting/hosting-methods/kubernetes.md" %}
+
+
+
 ## Post Install
 
 Your budibase installation should now be up and running. Go to the URL of your new installation to start using budibase!

@@ -100,6 +100,7 @@
 * [Budibase architecture](self-hosting/budibase-architecture.md)
 * [Hosting methods](self-hosting/hosting-methods/README.md)
   * [DigitalOcean](self-hosting/hosting-methods/digitalocean.md)
+  * [Kubernetes \(K8S\)](self-hosting/hosting-methods/kubernetes.md)
   * [Docker compose](self-hosting/hosting-methods/docker-compose.md)
 * [Hosting settings](self-hosting/hosting-settings.md)
 * [Advanced options](self-hosting/advanced-options/README.md)
