@@ -106,10 +106,6 @@
 * [Advanced options](self-hosting/advanced-options/README.md)
   * [Reverse proxy](self-hosting/advanced-options/reverse-proxy.md)
 
-## 🔗 Integrations
-
-* [SendGrid](integrations/sendgrid.md)
-
 ## 👐 Contributing <a id="contributions"></a>
 
 * [Writing Your Own External Data Connectors](contributions/contribute-data-connectors.md)
