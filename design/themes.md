@@ -6,7 +6,7 @@ description: Theming is used to change the color scheme of your application
 
 Budibase uses the Spectrum design system by Adobe. Included are four base themes; Lightest, Light, Dark and Darkest.
 
-If you are not satisfied with the base themes there's also the ability to more granualarly change some options.
+If you are not satisfied with the base themes you can customize the options below:
 
 * Primary colour - used for the action variant on buttons, form fields \(icons, checkboxes, radios, borders and datepickers\), icon colours, etc.
 * Primary colour \(hover\) - like the previous one but when the element is hovered.
