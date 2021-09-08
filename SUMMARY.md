@@ -3,7 +3,6 @@
 * [Welcome to Budibase](README.md)
 * [Getting Started](getting-started/README.md)
   * [Budibase CLI Setup](getting-started/budibase-cli-setup.md)
-* [Screencasts](screencasts.md)
 * [Troubleshooting](troubleshooting.md)
 
 ## ✨ Portal
@@ -77,6 +76,7 @@
 * [Handling Data](design/handling-data/README.md)
   * [Search/Filter Data](design/handling-data/filtering-data.md)
 * [Conditions](design/conditions.md)
+* [Themes](design/themes.md)
 
 ## 🤖 Automate
 
