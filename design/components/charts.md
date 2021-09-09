@@ -58,7 +58,6 @@ The Bar Chart component comes with the following settings:
 | Highlight single bar | No | Highlight a bar when hovered |
 | Width | No | Give your chart a width |
 | Height | No | Give your chart a height |
-| Horizontal | No | Transform your vertical bar chart to a horizontal bar chart |
 
 ### 
 
