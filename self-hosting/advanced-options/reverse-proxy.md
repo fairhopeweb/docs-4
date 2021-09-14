@@ -34,7 +34,7 @@ yourdomain.com
 {% endtab %}
 {% endtabs %}
 
-You can then simply run `caddy`, and HTTPS should be set up on your domain.
+You can then simply run `caddy start`, and HTTPS should be set up on your domain.
 
 You must now set up Caddy to point at your budibase instance. You can do this by stopping caddy with `caddy stop`, and restarting it with the following command. \(Remember to replace your domain name and the URL with the ones you use.\)
 
