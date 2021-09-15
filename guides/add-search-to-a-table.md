@@ -48,3 +48,9 @@ And we're done. We've successfully added search to a table.
 
 ![](../.gitbook/assets/screen-recording-2021-09-15-at-16.50.14.gif)
 
+I've attached the app below if you would like to check out the final product within the Budibase builder. To do this, down the file below, and import it into your builder \(see GIF below\).
+
+{% file src="../.gitbook/assets/export-7-.json" caption="Search demo" %}
+
+![](../.gitbook/assets/screen-recording-2021-09-15-at-16.53.32.gif)
+
