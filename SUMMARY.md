@@ -87,6 +87,10 @@
 * [Advanced options](self-hosting/advanced-options/README.md)
   * [Reverse proxy](self-hosting/advanced-options/reverse-proxy.md)
 
+## Guides
+
+* [Display user-related data](guides/display-user-related-data.md)
+
 ## References <a id="references-1"></a>
 
 * [Budibase architecture](references-1/budibase-architecture.md)
