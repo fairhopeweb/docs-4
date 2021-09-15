@@ -2,7 +2,7 @@
 description: Theming is used to change the color scheme of your application
 ---
 
-# Themes \(coming soon\)
+# App theming \(coming soon\)
 
 Budibase uses the Spectrum design system by Adobe. Included are four base themes; Lightest, Light, Dark, and Darkest.
 

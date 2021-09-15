@@ -50,7 +50,7 @@
   * [Actions](building-apps/design/actions.md)
   * [App State](building-apps/design/app-state.md)
   * [Conditions](building-apps/design/conditions.md)
-  * [Themes \(coming soon\)](building-apps/design/themes.md)
+  * [App theming \(coming soon\)](building-apps/design/themes.md)
   * [Handling Data](building-apps/design/handling-data/README.md)
     * [Search/Filter Data](building-apps/design/handling-data/filtering-data.md)
 * [Automate](building-apps/automate/README.md)
