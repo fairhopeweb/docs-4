@@ -44,7 +44,7 @@ Now, create a password for your instance. This allows you to access your instanc
 
 ![](../../.gitbook/assets/do-password.png)
 
-Finally, click the **Create Droplet** button at the bottom. This will bring up your docker-enabled droplet. Once you have set up your droplet, you should be able to SSH into it, and run through the [Quick Start](../../getting-started/) guide.
+Finally, click the **Create Droplet** button at the bottom. This will bring up your docker-enabled droplet. Once you have set up your droplet, you should be able to SSH into it, and run through the [Quick Start](../self-host.md) guide.
 
 To SSH into your droplet on unix systems, the command will be:
 
