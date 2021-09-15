@@ -7,7 +7,7 @@ description: >-
 
 # Overview
 
-## 🌐 Self-hosting
+## 🌐 Get started with Self-hosting
 
 Click the link below to find out how to self-host Budibase.
 
