@@ -77,6 +77,7 @@
 ## Guides
 
 * [Display user-related data](guides/display-user-related-data.md)
+* [Add search to a table](guides/add-search-to-a-table.md)
 
 ## Self-hosting
 
