@@ -2,7 +2,7 @@
 description: Learn about building forms with Budibase.
 ---
 
-# Building forms
+# Forms
 
 Forms are the primary building blocks of any data heavy applications. With Budibase you can build rich, themeable forms to create and edit your data.
 

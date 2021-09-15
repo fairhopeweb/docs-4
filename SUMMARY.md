@@ -42,7 +42,7 @@
     * [Icon](building-apps/design/components/icon.md)
     * [Image](building-apps/design/components/image.md)
     * [Embed](building-apps/design/components/embed.md)
-  * [Building forms](building-apps/design/forms/README.md)
+  * [Forms](building-apps/design/forms/README.md)
     * [Form Component](building-apps/design/forms/form-component.md)
     * [Field Groups](building-apps/design/forms/field-groups.md)
     * [Fields](building-apps/design/forms/fields.md)
