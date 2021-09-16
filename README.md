@@ -1,11 +1,12 @@
 ---
-description: >-
-  Budibase is an open-source low-code platform for building internal
-  applications. The Budibase documentation site will explain how to set up, use,
-  and contribute to Budibase. Welcome to the community!
+description: Welcome to the Budibase documentation.
 ---
 
 # 👋 Introduction
+
+Budibase is an open-source low-code platform for building internal applications, such as admin panels, internal tools, client portals, and more. The Budibase documentation site will explain how to set up, use, and contribute to Budibase. Welcome to the community Budi!
+
+![](.gitbook/assets/scene_4_web_version_xxjyip.png)
 
 ## 🌐 Get started with self-hosting
 
