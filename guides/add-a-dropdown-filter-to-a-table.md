@@ -8,7 +8,7 @@ Dropdown filters are a common way to filter data that's usually displayed in a l
 
 ### Prerequisites
 
-For Search to work, you need data. You may already have data, but if you don't you can use the data within the Sales CSV below. 
+For Filters to work, you need data. You may already have data, but if you don't you can use the data within the Sales CSV below. 
 
 When creating your new table in the data section, call it Sales. When uploading the CSV, please change the Region data type to Options \(This is what we will use to filter our data\).
 
