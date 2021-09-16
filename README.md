@@ -5,7 +5,7 @@ description: >-
   and contribute to Budibase. Welcome to the community!
 ---
 
-# 👋 Welcome
+# 👋 Introduction
 
 ## 🌐 Get started with self-hosting
 
