@@ -77,7 +77,8 @@
 ## Guides
 
 * [Display user-related data](guides/display-user-related-data.md)
-* [Add search to a table](guides/add-search-to-a-table.md)
+* [Add a search box to a table](guides/add-search-to-a-table.md)
+* [Add a dropdown filter to a table](guides/add-a-dropdown-filter-to-a-table.md)
 
 ## Self-hosting
 
