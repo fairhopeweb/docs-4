@@ -8,7 +8,7 @@ description: >-
 
 Quite often an application will have areas with different access levels. For example, if you are creating an applicant tracking system, you may want to create public screens to advertise jobs and collect applications, and you may also want private screens to view and manage those applications.
 
-In this guide, we're going to a lead generation form, that will publicly collect leads and display them to us within a secure and private interface.
+In this guide, we're going to create a very simple lead generation app, that will publicly collect leads and display them to us within a secure and private interface.
 
 ## Guide
 
