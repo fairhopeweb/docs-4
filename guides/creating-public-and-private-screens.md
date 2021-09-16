@@ -23,15 +23,13 @@ In this guide, we're going to create a very simple lead generation app, that wil
 
 * [ ] Click on the Design tab
 * [ ] Click on the screen you would like to make public - in our case: leads/new/row
-* [ ] In the settings panel, select 'Public' from the 'Access' dropdown 
+* [ ] In the settings panel, select `Public` from the Access dropdown 
 
 ![](../.gitbook/assets/screen-recording-2021-09-16-at-1-2-.gif)
 
-And now we have a public screen. In our case, public users can now access our leads/new/row screen which has our leads form. They can also complete the form and submit it. The form requires some styling and it should look more like a landing page, but you now understand the concept, and I'll leave the styling to you.
+And now we have a public screen. In our case, public users can now access our leads/new/row screen which has our new leads form. They can also complete the form and submit it. The form requires some styling but hopefully, you now understand the concept and how to create screens based on the user's role \(public, basic, power, admin\).
 
-Once a public user submits their information, we and any other private \(basic, power, admin\) user you have added can view the leads and their details within the private section of our app.
+Once a public user submits their information, we and other private \(basic, power, admin\) users can view the leads and their details within the private section of our app.
 
-
-
-
+![](../.gitbook/assets/screenshot-2021-09-16-at-15.02.14.png)
 
