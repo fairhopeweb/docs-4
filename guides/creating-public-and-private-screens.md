@@ -4,7 +4,7 @@ description: >-
   application
 ---
 
-# Creating public & private screens
+# Create public & private screens
 
 Quite often an application will have areas with different access levels. For example, if you are creating an applicant tracking system, you may want to create public screens to advertise jobs and collect applications, and you may also want private screens to view and manage those applications.
 

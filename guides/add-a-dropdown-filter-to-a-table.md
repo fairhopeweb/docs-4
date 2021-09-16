@@ -2,7 +2,7 @@
 description: This guide will show you how to add a dropdown filter to a table
 ---
 
-# Add a filter to a table
+# Add filtering
 
 Dropdown filters are a common way to filter data that's usually displayed in a list format. By selecting an option from the dropdown filter, the data within the list updates to only show records that match with your selection. Adding a dropdown filter is a similar process to [adding search to a table](add-search-to-a-table.md).
 

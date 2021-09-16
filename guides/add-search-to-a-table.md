@@ -2,7 +2,7 @@
 description: This guide will show you how to add search functionality to a table
 ---
 
-# Add search to a table
+# Add search
 
 A  search box is a common way to search data. When you search for a term inside the search box, the data within your list \(usually a table or list of cards\) updates to only show records that match your search query. Adding a search box is a similar process to [adding a dropdown filter to a table](add-a-dropdown-filter-to-a-table.md).
 

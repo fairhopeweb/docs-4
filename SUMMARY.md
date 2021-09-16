@@ -77,9 +77,9 @@
 ## Guides
 
 * [Display user-related data](guides/display-user-related-data.md)
-* [Add search to a table](guides/add-search-to-a-table.md)
-* [Add a filter to a table](guides/add-a-dropdown-filter-to-a-table.md)
-* [Creating public & private screens](guides/creating-public-and-private-screens.md)
+* [Add search](guides/add-search-to-a-table.md)
+* [Add filtering](guides/add-a-dropdown-filter-to-a-table.md)
+* [Create public & private screens](guides/creating-public-and-private-screens.md)
 
 ## Self-hosting
 
