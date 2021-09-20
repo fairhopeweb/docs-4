@@ -80,6 +80,11 @@
 * [Add search](guides/add-search-to-a-table.md)
 * [Add filtering](guides/add-a-dropdown-filter-to-a-table.md)
 * [Create public & private screens](guides/creating-public-and-private-screens.md)
+* [CRUD App with Budibase DB](guides/crud-app-with-budibase-db/README.md)
+  * [Importing the Vehicles table from a CSV](guides/crud-app-with-budibase-db/importing-the-vehicles-table-from-a-csv.md)
+  * [Creating the Service log table from scratch](guides/crud-app-with-budibase-db/creating-the-service-log-table-from-scratch.md)
+  * [Listing recent Service Logs on the home screen](guides/crud-app-with-budibase-db/listing-recent-service-logs-on-the-home-screen.md)
+  * [Creating a new Service Log with a modal](guides/crud-app-with-budibase-db/creating-a-new-service-log-with-a-modal.md)
 
 ## Self-hosting
 
