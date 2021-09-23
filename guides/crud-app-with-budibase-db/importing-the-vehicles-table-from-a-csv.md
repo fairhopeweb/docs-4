@@ -20,12 +20,11 @@ Budibase will read your file, and display the column names that will be created.
 CSV import does not support relationships.  
 
 
-Attached is our “Vehicles.csv” file, if you’d like to use this to try out the import.
+Attached below is our “Vehicles.csv” file, if you’d like to use this to try out the import.
 
 {% embed url="https://youtu.be/WPadw3\_wYFE" %}
 
 
 
-  
-
+{% file src="../../.gitbook/assets/vehicles.csv" caption="Vehicles CSV" %}
 
