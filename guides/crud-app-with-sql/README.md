@@ -12,6 +12,12 @@ We will use the following table structure.
 
 ![](https://lh5.googleusercontent.com/WZCnDv8y_3BE_jvLna_sWNMIjA3pLgG4G00YIuPMiaigCOvPJwl1DRoRMbFI1uK55jNSxWnAIierCS3W7iwW2RvB9H5HyKvCcyLFs6KHLki6Qdno6Na6DeFtAF8Nd7I85J2PxJiw=s0)
 
+Below are Postgres and MySQL scripts to create the necessary tables, and insert test data.
+
+{% file src="../../.gitbook/assets/budibase\_guide\_mysql \(1\).sql" caption="MySQL Demo DB Script" %}
+
   
 
+
+{% file src="../../.gitbook/assets/budibase\_guide\_postgres.sql" caption="Postgres Demo DB script" %}
 
