@@ -85,6 +85,12 @@
   * [Creating the Service log table from scratch](guides/crud-app-with-budibase-db/creating-the-service-log-table-from-scratch.md)
   * [Listing recent Service Logs on the home screen](guides/crud-app-with-budibase-db/listing-recent-service-logs-on-the-home-screen.md)
   * [Creating a new Service Log with a modal](guides/crud-app-with-budibase-db/creating-a-new-service-log-with-a-modal.md)
+* [CRUD App with SQL](guides/crud-app-with-sql/README.md)
+  * [Connecting to your SQL tables](guides/crud-app-with-sql/connecting-to-your-sql-tables.md)
+  * [Creating Screens from your SQL tables](guides/crud-app-with-sql/creating-screens-from-your-sql-tables.md)
+  * [Using relationships between SQL tables](guides/crud-app-with-sql/using-relationships-between-sql-tables.md)
+  * [Creating a List screen from scratch, using a SQL table](guides/crud-app-with-sql/creating-a-list-screen-from-scratch-using-a-sql-table.md)
+  * [Creating a new log, with a modal](guides/crud-app-with-sql/creating-a-new-log-with-a-modal.md)
 * [CRUD App with a REST API](guides/crud-app-with-a-rest-api/README.md)
   * [Adding a REST datasource](guides/crud-app-with-a-rest-api/adding-a-rest-datasource.md)
   * [Creating a query that Lists Issues](guides/crud-app-with-a-rest-api/creating-a-query-that-lists-issues.md)
@@ -93,12 +99,6 @@
   * [Create a new todo Item, inline](guides/crud-app-with-a-rest-api/create-a-new-todo-item-inline.md)
   * [Mark todo items as “Done”](guides/crud-app-with-a-rest-api/mark-todo-items-as-done.md)
   * [Finishing Touches](guides/crud-app-with-a-rest-api/finishing-touches.md)
-* [CRUD App with SQL](guides/crud-app-with-sql/README.md)
-  * [Connecting to your SQL tables](guides/crud-app-with-sql/connecting-to-your-sql-tables.md)
-  * [Creating Screens from your SQL tables](guides/crud-app-with-sql/creating-screens-from-your-sql-tables.md)
-  * [Using relationships between SQL tables](guides/crud-app-with-sql/using-relationships-between-sql-tables.md)
-  * [Creating a List screen from scratch, using a SQL table](guides/crud-app-with-sql/creating-a-list-screen-from-scratch-using-a-sql-table.md)
-  * [Creating a new log, with a modal](guides/crud-app-with-sql/creating-a-new-log-with-a-modal.md)
 
 ## Self-hosting
 
