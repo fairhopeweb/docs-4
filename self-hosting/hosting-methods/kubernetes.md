@@ -11,6 +11,8 @@ There's a few command line utilities we have to set up before we can get started
 * `helm` CLI \([https://helm.sh/docs/intro/install/](https://helm.sh/docs/intro/install/)\)
 * `kubectl` CLI \([https://kubernetes.io/docs/tasks/tools/\#kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)\)
 
+We recommend running on K8S nodes with at least 2GB of memory as a minimum,  but we recommend larger instances for higher volume use cases.
+
 ### Setting up a Kubernetes Cluster
 
 If you don't already have an existing kubernetes cluster, follow one of the guides below for your provider.
