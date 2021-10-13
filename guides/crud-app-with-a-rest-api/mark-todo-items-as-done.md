@@ -5,7 +5,7 @@ For every item in our list, we want to display a “Done” button. When clickin
 1. Create a new query on your GitHub datasource
 2. Name your query “Mark as Done”
 3. Select the PATCH function
-4. Add a new parameter called “item_number”
+4. Add a new parameter called “item\_number”
 5. Set the path to `/repos/<github-username>/<github-repo>/issues/{{ item_number }}`
 6. Set the body to `{ “state”: “closed” }`
 7. Save your query
@@ -22,4 +22,6 @@ Now, we can use this query in our user interface.
 6. Add a “Refresh Data Provider” action.
 
 {% embed url="https://youtu.be/mNyAW4e3mKk" %}
+
+
 

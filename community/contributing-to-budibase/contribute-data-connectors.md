@@ -16,14 +16,14 @@ Data connectors are made up of **datasources** and **queries**.
 
 A _datasource_ usually points to a single database instance or API. 
 
-_Queries_ are the different data fetching operations _against _a datasource. 
+_Queries_ are the different data fetching operations _against_ a datasource. 
 
 For example, your local postgres instance would be a datasource, and you can create a whole host of different queries against that postgres instance. You can bind budibase UI components to queries - such as grids, tables, repeaters and more.
 
 When writing a data connector, you need to define **two** things in your code:
 
 * **Schema -** This defines the options for the data connector.
-* **Integration Code **- A JavaScript class containing the actual code that will be executed by budibase when executing operations against the datasource. The integration class must contain **create, read, update **and **delete** methods.
+* **Integration Code** - A JavaScript class containing the actual code that will be executed by budibase when executing operations against the datasource. The integration class must contain **create, read, update** and **delete** methods.
 
 ## Tutorial: Creating a MySQL Data Connector
 
@@ -39,25 +39,25 @@ Let's walk through an example. We are going to create a budibase data connector 
 
 > If you already have MySQL setup, feel free to skip this section and use your own existing MySQL database for this tutorial.
 
-If you haven't installed MySQL, you will need to install it (docs [here](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)). Alternatively, you can run MySQL inside docker, which is the approach we are going to take. [Install docker](https://docs.docker.com/get-docker/), and run the following command to run MySQL on your machine.
+If you haven't installed MySQL, you will need to install it \(docs [here](https://dev.mysql.com/doc/mysql-installation-excerpt/5.7/en/)\). Alternatively, you can run MySQL inside docker, which is the approach we are going to take. [Install docker](https://docs.docker.com/get-docker/), and run the following command to run MySQL on your machine.
 
-```
+```text
 docker run --name budi-mysql -p3306:3306 -e MYSQL_ROOT_PASSWORD=my-secret-pw -d mysql
 ```
 
-#### (Optional) Seed your database
+#### \(Optional\) Seed your database
 
 You may want to set up a test database and some tables for testing your integration.
 
 Open up the MySQL command line client, or use your favourite MySQL GUI client to connect to your MySQL database. If you are using docker, you can run the MySQL command line client inside docker by running the following command:
 
-```
+```text
 docker exec -it budi-mysql mysql -p my-secret-pw
 ```
 
 **Create a database**
 
-Once connected, run the following** **commands to set up your database.
+Once connected, run the following ****commands to set up your database.
 
 ```sql
 create database budibase;
@@ -85,13 +85,13 @@ Ok, we are now ready to write our data connector!
 
 ### Finding a Library
 
-To implement our data connector, we need a library that will allow the budibase server (Built on NodeJS) to connect to our database. The simplest choice here would be to just use the official MySQL node connector, a hugely popular and mature library.
+To implement our data connector, we need a library that will allow the budibase server \(Built on NodeJS\) to connect to our database. The simplest choice here would be to just use the official MySQL node connector, a hugely popular and mature library.
 
 {% embed url="https://github.com/mysqljs/mysql" %}
 
 Let's install this libary in the server directory.
 
-```
+```text
 cd packages/server
 yarn add mysql
 ```
@@ -117,7 +117,7 @@ module.exports = {
 
 ```
 
-Now it's time to start setting up our schema. You will notice that we've created the main building blocks of a budibase data connector (schema, integration class), and exported them. This means we can now just focus on our implementation by filling them out. Let's start by creating our datasource configuration. When you look at the docs for the node MySQL connector, we are told how to configure the client, which looks a little like this:
+Now it's time to start setting up our schema. You will notice that we've created the main building blocks of a budibase data connector \(schema, integration class\), and exported them. This means we can now just focus on our implementation by filling them out. Let's start by creating our datasource configuration. When you look at the docs for the node MySQL connector, we are told how to configure the client, which looks a little like this:
 
 ```javascript
 const connection = mysql.createConnection({
@@ -183,14 +183,14 @@ module.exports = {
 
 ```
 
-Following our schema configuration, the next part is to create a **query.** We are going to create a simple query to allow us to read data from our MySQL instance. As mentioned in the [**Data Connector Structure**](contribute-data-connectors.md#data-connector-structure)** **section, integration methods must be one of the following:
+Following our schema configuration, the next part is to create a **query.** We are going to create a simple query to allow us to read data from our MySQL instance. As mentioned in the [**Data Connector Structure**](contribute-data-connectors.md#data-connector-structure) ****section, integration methods must be one of the following:
 
-* create()
-* read()
-* update()
-* delete()
+* create\(\)
+* read\(\)
+* update\(\)
+* delete\(\)
 
-Let's write the code for our **read()** method.
+Let's write the code for our **read\(\)** method.
 
 ```javascript
 const mysql = require("mysql")
@@ -317,7 +317,7 @@ Write your query and click the **Run Query** button. This will execute your quer
 
 ![](../../.gitbook/assets/screenshot-2021-01-26-at-09.49.45.png)
 
-It works! We can now save our query and use it in the design section of the builder. This concludes the end to end for our datasource and query configuration. Completing the integration is a matter of filling out the remaining methods in the integration class.** **We are not going to go through all of the separate CRUD methods in the scope of this tutorial - you can see the fully completed MySQL integration here. You also do not need to implement all of the CRUD methods for an integration. It's your choice how many you want your integration to have.
+It works! We can now save our query and use it in the design section of the builder. This concludes the end to end for our datasource and query configuration. Completing the integration is a matter of filling out the remaining methods in the integration class. ****We are not going to go through all of the separate CRUD methods in the scope of this tutorial - you can see the fully completed MySQL integration here. You also do not need to implement all of the CRUD methods for an integration. It's your choice how many you want your integration to have.
 
 ### Adding Our MySQL Icon
 
@@ -493,4 +493,6 @@ We are always excited to hear ideas from the community and to accept contributio
 To suggest a data connector, join the discussion here - [https://github.com/Budibase/budibase/discussions/891](https://github.com/Budibase/budibase/discussions/891)
 
 To contribute a data connector, raise a PR to the github repository with your new data connector! Don't hesistate to join our discord channel if you have any questions. The team will be glad to help with any issues.
+
+
 

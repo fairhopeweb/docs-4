@@ -9,11 +9,11 @@ Often when building apps, we want to display data related to the user. This is p
 To do this, we would:
 
 * [ ] Locate our to-dos table in the design section
-* [ ] Click on the data provider (which tells our table what data to display)
-* [ ] Select the data dropdown (in the settings panel)
-* [ ] Under Relationships, select the Current.User\[table name]-Created By (see gif below)\
-
+* [ ] Click on the data provider \(which tells our table what data to display\)
+* [ ] Select the data dropdown \(in the settings panel\)
+* [ ] Under Relationships, select the Current.User\[table name\]-Created By \(see gif below\) 
 
 ![](../.gitbook/assets/screen-recording-2021-09-15-at-12.55.10.gif)
 
 The table will now only display data created by the current user.
+

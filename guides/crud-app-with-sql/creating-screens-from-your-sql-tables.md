@@ -1,8 +1,8 @@
 # Creating Screens from your SQL tables
 
-Once Budibase knows about your SQL tables, it can autogenerate screens (the user interface) that allows listing, creating, editing a deleting of records from tables. 
+Once Budibase knows about your SQL tables, it can autogenerate screens \(the user interface\) that allows listing, creating, editing a deleting of records from tables. 
 
-Of course, these generated screens are completely customisable - but Budibase gives you a huge headstart.\
+Of course, these generated screens are completely customisable - but Budibase gives you a huge headstart.  
 
 
 1. Go to the “Design” section.
@@ -10,11 +10,13 @@ Of course, these generated screens are completely customisable - but Budibase gi
 3. For the “Template”, choose “Vehicles - List”.
 4. Click create
 
-This produces a screen that lists row in the Vehicles table. You can now repeat the steps above for “Vehicles - New” and “Vehicles - Detail”, to give you “Create” and “Edit” screens. For these screens, it’s best to uncheck the “Create Link in navigation bar”.\
+This produces a screen that lists row in the Vehicles table. You can now repeat the steps above for “Vehicles - New” and “Vehicles - Detail”, to give you “Create” and “Edit” screens. For these screens, it’s best to uncheck the “Create Link in navigation bar”.  
 
 
 {% embed url="https://youtu.be/WsxPZ5TOb6Q" %}
 
 
 
-\
+  
+
+

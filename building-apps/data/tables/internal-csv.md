@@ -14,7 +14,7 @@ Next up you have a number of "Auto Columns" you can pick and choose from. These 
 
 For example, selecting `Created by` and `Updated by` will add data to your records who created or updated the record is. Selecting `Created at` and `Updated at` will show you when a record was created and updated. The `Auto ID` option will add an auto incrementing ID column to your records so you can keep track of them more easily.
 
-There's also a `Generate screens in Design section` option. Selecting this will auto generate screens in the front-end. We will talk more about this when we get to the [Design](broken-reference) section.
+There's also a `Generate screens in Design section` option. Selecting this will auto generate screens in the front-end. We will talk more about this when we get to the [Design]() section.
 
 ![](../../../.gitbook/assets/internal.png)
 
@@ -22,15 +22,13 @@ There's also a `Generate screens in Design section` option. Selecting this will 
 
 If you already have some data in the form of a CSV you can upload one here. Let's take a look at that. If you want to play around with a sample you can go ahead and use the one that has been added below.
 
-{% file src="../../../.gitbook/assets/100_sales_records.csv" %}
-Sample CSV
-{% endfile %}
+{% file src="../../../.gitbook/assets/100\_sales\_records.csv" caption="Sample CSV" %}
 
 When you have uploaded your CSV you will be presented with a number of new options. One for each column. It will look something like this:
 
 ![Import CSV Options](../../../.gitbook/assets/import.png)
 
-Before you create your table you need to select what types each column should have. At the moment you can select between `Text`, `Number`, `Date`, `Option` and `Boolean`. It's very important that you select the correct thing here as the type is what determines much of what you can do with it later on in the [Design](broken-reference) section.
+Before you create your table you need to select what types each column should have. At the moment you can select between `Text`, `Number`, `Date`, `Option` and `Boolean`. It's very important that you select the correct thing here as the type is what determines much of what you can do with it later on in the [Design]() section.
 
 As only you know what your data looks like you will have to pick what makes sense here. **Text** is generally used for things like descriptions, long-form content, IDs containing letters among other things.
 
@@ -50,8 +48,9 @@ Once you have imported or created a table you see it added to sidebar on the lef
 
 ### Datatypes
 
-When creating a table from scratch (not importing) you have access to some extra datatypes such as `attachment`, `Long form text`, `Relationship`, `Formula` and `Auto Column`.  We explore these in more detail on the[ Data types page.](../data-types/)
+When creating a table from scratch \(not importing\) you have access to some extra datatypes such as `attachment`, `Long form text`, `Relationship`, `Formula` and `Auto Column`.  We explore these in more detail on the[ Data types page.](../data-types/)
 
 ### Adding data
 
 Adding data is simple. click the `Create row`button and you will be presented with a modal. Fill in all the data and hit save. If you set up your column types correctly when you created or imported your table you will now see the correct controls here. A date picker, option picker, etc.
+
