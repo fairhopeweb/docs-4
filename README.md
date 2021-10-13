@@ -8,7 +8,7 @@ Budibase is an open-source low-code platform for building internal applications,
 
 ![](.gitbook/assets/scene\_4\_web_version_xxjyip.png)
 
-## Quickstart tutorials
+## 🚀 Quickstart tutorials
 
 No time, no worries. Get started quickly with Budibase using the following tutorials:
 
