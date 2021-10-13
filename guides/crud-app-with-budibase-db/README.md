@@ -2,7 +2,7 @@
 description: How to build a basic CRUD app, using Budibase internal tables
 ---
 
-# Internal DB
+# Quickstart
 
 Budibase comes with its own pre-packaged database. Within Budibase, you can create tables and columns, set up relationships between tables, and manage the data contained in the tables.\
 

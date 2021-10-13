@@ -1,4 +1,4 @@
-# SQL
+# Quickstart - SQL
 
 At the time of writing, Budibase has fantastic support for Postgres, MySQL and MariaDB. We intend to add more SQL connectors. 
 
@@ -14,13 +14,13 @@ We will use the following table structure.
 
 Below are Postgres and MySQL scripts to create the necessary tables, and insert test data.
 
-{% file src="../.gitbook/assets/budibase_guide_mysql (1).sql" %}
+{% file src="../../.gitbook/assets/budibase_guide_mysql (1).sql" %}
 MySQL Demo DB Script
 {% endfile %}
 
 \
 
 
-{% file src="../.gitbook/assets/budibase_guide_postgres.sql" %}
+{% file src="../../.gitbook/assets/budibase_guide_postgres.sql" %}
 Postgres Demo DB script
 {% endfile %}

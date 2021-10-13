@@ -26,6 +26,6 @@ Attached below is our “Vehicles.csv” file, if you’d like to use this to tr
 
 
 
-{% file src="../.gitbook/assets/vehicles.csv" %}
+{% file src="../../.gitbook/assets/vehicles.csv" %}
 Vehicles CSV
 {% endfile %}
