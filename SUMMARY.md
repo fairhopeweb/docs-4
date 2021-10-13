@@ -4,25 +4,25 @@
 
 ## Quickstart tutorials
 
-* [Build a CRUD app](quickstart-tutorials/crud-app-with-budibase-db/README.md)
-  * [Importing the Vehicles table from a CSV](quickstart-tutorials/crud-app-with-budibase-db/importing-the-vehicles-table-from-a-csv.md)
-  * [Creating the Service log table from scratch](quickstart-tutorials/crud-app-with-budibase-db/creating-the-service-log-table-from-scratch.md)
-  * [Listing recent Service Logs on the home screen](quickstart-tutorials/crud-app-with-budibase-db/listing-recent-service-logs-on-the-home-screen.md)
-  * [Creating a new Service Log with a modal](quickstart-tutorials/crud-app-with-budibase-db/creating-a-new-service-log-with-a-modal.md)
-* [Build a CRUD app- SQL](quickstart-tutorials/crud-app-with-sql/README.md)
-  * [Connecting to your SQL tables](quickstart-tutorials/crud-app-with-sql/connecting-to-your-sql-tables.md)
-  * [Creating Screens from your SQL tables](quickstart-tutorials/crud-app-with-sql/creating-screens-from-your-sql-tables.md)
-  * [Using relationships between SQL tables](quickstart-tutorials/crud-app-with-sql/using-relationships-between-sql-tables.md)
-  * [Creating a List screen from scratch, using a SQL table](quickstart-tutorials/crud-app-with-sql/creating-a-list-screen-from-scratch-using-a-sql-table.md)
-  * [Creating a new log, with a modal](quickstart-tutorials/crud-app-with-sql/creating-a-new-log-with-a-modal.md)
-* [Build a CRUD app - REST](quickstart-tutorials/crud-app-with-a-rest-api/README.md)
-  * [Adding a REST datasource](quickstart-tutorials/crud-app-with-a-rest-api/adding-a-rest-datasource.md)
-  * [Creating a query that Lists Issues](quickstart-tutorials/crud-app-with-a-rest-api/creating-a-query-that-lists-issues.md)
-  * [Using your request to display items in your app](quickstart-tutorials/crud-app-with-a-rest-api/using-your-request-to-display-items-in-your-app.md)
-  * [Add a “Create Item” request](quickstart-tutorials/crud-app-with-a-rest-api/add-a-create-item-request.md)
-  * [Create a new todo Item, inline](quickstart-tutorials/crud-app-with-a-rest-api/create-a-new-todo-item-inline.md)
-  * [Mark todo items as “Done”](quickstart-tutorials/crud-app-with-a-rest-api/mark-todo-items-as-done.md)
-  * [Finishing Touches](quickstart-tutorials/crud-app-with-a-rest-api/finishing-touches.md)
+* [Build a CRUD app](guides/crud-app-with-budibase-db/README.md)
+  * [Importing the Vehicles table from a CSV](guides/crud-app-with-budibase-db/importing-the-vehicles-table-from-a-csv.md)
+  * [Creating the Service log table from scratch](guides/crud-app-with-budibase-db/creating-the-service-log-table-from-scratch.md)
+  * [Listing recent Service Logs on the home screen](guides/crud-app-with-budibase-db/listing-recent-service-logs-on-the-home-screen.md)
+  * [Creating a new Service Log with a modal](guides/crud-app-with-budibase-db/creating-a-new-service-log-with-a-modal.md)
+* [Build a CRUD app- SQL](guides/crud-app-with-sql/README.md)
+  * [Connecting to your SQL tables](guides/crud-app-with-sql/connecting-to-your-sql-tables.md)
+  * [Creating Screens from your SQL tables](guides/crud-app-with-sql/creating-screens-from-your-sql-tables.md)
+  * [Using relationships between SQL tables](guides/crud-app-with-sql/using-relationships-between-sql-tables.md)
+  * [Creating a List screen from scratch, using a SQL table](guides/crud-app-with-sql/creating-a-list-screen-from-scratch-using-a-sql-table.md)
+  * [Creating a new log, with a modal](guides/crud-app-with-sql/creating-a-new-log-with-a-modal.md)
+* [Build a CRUD app - REST](guides/crud-app-with-a-rest-api/README.md)
+  * [Adding a REST datasource](guides/crud-app-with-a-rest-api/adding-a-rest-datasource.md)
+  * [Creating a query that Lists Issues](guides/crud-app-with-a-rest-api/creating-a-query-that-lists-issues.md)
+  * [Using your request to display items in your app](guides/crud-app-with-a-rest-api/using-your-request-to-display-items-in-your-app.md)
+  * [Add a “Create Item” request](guides/crud-app-with-a-rest-api/add-a-create-item-request.md)
+  * [Create a new todo Item, inline](guides/crud-app-with-a-rest-api/create-a-new-todo-item-inline.md)
+  * [Mark todo items as “Done”](guides/crud-app-with-a-rest-api/mark-todo-items-as-done.md)
+  * [Finishing Touches](guides/crud-app-with-a-rest-api/finishing-touches.md)
 
 ## Building apps
 
@@ -105,24 +105,21 @@
 
 ## Self-hosting
 
-* [Get started](self-hosting/self-host.md)
-* [Budibase CLI Setup](self-hosting/budibase-cli-setup.md)
+* [Get started](self-hosting/self-host/README.md)
+  * [Budibase CLI Setup](self-hosting/self-host/budibase-cli-setup.md)
 * [Hosting methods](self-hosting/hosting-methods/README.md)
   * [Overview](self-hosting/hosting-methods/overview.md)
   * [DigitalOcean](self-hosting/hosting-methods/digitalocean.md)
   * [Kubernetes (K8S)](self-hosting/hosting-methods/kubernetes.md)
   * [Docker compose](self-hosting/hosting-methods/docker-compose.md)
-* [Hosting settings](self-hosting/hosting-settings.md)
-* [Advanced options](self-hosting/advanced-options/README.md)
-  * [Reverse proxy](self-hosting/advanced-options/reverse-proxy.md)
+* [Hosting settings](self-hosting/hosting-settings/README.md)
+  * [Advanced options](self-hosting/hosting-settings/advanced-options/README.md)
+    * [Reverse proxy](self-hosting/hosting-settings/advanced-options/reverse-proxy.md)
 
 ## References <a href="references-1" id="references-1"></a>
 
 * [Budibase architecture](references-1/budibase-architecture.md)
 * [Deployment information](references-1/deployment-information.md)
-
-## Community
-
-* [Contributing to Budibase](community/contributing-to-budibase/README.md)
-  * [Writing Your Own External Data Connectors](community/contributing-to-budibase/contribute-data-connectors.md)
-* [Troubleshooting](community/troubleshooting.md)
+* [Troubleshooting](references-1/troubleshooting.md)
+* [Contributing to Budibase](references-1/contributing-to-budibase/README.md)
+  * [Writing Your Own External Data Connectors](references-1/contributing-to-budibase/contribute-data-connectors.md)

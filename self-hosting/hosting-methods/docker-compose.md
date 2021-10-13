@@ -28,7 +28,7 @@ Once you have Docker fully installed the rest of the process should be simple! Y
 3. [envoy.yaml](https://raw.githubusercontent.com/Budibase/budibase/master/hosting/envoy.yaml) - this contains configuration information for the proxy service that directs traffic to the correct services inside the Budibase platform.
 
 {% hint style="danger" %}
-If you are planning to run the cluster in a production environment, you will want to update some of the settings before moving on, importantly the `HOSTING_KEY` found in the `hosting.properties`. Information about this can be found [here](../hosting-settings.md).
+If you are planning to run the cluster in a production environment, you will want to update some of the settings before moving on, importantly the `HOSTING_KEY` found in the `hosting.properties`. Information about this can be found [here](../hosting-settings/).
 {% endhint %}
 
 {% hint style="warning" %}
