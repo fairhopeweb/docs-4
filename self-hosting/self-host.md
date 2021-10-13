@@ -38,15 +38,19 @@ We do not generally recommend self-hosting software and managing your own infras
 
 However, the simplest way to get budibase up and running until then is to use our **one click** digitalocean installation. This will create your very own self hosted budibase installation running in digitalocean, without any configuration at all.
 
-{% page-ref page="hosting-methods/digitalocean.md" %}
+{% content-ref url="hosting-methods/digitalocean.md" %}
+[digitalocean.md](hosting-methods/digitalocean.md)
+{% endcontent-ref %}
 
-### \(Recommended\) I want to run and manage budibase with the Budibase CLI.
+### (Recommended) I want to run and manage budibase with the Budibase CLI.
 
 The budibase CLI provides the tools you need to set up, update and manage your budibase installation.
 
 Follow the guide below to install it. You can install the CLI with NPM, or you can download one of the binaries we provide instead.
 
-{% page-ref page="budibase-cli-setup.md" %}
+{% content-ref url="budibase-cli-setup.md" %}
+[budibase-cli-setup.md](budibase-cli-setup.md)
+{% endcontent-ref %}
 
 ### I just want to run and manage budibase myself using Docker.
 
@@ -56,13 +60,17 @@ We do recommend the Budibase CLI setup for production installations, as it conta
 
 If you don't want to install NodeJS or the CLI and just want to jump in with the `docker-compose` files and run budibase yourself using docker, you can follow the guide below.
 
-{% page-ref page="hosting-methods/docker-compose.md" %}
+{% content-ref url="hosting-methods/docker-compose.md" %}
+[docker-compose.md](hosting-methods/docker-compose.md)
+{% endcontent-ref %}
 
 ### Kubernetes
 
-You can run and provision budibase on a kubernetes cluster using our [helm](https://helm.sh/) chart. Follow the guide below to find out how.
+You can run and provision budibase on a kubernetes cluster using our [helm](https://helm.sh) chart. Follow the guide below to find out how.
 
-{% page-ref page="hosting-methods/kubernetes.md" %}
+{% content-ref url="hosting-methods/kubernetes.md" %}
+[kubernetes.md](hosting-methods/kubernetes.md)
+{% endcontent-ref %}
 
 
 
@@ -74,13 +82,13 @@ Your budibase installation should now be up and running. Go to the URL of your n
 
 Every budibase installation must have an **admin user**. This user is responsible for the administration of the budibase installation, and has total control over all aspects of budibase. Enter the admin and password for your admin user, and click "Create admin user".
 
-![](../.gitbook/assets/screenshot-2021-05-21-at-10.27.37%20%281%29.png)
+![](<../.gitbook/assets/screenshot-2021-05-21-at-10.27.37 (1).png>)
 
 You will then be asked to log in with your new admin user.
 
 ![](../.gitbook/assets/screenshot-2021-05-21-at-10.42.48.png)
 
-After you log in, you will be taken to the budibase **portal.** The portal is where budibase users manage their apps, configuration settings, and much more.
+After you log in, you will be taken to the budibase **portal. **The portal is where budibase users manage their apps, configuration settings, and much more.
 
 ### Creating Your First App
 
@@ -94,7 +102,7 @@ There are a few things however, that will enhance your budibase experience.
 
 Set up email/SMTP [here](../building-apps/admin-and-management/email.md).
 
-#### \(Advanced\) HTTPS/Reverse Proxy Configuration
+#### (Advanced) HTTPS/Reverse Proxy Configuration
 
 Set up NGINX or caddy to sit in front of your budibase installation [here](advanced-options/reverse-proxy.md).
 
@@ -107,4 +115,3 @@ If you want to receive those sweet, sweet updates. You can update your budibase 
 ```bash
 budi hosting --update 
 ```
-

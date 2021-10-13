@@ -1,5 +1,5 @@
 ---
-description: 'This topic describes the number data types, supported in Budibase'
+description: This topic describes the number data types, supported in Budibase
 ---
 
 # Number
@@ -17,9 +17,9 @@ The process for creating a number column takes a few seconds.
 3. Choose Number as your data type
 4. Give it a min of 1, and a max of 5
 5. Click Save Column
-6. Add data to your new column by [adding rows]()
+6. Add data to your new column by [adding rows](broken-reference)
 
-#### 
+####
 
 #### Using the number data type
 
@@ -30,6 +30,4 @@ In the Design section, you can pull in information from your number column, usin
 * A number column can only include numbers. 
 * It cannot include punctuation marks, letters.
 * Telephone numbers need to be stored as a text/string data type because they often begin with a 0 and if they were stored as an integer then the leading zero would be discounted.
-
-
 

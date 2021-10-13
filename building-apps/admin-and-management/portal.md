@@ -4,7 +4,7 @@ description: The budibase portal is the hub for your budibase experience.
 
 # Portal
 
-When you sign in to budibase, you will be presented with the budibase portal. Depending on your user role, you will see either the **admin portal**, **development portal** or the **standard portal.**
+When you sign in to budibase, you will be presented with the budibase portal. Depending on your user role, you will see either the **admin portal**, **development portal **or the **standard portal.**
 
 ### Admin Portal
 
@@ -25,4 +25,3 @@ Developers can build, deploy and manage applications. They do not have access to
 In the standard portal. You can only see the list of deployed applications that you have access to. You will not see the user administration options, dev apps or deployment options that are available in development or admin mode. The standard portal acts as a landing page or dashboard for users to use budibase apps created by builder users.
 
 ![Budibase Standard Portal](../../.gitbook/assets/screenshot-2021-05-25-at-07.41.11.png)
-

@@ -12,16 +12,16 @@ Budibase is an open-source low-code platform for building internal applications,
 
 No time, no worries. Get started quickly with Budibase using the following tutorials:
 
-{% content-ref url="guides/crud-app-with-budibase-db/" %}
-[crud-app-with-budibase-db](guides/crud-app-with-budibase-db/)
+{% content-ref url="quickstart-tutorials/crud-app-with-budibase-db/" %}
+[crud-app-with-budibase-db](quickstart-tutorials/crud-app-with-budibase-db/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/crud-app-with-sql/" %}
-[crud-app-with-sql](guides/crud-app-with-sql/)
+{% content-ref url="quickstart-tutorials/crud-app-with-sql/" %}
+[crud-app-with-sql](quickstart-tutorials/crud-app-with-sql/)
 {% endcontent-ref %}
 
-{% content-ref url="guides/crud-app-with-a-rest-api/" %}
-[crud-app-with-a-rest-api](guides/crud-app-with-a-rest-api/)
+{% content-ref url="quickstart-tutorials/crud-app-with-a-rest-api/" %}
+[crud-app-with-a-rest-api](quickstart-tutorials/crud-app-with-a-rest-api/)
 {% endcontent-ref %}
 
 ## 🌐 Get started with self-hosting

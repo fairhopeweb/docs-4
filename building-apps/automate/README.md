@@ -6,7 +6,6 @@ Once configured your automation will run as part of your app in the Budibase hos
 
 ## Getting started
 
-To get started with Automations click into the _Automate_ tab in the builder, from here you will see the button to "_Create new automation_", this will ask you for a name for your automation - you're now ready to get started.
+To get started with Automations click into the _Automate _tab in the builder, from here you will see the button to "_Create new automation_", this will ask you for a name for your automation - you're now ready to get started.
 
-The next sections will cover the three major components of an automation, **triggers**, **logic** and **actions**. It will also cover the contextually aware inputs of the system, allowing chaining of the various automation steps together.
-
+The next sections will cover the three major components of an automation, **triggers**, **logic **and **actions**. It will also cover the contextually aware inputs of the system, allowing chaining of the various automation steps together.

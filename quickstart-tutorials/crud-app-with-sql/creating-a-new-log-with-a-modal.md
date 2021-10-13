@@ -1,6 +1,6 @@
 # Creating a new log, with a modal
 
-Next, we are going to add a “Create new” button to our Service Log. We want to enter the new details into a form, inside a modal.  
+Next, we are going to add a “Create new” button to our Service Log. We want to enter the new details into a form, inside a modal.\
 
 
 First, we will create and configure a button.
@@ -29,6 +29,4 @@ Next, we will build the screen for “New Service Log”.
 
 {% embed url="https://youtu.be/RN3ZbX5SN9Q" %}
 
-  
-
-
+\

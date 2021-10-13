@@ -22,19 +22,28 @@ Forms automatically validate their fields if a form schema has been set, and the
 
 ### Form Building Blocks
 
-{% page-ref page="form-component.md" %}
+{% content-ref url="form-component.md" %}
+[form-component.md](form-component.md)
+{% endcontent-ref %}
 
-{% page-ref page="field-groups.md" %}
+{% content-ref url="field-groups.md" %}
+[field-groups.md](field-groups.md)
+{% endcontent-ref %}
 
-{% page-ref page="fields.md" %}
+{% content-ref url="fields.md" %}
+[fields.md](fields.md)
+{% endcontent-ref %}
 
 ### Video Guides
 
-{% embed url="https://www.youtube.com/watch?v=MduKMv3JpQo" caption="Using a form to create rows in a table" %}
+{% embed url="https://www.youtube.com/watch?v=MduKMv3JpQo" %}
+Using a form to create rows in a table
+{% endembed %}
 
-{% embed url="https://www.youtube.com/watch?v=MLjFZ4VZ6Uk" caption="Using a form to filter and search lists" %}
+{% embed url="https://www.youtube.com/watch?v=MLjFZ4VZ6Uk" %}
+Using a form to filter and search lists
+{% endembed %}
 
 
 
  
-
