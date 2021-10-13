@@ -16,7 +16,7 @@ In budibase, static files are stored under the **Attachment** field type. Attach
 
 ## Uploading Attachments
 
-When you create a new [row]() in your table by clicking the "Create New Row" button above the backend data table, you will be presented with a dropzone component for your attachment field that you can use to upload files.
+When you create a new [row](broken-reference) in your table by clicking the "Create New Row" button above the backend data table, you will be presented with a dropzone component for your attachment field that you can use to upload files.
 
 {% hint style="info" %}
 A **Dropzone** component is a commonly used file upload component in web applications. It allows you to drop files from your computer into the dropzone area, or to navigate your file system to find the file that you want.
@@ -27,4 +27,3 @@ Once you have selected your files, image files are processed in the background a
 Your attachments will be displayed like any regular field - inside grids and tables, forms and more budibase components.
 
 To see attachments in action, take a look at the following example section. We will build a small app for storing country data using budibase attachments.
-

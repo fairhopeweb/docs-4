@@ -2,6 +2,30 @@
 
 * [👋 Introduction](README.md)
 
+## Quick starts
+
+***
+
+* [Internal DB](crud-app-with-budibase-db/README.md)
+  * [Importing the Vehicles table from a CSV](crud-app-with-budibase-db/importing-the-vehicles-table-from-a-csv.md)
+  * [Creating the Service log table from scratch](crud-app-with-budibase-db/creating-the-service-log-table-from-scratch.md)
+  * [Listing recent Service Logs on the home screen](crud-app-with-budibase-db/listing-recent-service-logs-on-the-home-screen.md)
+  * [Creating a new Service Log with a modal](crud-app-with-budibase-db/creating-a-new-service-log-with-a-modal.md)
+* [SQL](crud-app-with-sql/README.md)
+  * [Connecting to your SQL tables](crud-app-with-sql/connecting-to-your-sql-tables.md)
+  * [Creating Screens from your SQL tables](crud-app-with-sql/creating-screens-from-your-sql-tables.md)
+  * [Using relationships between SQL tables](crud-app-with-sql/using-relationships-between-sql-tables.md)
+  * [Creating a List screen from scratch, using a SQL table](crud-app-with-sql/creating-a-list-screen-from-scratch-using-a-sql-table.md)
+  * [Creating a new log, with a modal](crud-app-with-sql/creating-a-new-log-with-a-modal.md)
+* [REST API](crud-app-with-a-rest-api/README.md)
+  * [Adding a REST datasource](crud-app-with-a-rest-api/adding-a-rest-datasource.md)
+  * [Creating a query that Lists Issues](crud-app-with-a-rest-api/creating-a-query-that-lists-issues.md)
+  * [Using your request to display items in your app](crud-app-with-a-rest-api/using-your-request-to-display-items-in-your-app.md)
+  * [Add a “Create Item” request](crud-app-with-a-rest-api/add-a-create-item-request.md)
+  * [Create a new todo Item, inline](crud-app-with-a-rest-api/create-a-new-todo-item-inline.md)
+  * [Mark todo items as “Done”](crud-app-with-a-rest-api/mark-todo-items-as-done.md)
+  * [Finishing Touches](crud-app-with-a-rest-api/finishing-touches.md)
+
 ## Building apps
 
 * [Data](building-apps/data/README.md)
@@ -13,7 +37,7 @@
   * [Data Types](building-apps/data/data-types/README.md)
     * [Text](building-apps/data/data-types/text.md)
     * [Number](building-apps/data/data-types/number.md)
-    * [True/False \(Boolean\)](building-apps/data/data-types/yes-no-boolean.md)
+    * [True/False (Boolean)](building-apps/data/data-types/yes-no-boolean.md)
     * [Date/time](building-apps/data/data-types/date.md)
     * [Options](building-apps/data/data-types/options.md)
     * [Attachments](building-apps/data/data-types/attachments/README.md)
@@ -50,7 +74,7 @@
   * [Actions](building-apps/design/actions.md)
   * [App State](building-apps/design/app-state.md)
   * [Conditions](building-apps/design/conditions.md)
-  * [App theming \(coming soon\)](building-apps/design/themes.md)
+  * [App theming (coming soon)](building-apps/design/themes.md)
   * [Handling Data](building-apps/design/handling-data/README.md)
     * [Search/Filter Data](building-apps/design/handling-data/filtering-data.md)
 * [Automate](building-apps/automate/README.md)
@@ -80,25 +104,6 @@
 * [Add search](guides/add-search-to-a-table.md)
 * [Add filtering](guides/add-a-dropdown-filter-to-a-table.md)
 * [Create public & private screens](guides/creating-public-and-private-screens.md)
-* [CRUD App with Budibase DB](guides/crud-app-with-budibase-db/README.md)
-  * [Importing the Vehicles table from a CSV](guides/crud-app-with-budibase-db/importing-the-vehicles-table-from-a-csv.md)
-  * [Creating the Service log table from scratch](guides/crud-app-with-budibase-db/creating-the-service-log-table-from-scratch.md)
-  * [Listing recent Service Logs on the home screen](guides/crud-app-with-budibase-db/listing-recent-service-logs-on-the-home-screen.md)
-  * [Creating a new Service Log with a modal](guides/crud-app-with-budibase-db/creating-a-new-service-log-with-a-modal.md)
-* [CRUD App with SQL](guides/crud-app-with-sql/README.md)
-  * [Connecting to your SQL tables](guides/crud-app-with-sql/connecting-to-your-sql-tables.md)
-  * [Creating Screens from your SQL tables](guides/crud-app-with-sql/creating-screens-from-your-sql-tables.md)
-  * [Using relationships between SQL tables](guides/crud-app-with-sql/using-relationships-between-sql-tables.md)
-  * [Creating a List screen from scratch, using a SQL table](guides/crud-app-with-sql/creating-a-list-screen-from-scratch-using-a-sql-table.md)
-  * [Creating a new log, with a modal](guides/crud-app-with-sql/creating-a-new-log-with-a-modal.md)
-* [CRUD App with a REST API](guides/crud-app-with-a-rest-api/README.md)
-  * [Adding a REST datasource](guides/crud-app-with-a-rest-api/adding-a-rest-datasource.md)
-  * [Creating a query that Lists Issues](guides/crud-app-with-a-rest-api/creating-a-query-that-lists-issues.md)
-  * [Using your request to display items in your app](guides/crud-app-with-a-rest-api/using-your-request-to-display-items-in-your-app.md)
-  * [Add a “Create Item” request](guides/crud-app-with-a-rest-api/add-a-create-item-request.md)
-  * [Create a new todo Item, inline](guides/crud-app-with-a-rest-api/create-a-new-todo-item-inline.md)
-  * [Mark todo items as “Done”](guides/crud-app-with-a-rest-api/mark-todo-items-as-done.md)
-  * [Finishing Touches](guides/crud-app-with-a-rest-api/finishing-touches.md)
 
 ## Self-hosting
 
@@ -107,13 +112,13 @@
 * [Hosting methods](self-hosting/hosting-methods/README.md)
   * [Overview](self-hosting/hosting-methods/overview.md)
   * [DigitalOcean](self-hosting/hosting-methods/digitalocean.md)
-  * [Kubernetes \(K8S\)](self-hosting/hosting-methods/kubernetes.md)
+  * [Kubernetes (K8S)](self-hosting/hosting-methods/kubernetes.md)
   * [Docker compose](self-hosting/hosting-methods/docker-compose.md)
 * [Hosting settings](self-hosting/hosting-settings.md)
 * [Advanced options](self-hosting/advanced-options/README.md)
   * [Reverse proxy](self-hosting/advanced-options/reverse-proxy.md)
 
-## References <a id="references-1"></a>
+## References <a href="references-1" id="references-1"></a>
 
 * [Budibase architecture](references-1/budibase-architecture.md)
 * [Deployment information](references-1/deployment-information.md)
@@ -123,4 +128,3 @@
 * [Contributing to Budibase](community/contributing-to-budibase/README.md)
   * [Writing Your Own External Data Connectors](community/contributing-to-budibase/contribute-data-connectors.md)
 * [Troubleshooting](community/troubleshooting.md)
-

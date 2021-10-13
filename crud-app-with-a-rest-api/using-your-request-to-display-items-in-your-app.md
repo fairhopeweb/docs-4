@@ -10,6 +10,4 @@ Now that we have created our query, we want to display these items in our app.
 
 {% embed url="https://youtu.be/Lderw0KJx2I" %}
 
-  
-
-
+\

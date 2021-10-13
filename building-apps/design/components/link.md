@@ -22,11 +22,9 @@ To add a Link to your designs:
 
 ## How to style your Link
 
-The Link button accepts the majority of properties within the Design panel. A common style update to the Link component is to remove the underline. To do this, click `Design` , then open the Typography settings,  reset the **Decoration** to `None` . This may already be on None. If it is, reselect None and it should work.
+The Link button accepts the majority of properties within the Design panel. A common style update to the Link component is to remove the underline. To do this, click `Design `, then open the Typography settings,  reset the **Decoration** to `None` . This may already be on None. If it is, reselect None and it should work.
 
 {% embed url="https://www.loom.com/share/9ecc1011632b4429bbe3687c4802a7b6" %}
-
-
 
 
 

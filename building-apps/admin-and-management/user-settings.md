@@ -22,9 +22,8 @@ Here, you can update the password for your own user account.
 
 ![](../../.gitbook/assets/screenshot-2021-05-25-at-07.38.05.png)
 
-### Toggle Developer Mode \(Builder/Admin Users Only\)
+### Toggle Developer Mode (Builder/Admin Users Only)
 
 As a builder/admin, you can switch between viewing the portal in **developer mode** and **standard mode**. Find out more about the different budibase portal modes.
 
-[Find out more about the budibase portal modes.]()
-
+[Find out more about the budibase portal modes.](broken-reference)
