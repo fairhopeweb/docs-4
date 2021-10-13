@@ -10,7 +10,7 @@ Budibase is an open-source low-code platform for building internal applications,
 
 ## Quickstart tutorials
 
-No time, no worries. Get started quickly with Budibase use the following tutorials:
+No time, no worries. Get started quickly with Budibase using the following tutorials:
 
 {% content-ref url="guides/crud-app-with-budibase-db/" %}
 [crud-app-with-budibase-db](guides/crud-app-with-budibase-db/)
