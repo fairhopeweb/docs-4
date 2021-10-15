@@ -117,11 +117,12 @@
 * [Hosting settings](self-hosting/hosting-settings/README.md)
   * [Advanced options](self-hosting/hosting-settings/advanced-options/README.md)
     * [Reverse proxy](self-hosting/hosting-settings/advanced-options/reverse-proxy.md)
+* [Accessing CouchDB](self-hosting/accessing-couchdb.md)
+* [Accessing MinIO](self-hosting/accessing-minio.md)
 
 ## References <a href="references-1" id="references-1"></a>
 
-* [Budibase architecture](references-1/budibase-architecture/README.md)
-  * [Accessing CouchDB](references-1/budibase-architecture/accessing-couchdb.md)
+* [Budibase architecture](references-1/budibase-architecture.md)
 * [Deployment information](references-1/deployment-information.md)
 * [Troubleshooting](references-1/troubleshooting.md)
 * [Contributing to Budibase](references-1/contributing-to-budibase/README.md)

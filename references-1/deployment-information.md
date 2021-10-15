@@ -10,7 +10,7 @@ A common question asked about deployment is how does it work and where does it g
 
 #### Self hosted
 
-In the case of a self hosted deployment the answer is very simple, the app, attachments and all data will be uploaded to the self hosted platform, this data will be spread between your MinIO and CouchDB services, being served by the Budibase apps service. For more information on this please check out the hosting architecture page, [found here](budibase-architecture/).
+In the case of a self hosted deployment the answer is very simple, the app, attachments and all data will be uploaded to the self hosted platform, this data will be spread between your MinIO and CouchDB services, being served by the Budibase apps service. For more information on this please check out the hosting architecture page, [found here](budibase-architecture.md).
 
 ### How does deployment work
 
