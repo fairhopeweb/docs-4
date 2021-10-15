@@ -102,6 +102,7 @@
 * [Add search](guides/add-search-to-a-table.md)
 * [Add filtering](guides/add-a-dropdown-filter-to-a-table.md)
 * [Create public & private screens](guides/creating-public-and-private-screens.md)
+* [Writing a custom SQL query](guides/writing-a-custom-sql-query.md)
 
 ## Self-hosting
 
