@@ -18,7 +18,7 @@ First, we will setup our query, with parameters. You can see my query below
 
 5\. Use your parameters inside your query. You will need to format your date, depending on how your SQL database expects it. I am using postgres, so need to format my date in the `year-month-day` format: `{{ date startDate “YYYY-MM-DD” }}`
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 Now, we will set up our app to run this query. I first setup my screen with the necessary components: 
 

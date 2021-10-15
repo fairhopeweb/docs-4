@@ -47,6 +47,7 @@
     * [Filters](building-apps/data/views/filters.md)
     * [Calculations](building-apps/data/views/calculations.md)
     * [Groups](building-apps/data/views/groups.md)
+  * [Transformers](building-apps/data/transformers.md)
 * [Design](building-apps/design/README.md)
   * [Screens](building-apps/design/screens.md)
   * [Layouts](building-apps/design/layouts.md)
@@ -119,7 +120,8 @@
 
 ## References <a href="references-1" id="references-1"></a>
 
-* [Budibase architecture](references-1/budibase-architecture.md)
+* [Budibase architecture](references-1/budibase-architecture/README.md)
+  * [Accessing CouchDB](references-1/budibase-architecture/accessing-couchdb.md)
 * [Deployment information](references-1/deployment-information.md)
 * [Troubleshooting](references-1/troubleshooting.md)
 * [Contributing to Budibase](references-1/contributing-to-budibase/README.md)
