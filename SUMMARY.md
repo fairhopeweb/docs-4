@@ -104,6 +104,7 @@
 * [Add filtering](guides/add-a-dropdown-filter-to-a-table.md)
 * [Create public & private screens](guides/creating-public-and-private-screens.md)
 * [Writing a custom SQL query](guides/writing-a-custom-sql-query.md)
+* [Create a child record from the parent](guides/create-a-child-record-from-the-parent.md)
 
 ## Self-hosting
 
