@@ -8,7 +8,9 @@ description: Configure SSO using OpenID Connect and Azure AD
 
 To become familiar with OpenID Connect in Budibase, see:
 
-{% page-ref page="oidc.md" %}
+{% content-ref url="oidc.md" %}
+[oidc.md](oidc.md)
+{% endcontent-ref %}
 
 ## Configuration
 
@@ -28,7 +30,7 @@ Ignore the Redirect URI for now.
 
 **Configuration URL**
 
-Visit 'Overview' &gt; 'Endpoints'.
+Visit 'Overview' > 'Endpoints'.
 
 ![](../../../.gitbook/assets/configurationurl0.png)
 
@@ -42,7 +44,7 @@ Visit 'Overview'
 
 ![](../../../.gitbook/assets/clientid.png)
 
-Use the **Application \(client\) ID** field as your Client ID in Budibase.
+Use the **Application (client) ID** field as your Client ID in Budibase.
 
 **Client Secret**
 
@@ -54,11 +56,10 @@ View your newly created secret
 
 ![](../../../.gitbook/assets/clientsecret2.png)
 
-Use the **Value** field as your Client ID in Budibase.
+Use the **Value** field as your Client Secret in Budibase.
 
 ### Add your callback URL
 
 Visit 'Authentication' and enter your callback URL
 
-![](../../../.gitbook/assets/callback%20%282%29.png)
-
+![](<../../../.gitbook/assets/callback (2).png>)
