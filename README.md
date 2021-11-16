@@ -6,7 +6,7 @@ description: Welcome to the Budibase documentation.
 
 Budibase is an open-source low-code platform for building internal applications, such as admin panels, internal tools, client portals, and more. The Budibase documentation site will explain how to set up, use, and contribute to Budibase. Welcome to the community Budi!
 
-![](.gitbook/assets/scene\_4\_web_version_xxjyip.png)
+![](.gitbook/assets/scene\_4\_web\_version\_xxjyip.png)
 
 ## 🚀 Quickstart tutorials
 
@@ -32,9 +32,9 @@ Click the link below to find out how to self-host Budibase.
 [self-host](self-hosting/self-host/)
 {% endcontent-ref %}
 
-## [🦸](https://emojikeyboard.org/copy/Superhero_Emoji\_%F0%9F%A6%B8) Chat with our community
+## [🦸](https://emojikeyboard.org/copy/Superhero\_Emoji\_%F0%9F%A6%B8) Chat with our community
 
-If you have questions about anything related to Next.js, you're always welcome to ask our community on [Github Discussions](https://github.com/Budibase/budibase/discussions).
+If you have questions about anything related to Budibase, you're always welcome to ask our community on [Github Discussions](https://github.com/Budibase/budibase/discussions).
 
 ## 👐 Make a contribution
 
