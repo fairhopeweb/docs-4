@@ -106,6 +106,7 @@
 * [Writing a custom SQL query](guides/writing-a-custom-sql-query.md)
 * [Create a child record from the parent](guides/create-a-child-record-from-the-parent.md)
 * [Items assigned to me](guides/items-assigned-to-me.md)
+* [Master-detail](guides/master-detail.md)
 
 ## Self-hosting
 
